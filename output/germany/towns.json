@@ -1,0 +1,962 @@
+[
+  {
+    "name": "Berlin",
+    "osm_id": 240109189,
+    "lon": 13.3951309,
+    "lat": 52.5173885,
+    "x": 3572.0,
+    "y": 2756.0,
+    "game_offset_m": 0.0,
+    "population_reference": 3769962,
+    "population_date": "unknown",
+    "starting_capacities": [
+      754,
+      754,
+      754
+    ]
+  },
+  {
+    "name": "Hamburg",
+    "osm_id": 20833623,
+    "lon": 10.0013165,
+    "lat": 53.5501721,
+    "x": -484.0,
+    "y": 4788.0,
+    "game_offset_m": 93.3,
+    "population_reference": 1862565,
+    "population_date": "2024-12-31",
+    "starting_capacities": [
+      373,
+      373,
+      373
+    ]
+  },
+  {
+    "name": "München",
+    "osm_id": 1700534808,
+    "lon": 11.5753822,
+    "lat": 48.1371079,
+    "x": 1556.0,
+    "y": -5992.0,
+    "game_offset_m": 0.0,
+    "population_reference": 1505036,
+    "population_date": "unknown",
+    "starting_capacities": [
+      301,
+      301,
+      301
+    ]
+  },
+  {
+    "name": "Köln",
+    "osm_id": 20953083,
+    "lon": 6.959974,
+    "lat": 50.938361,
+    "x": -4416.0,
+    "y": -404.0,
+    "game_offset_m": 81.6,
+    "population_reference": 1069200,
+    "population_date": "unknown",
+    "starting_capacities": [
+      214,
+      214,
+      214
+    ]
+  },
+  {
+    "name": "Frankfurt am Main",
+    "osm_id": 27418664,
+    "lon": 8.6820917,
+    "lat": 50.1106444,
+    "x": -2212.0,
+    "y": -2028.0,
+    "game_offset_m": 64.0,
+    "population_reference": 701350,
+    "population_date": "unknown",
+    "starting_capacities": [
+      140,
+      140,
+      140
+    ]
+  },
+  {
+    "name": "Düsseldorf",
+    "osm_id": 240126753,
+    "lon": 6.7763137,
+    "lat": 51.2254018,
+    "x": -4460.0,
+    "y": 188.0,
+    "game_offset_m": 80.0,
+    "population_reference": 653253,
+    "population_date": "unknown",
+    "starting_capacities": [
+      131,
+      131,
+      131
+    ]
+  },
+  {
+    "name": "Leipzig",
+    "osm_id": 21687149,
+    "lon": 12.3747329,
+    "lat": 51.3406321,
+    "x": 2416.0,
+    "y": 376.0,
+    "game_offset_m": 0.0,
+    "population_reference": 628718,
+    "population_date": "2023-12-31",
+    "starting_capacities": [
+      126,
+      126,
+      126
+    ]
+  },
+  {
+    "name": "Stuttgart",
+    "osm_id": 1674026139,
+    "lon": 9.1800132,
+    "lat": 48.7784485,
+    "x": -1604.0,
+    "y": -4740.0,
+    "game_offset_m": 0.0,
+    "population_reference": 613392,
+    "population_date": "unknown",
+    "starting_capacities": [
+      123,
+      123,
+      123
+    ]
+  },
+  {
+    "name": "Dortmund",
+    "osm_id": 25293125,
+    "lon": 7.4652789,
+    "lat": 51.5142273,
+    "x": -3664.0,
+    "y": 728.0,
+    "game_offset_m": 0.0,
+    "population_reference": 600933,
+    "population_date": "unknown",
+    "starting_capacities": [
+      120,
+      120,
+      120
+    ]
+  },
+  {
+    "name": "Dresden",
+    "osm_id": 20833613,
+    "lon": 13.7381437,
+    "lat": 51.0493286,
+    "x": 4136.0,
+    "y": -176.0,
+    "game_offset_m": 48.0,
+    "population_reference": 572240,
+    "population_date": "unknown",
+    "starting_capacities": [
+      114,
+      114,
+      114
+    ]
+  },
+  {
+    "name": "Essen",
+    "osm_id": 27350363,
+    "lon": 7.0158171,
+    "lat": 51.4582235,
+    "x": -4224.0,
+    "y": 636.0,
+    "game_offset_m": 0.0,
+    "population_reference": 569884,
+    "population_date": "unknown",
+    "starting_capacities": [
+      114,
+      114,
+      114
+    ]
+  },
+  {
+    "name": "Hannover",
+    "osm_id": 1651888734,
+    "lon": 9.7385532,
+    "lat": 52.3744779,
+    "x": -848.0,
+    "y": 2376.0,
+    "game_offset_m": 0.0,
+    "population_reference": 555372,
+    "population_date": "2023-09-30",
+    "starting_capacities": [
+      111,
+      111,
+      111
+    ]
+  },
+  {
+    "name": "Bremen",
+    "osm_id": 20982927,
+    "lon": 8.8071646,
+    "lat": 53.0758196,
+    "x": -1988.0,
+    "y": 3636.0,
+    "game_offset_m": 147.5,
+    "population_reference": 551415,
+    "population_date": "unknown",
+    "starting_capacities": [
+      110,
+      110,
+      110
+    ]
+  },
+  {
+    "name": "Nürnberg",
+    "osm_id": 1569338041,
+    "lon": 11.077298,
+    "lat": 49.453872,
+    "x": 860.0,
+    "y": -3400.0,
+    "game_offset_m": 0.0,
+    "population_reference": 531159,
+    "population_date": "2023-12-31",
+    "starting_capacities": [
+      106,
+      106,
+      106
+    ]
+  },
+  {
+    "name": "Bonn",
+    "osm_id": 26373169,
+    "lon": 7.1024635,
+    "lat": 50.7352621,
+    "x": -4236.0,
+    "y": -848.0,
+    "game_offset_m": 80.0,
+    "population_reference": 335913,
+    "population_date": "2024-03-31",
+    "starting_capacities": [
+      67,
+      67,
+      67
+    ]
+  },
+  {
+    "name": "Bielefeld",
+    "osm_id": 240037709,
+    "lon": 8.531007,
+    "lat": 52.0191005,
+    "x": -2328.0,
+    "y": 1692.0,
+    "game_offset_m": 0.0,
+    "population_reference": 328864,
+    "population_date": "unknown",
+    "starting_capacities": [
+      66,
+      66,
+      66
+    ]
+  },
+  {
+    "name": "Münster",
+    "osm_id": 273510436,
+    "lon": 7.6251879,
+    "lat": 51.9625101,
+    "x": -3440.0,
+    "y": 1608.0,
+    "game_offset_m": 0.0,
+    "population_reference": 314332,
+    "population_date": "unknown",
+    "starting_capacities": [
+      63,
+      63,
+      63
+    ]
+  },
+  {
+    "name": "Mannheim",
+    "osm_id": 240060919,
+    "lon": 8.4673098,
+    "lat": 49.4892913,
+    "x": -2444.0,
+    "y": -3320.0,
+    "game_offset_m": 64.0,
+    "population_reference": 310000,
+    "population_date": "unknown",
+    "starting_capacities": [
+      62,
+      62,
+      62
+    ]
+  },
+  {
+    "name": "Augsburg",
+    "osm_id": 1559853166,
+    "lon": 10.8979522,
+    "lat": 48.3690341,
+    "x": 652.0,
+    "y": -5548.0,
+    "game_offset_m": 0.0,
+    "population_reference": 301033,
+    "population_date": "unknown",
+    "starting_capacities": [
+      60,
+      60,
+      60
+    ]
+  },
+  {
+    "name": "Wiesbaden",
+    "osm_id": 240028377,
+    "lon": 8.2416556,
+    "lat": 50.0820384,
+    "x": -2772.0,
+    "y": -2140.0,
+    "game_offset_m": 0.0,
+    "population_reference": 299946,
+    "population_date": "2013",
+    "starting_capacities": [
+      60,
+      60,
+      60
+    ]
+  },
+  {
+    "name": "Karlsruhe",
+    "osm_id": 240120582,
+    "lon": 8.4034195,
+    "lat": 49.0068705,
+    "x": -2612.0,
+    "y": -4272.0,
+    "game_offset_m": 0.0,
+    "population_reference": 283959,
+    "population_date": "unknown",
+    "starting_capacities": [
+      57,
+      57,
+      57
+    ]
+  },
+  {
+    "name": "Mönchengladbach",
+    "osm_id": 240062631,
+    "lon": 6.4353792,
+    "lat": 51.1947131,
+    "x": -4968.0,
+    "y": 148.0,
+    "game_offset_m": 0.0,
+    "population_reference": 255430,
+    "population_date": "unknown",
+    "starting_capacities": [
+      51,
+      51,
+      51
+    ]
+  },
+  {
+    "name": "Braunschweig",
+    "osm_id": 30137197,
+    "lon": 10.5236066,
+    "lat": 52.2646577,
+    "x": 104.0,
+    "y": 2160.0,
+    "game_offset_m": 0.0,
+    "population_reference": 252962,
+    "population_date": "2024-12-31",
+    "starting_capacities": [
+      51,
+      51,
+      51
+    ]
+  },
+  {
+    "name": "Kiel",
+    "osm_id": 24487450,
+    "lon": 10.135555,
+    "lat": 54.3227085,
+    "x": -408.0,
+    "y": 6236.0,
+    "game_offset_m": 32.0,
+    "population_reference": 246306,
+    "population_date": "unknown",
+    "starting_capacities": [
+      49,
+      49,
+      49
+    ]
+  },
+  {
+    "name": "Magdeburg",
+    "osm_id": 33997995,
+    "lon": 11.6400789,
+    "lat": 52.1314783,
+    "x": 1404.0,
+    "y": 1948.0,
+    "game_offset_m": 71.6,
+    "population_reference": 244329,
+    "population_date": "unknown",
+    "starting_capacities": [
+      49,
+      49,
+      49
+    ]
+  },
+  {
+    "name": "Chemnitz",
+    "osm_id": 20830918,
+    "lon": 12.918914,
+    "lat": 50.8323531,
+    "x": 3128.0,
+    "y": -604.0,
+    "game_offset_m": 0.0,
+    "population_reference": 243089,
+    "population_date": "unknown",
+    "starting_capacities": [
+      49,
+      49,
+      49
+    ]
+  },
+  {
+    "name": "Aachen",
+    "osm_id": 240041315,
+    "lon": 6.083862,
+    "lat": 50.776351,
+    "x": -5448.0,
+    "y": -660.0,
+    "game_offset_m": 0.0,
+    "population_reference": 241683,
+    "population_date": "unknown",
+    "starting_capacities": [
+      48,
+      48,
+      48
+    ]
+  },
+  {
+    "name": "Halle (Saale)",
+    "osm_id": 1667005776,
+    "lon": 11.9712985,
+    "lat": 51.4824354,
+    "x": 1908.0,
+    "y": 644.0,
+    "game_offset_m": 0.0,
+    "population_reference": 231565,
+    "population_date": "unknown",
+    "starting_capacities": [
+      46,
+      46,
+      46
+    ]
+  },
+  {
+    "name": "Freiburg im Breisgau",
+    "osm_id": 240092010,
+    "lon": 7.8494005,
+    "lat": 47.9960901,
+    "x": -3392.0,
+    "y": -6252.0,
+    "game_offset_m": 0.0,
+    "population_reference": 220286,
+    "population_date": "unknown",
+    "starting_capacities": [
+      44,
+      44,
+      44
+    ]
+  },
+  {
+    "name": "Erfurt",
+    "osm_id": 240038130,
+    "lon": 11.0287364,
+    "lat": 50.9777974,
+    "x": 756.0,
+    "y": -380.0,
+    "game_offset_m": 0.0,
+    "population_reference": 213332,
+    "population_date": "unknown",
+    "starting_capacities": [
+      43,
+      43,
+      43
+    ]
+  },
+  {
+    "name": "Lübeck",
+    "osm_id": 25327151,
+    "lon": 10.684738,
+    "lat": 53.866444,
+    "x": 272.0,
+    "y": 5336.0,
+    "game_offset_m": 0.0,
+    "population_reference": 212958,
+    "population_date": "unknown",
+    "starting_capacities": [
+      43,
+      43,
+      43
+    ]
+  },
+  {
+    "name": "Rostock",
+    "osm_id": 1684321651,
+    "lon": 12.1400211,
+    "lat": 54.0886707,
+    "x": 1964.0,
+    "y": 5812.0,
+    "game_offset_m": 0.0,
+    "population_reference": 207830,
+    "population_date": "unknown",
+    "starting_capacities": [
+      42,
+      42,
+      42
+    ]
+  },
+  {
+    "name": "Kassel",
+    "osm_id": 1583294719,
+    "lon": 9.4978479,
+    "lat": 51.3157833,
+    "x": -1156.0,
+    "y": 280.0,
+    "game_offset_m": 0.0,
+    "population_reference": 204021,
+    "population_date": "unknown",
+    "starting_capacities": [
+      41,
+      41,
+      41
+    ]
+  },
+  {
+    "name": "Potsdam",
+    "osm_id": 1695218178,
+    "lon": 13.0591397,
+    "lat": 52.4009309,
+    "x": 3176.0,
+    "y": 2508.0,
+    "game_offset_m": 0.0,
+    "population_reference": 178089,
+    "population_date": "unknown",
+    "starting_capacities": [
+      36,
+      36,
+      36
+    ]
+  },
+  {
+    "name": "Saarbrücken",
+    "osm_id": 1530957491,
+    "lon": 6.996379,
+    "lat": 49.234362,
+    "x": -4428.0,
+    "y": -3764.0,
+    "game_offset_m": 0.0,
+    "population_reference": 177201,
+    "population_date": "unknown",
+    "starting_capacities": [
+      35,
+      35,
+      35
+    ]
+  },
+  {
+    "name": "Hamm",
+    "osm_id": 2069498986,
+    "lon": 7.8191185,
+    "lat": 51.681281,
+    "x": -3216.0,
+    "y": 1044.0,
+    "game_offset_m": 0.0,
+    "population_reference": 176048,
+    "population_date": "unknown",
+    "starting_capacities": [
+      35,
+      35,
+      35
+    ]
+  },
+  {
+    "name": "Osnabrück",
+    "osm_id": 240056905,
+    "lon": 8.047635,
+    "lat": 52.2719595,
+    "x": -2904.0,
+    "y": 2204.0,
+    "game_offset_m": 0.0,
+    "population_reference": 167730,
+    "population_date": "unknown",
+    "starting_capacities": [
+      34,
+      34,
+      34
+    ]
+  },
+  {
+    "name": "Oldenburg",
+    "osm_id": 277023297,
+    "lon": 8.2146017,
+    "lat": 53.1389753,
+    "x": -2660.0,
+    "y": 3952.0,
+    "game_offset_m": 32.0,
+    "population_reference": 163830,
+    "population_date": "unknown",
+    "starting_capacities": [
+      33,
+      33,
+      33
+    ]
+  },
+  {
+    "name": "Darmstadt",
+    "osm_id": 240074718,
+    "lon": 8.651177,
+    "lat": 49.872775,
+    "x": -2260.0,
+    "y": -2564.0,
+    "game_offset_m": 0.0,
+    "population_reference": 159631,
+    "population_date": "2021-12-31",
+    "starting_capacities": [
+      32,
+      32,
+      32
+    ]
+  },
+  {
+    "name": "Bad Bramstedt",
+    "osm_id": 240052046,
+    "lon": 9.88333,
+    "lat": 53.9167,
+    "x": -668.0,
+    "y": 5432.0,
+    "game_offset_m": 0.0,
+    "population_reference": 154390,
+    "population_date": "unknown",
+    "starting_capacities": [
+      31,
+      31,
+      31
+    ]
+  },
+  {
+    "name": "Paderborn",
+    "osm_id": 240114473,
+    "lon": 8.752653,
+    "lat": 51.7177044,
+    "x": -2068.0,
+    "y": 1088.0,
+    "game_offset_m": 0.0,
+    "population_reference": 151633,
+    "population_date": "unknown",
+    "starting_capacities": [
+      30,
+      30,
+      30
+    ]
+  },
+  {
+    "name": "Regensburg",
+    "osm_id": 240120926,
+    "lon": 12.0974869,
+    "lat": 49.0195333,
+    "x": 2200.0,
+    "y": -4296.0,
+    "game_offset_m": 64.0,
+    "population_reference": 151517,
+    "population_date": "2025-12-31",
+    "starting_capacities": [
+      30,
+      30,
+      30
+    ]
+  },
+  {
+    "name": "Göttingen",
+    "osm_id": 1674619101,
+    "lon": 9.9351811,
+    "lat": 51.5328328,
+    "x": -612.0,
+    "y": 708.0,
+    "game_offset_m": 0.0,
+    "population_reference": 135887,
+    "population_date": "2024-12-31",
+    "starting_capacities": [
+      27,
+      27,
+      27
+    ]
+  },
+  {
+    "name": "Heilbronn",
+    "osm_id": 26769661,
+    "lon": 9.218655,
+    "lat": 49.142291,
+    "x": -1548.0,
+    "y": -4020.0,
+    "game_offset_m": 0.0,
+    "population_reference": 131653,
+    "population_date": "unknown",
+    "starting_capacities": [
+      26,
+      26,
+      26
+    ]
+  },
+  {
+    "name": "Ingolstadt",
+    "osm_id": 2110382406,
+    "lon": 11.4250395,
+    "lat": 48.7630165,
+    "x": 1384.0,
+    "y": -4808.0,
+    "game_offset_m": 67.9,
+    "population_reference": 127886,
+    "population_date": "unknown",
+    "starting_capacities": [
+      26,
+      26,
+      26
+    ]
+  },
+  {
+    "name": "Würzburg",
+    "osm_id": 25738881,
+    "lon": 9.9309779,
+    "lat": 49.7933723,
+    "x": -588.0,
+    "y": -2688.0,
+    "game_offset_m": 57.7,
+    "population_reference": 124700,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Ulm",
+    "osm_id": 1699831958,
+    "lon": 9.9912458,
+    "lat": 48.3984968,
+    "x": -592.0,
+    "y": -5452.0,
+    "game_offset_m": 67.9,
+    "population_reference": 121648,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Pforzheim",
+    "osm_id": 240046032,
+    "lon": 8.7025509,
+    "lat": 48.890934,
+    "x": -2228.0,
+    "y": -4508.0,
+    "game_offset_m": 0.0,
+    "population_reference": 117754,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Bremerhaven",
+    "osm_id": 660314734,
+    "lon": 8.5851945,
+    "lat": 53.5505392,
+    "x": -2168.0,
+    "y": 4804.0,
+    "game_offset_m": 86.2,
+    "population_reference": 117281,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Remscheid",
+    "osm_id": 240063145,
+    "lon": 7.1943544,
+    "lat": 51.1798706,
+    "x": -4024.0,
+    "y": 76.0,
+    "game_offset_m": 0.0,
+    "population_reference": 116827,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Reutlingen",
+    "osm_id": 31985630,
+    "lon": 9.2114144,
+    "lat": 48.4919508,
+    "x": -1572.0,
+    "y": -5308.0,
+    "game_offset_m": 0.0,
+    "population_reference": 112099,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Jena",
+    "osm_id": 240090160,
+    "lon": 11.5879359,
+    "lat": 50.9281717,
+    "x": 1456.0,
+    "y": -468.0,
+    "game_offset_m": 0.0,
+    "population_reference": 111343,
+    "population_date": "2019-12-31",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Koblenz",
+    "osm_id": 240102654,
+    "lon": 7.5943951,
+    "lat": 50.3533278,
+    "x": -3516.0,
+    "y": -1624.0,
+    "game_offset_m": 80.0,
+    "population_reference": 110643,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Trier",
+    "osm_id": 31941291,
+    "lon": 6.6441878,
+    "lat": 49.7596208,
+    "x": -4804.0,
+    "y": -2752.0,
+    "game_offset_m": 57.7,
+    "population_reference": 107233,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Moers",
+    "osm_id": 25763730,
+    "lon": 6.62843,
+    "lat": 51.451283,
+    "x": -4704.0,
+    "y": 644.0,
+    "game_offset_m": 0.0,
+    "population_reference": 105102,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Siegen",
+    "osm_id": 29063084,
+    "lon": 8.0256131,
+    "lat": 50.8751175,
+    "x": -3008.0,
+    "y": -560.0,
+    "game_offset_m": 0.0,
+    "population_reference": 99403,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Flensburg",
+    "osm_id": 240033839,
+    "lon": 9.4333264,
+    "lat": 54.7833021,
+    "x": -1180.0,
+    "y": 7152.0,
+    "game_offset_m": 0.0,
+    "population_reference": 99307,
+    "population_date": "2024-12-31",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Cottbus - Chóśebuz",
+    "osm_id": 1628927045,
+    "lon": 14.3357307,
+    "lat": 51.7567447,
+    "x": 4796.0,
+    "y": 1312.0,
+    "game_offset_m": 0.0,
+    "population_reference": 98693,
+    "population_date": "2020-12-31",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Schwerin",
+    "osm_id": 21993086,
+    "lon": 11.4148038,
+    "lat": 53.6288297,
+    "x": 1136.0,
+    "y": 4880.0,
+    "game_offset_m": 0.0,
+    "population_reference": 98596,
+    "population_date": "2022-12-31",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Hildesheim",
+    "osm_id": 18318938,
+    "lon": 9.9518083,
+    "lat": 52.1527188,
+    "x": -592.0,
+    "y": 1936.0,
+    "game_offset_m": 0.0,
+    "population_reference": 98510,
+    "population_date": "2024",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  }
+]

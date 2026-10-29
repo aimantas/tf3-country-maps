@@ -1,0 +1,8 @@
+data/tiles/
+data/tiles-lt
+shots/
+output/*/preview-height.npy
+release/*.zip
+.venv/
+.DS_Store
+art/*/*.html

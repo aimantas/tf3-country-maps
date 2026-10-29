@@ -1,0 +1,15 @@
+{
+  "name": "Deutschland: Germany Island Map",
+  "summary": "Germany as a Transport Fever 3 island: real terrain, 60 real towns.",
+  "description": "Build a transport company across Germany.\n\nThe whole country as a playable island: real terrain, the Rhine, Elbe, Danube and Weser, 60 towns where they really are and sized by population, and a set of starter industries.\n\nImport the heightmap and towns into a new Map Editor map. The steps are in the README.\n\nHow maps like this are made: https://aimantas.com/writing/lithuania-transport-fever-3-map/\n\nMade by Aimantas. More at aimantas.com.\n\nMap data (c) OpenStreetMap contributors (ODbL). Terrain from Mapzen Terrain Tiles, including EU-DEM (Copernicus). Full notices in ATTRIBUTION.md.",
+  "authors": [
+    {
+      "name": "Aimantas",
+      "role": "CREATOR"
+    }
+  ],
+  "tags": [
+    "Map"
+  ],
+  "url": "https://aimantas.com/"
+}
