@@ -5,7 +5,7 @@ Countries as playable Transport Fever 3 islands: real terrain, real rivers, real
 | Map | Mod Hub |
 | --- | --- |
 | Lithuania | https://mod.io/g/transportfever3/m/lietuva-lithuania-island-map (source: https://github.com/aimantas/tf3-lithuania-map) |
-| Germany | coming to the Mod Hub |
+| Germany | https://mod.io/g/transportfever3/m/deutschland-germany-island-map |
 
 How the maps are made: https://aimantas.com/writing/lithuania-transport-fever-3-map/
 
