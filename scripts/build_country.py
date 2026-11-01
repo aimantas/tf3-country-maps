@@ -23,7 +23,8 @@ OUT = ROOT / 'output' / CFG['id']
 OUT.mkdir(parents=True, exist_ok=True)
 PIXELS, GAME = 4097, 16384
 REAL = CFG['real_m']
-MIN_H, MAX_H = -12.0, 180.0
+MIN_H, MAX_H = float(CFG.get('min_h', -12)), float(CFG.get('max_h', 180))
+RIVER = max(-3.0, MIN_H)  # carved river and lake level
 ZOOM = CFG.get('zoom', 9)
 STEM = CFG['stem']
 TO_PROJ = Transformer.from_crs(4326, CFG['crs'], always_xy=True)
@@ -40,6 +41,13 @@ def lua(v):
 countries = json.loads((DATA / 'countries.geojson').read_text())
 country = next(f for f in countries['features'] if f['properties']['ADM0_A3'] == CFG['iso'])
 border_ll = shape(country['geometry'])
+if CFG.get('clip_bbox'):  # keep only the parts inside the bbox (drops overseas territories)
+    from shapely.geometry import MultiPolygon
+    bx0, by0, bx1, by1 = CFG['clip_bbox']
+    parts = [p for p in (list(border_ll.geoms) if border_ll.geom_type == 'MultiPolygon' else [border_ll]) if bx0 < p.centroid.x < bx1 and by0 < p.centroid.y < by1]
+    border_ll = MultiPolygon(parts) if len(parts) > 1 else parts[0]
+    from shapely.geometry import mapping
+    country = {**country, 'geometry': mapping(border_ll)}
 border = transform(TO_PROJ.transform, border_ll)
 x0, y0, x1, y1 = border.bounds
 cx, cy = (x0 + x1) / 2, (y0 + y1) / 2
@@ -120,10 +128,10 @@ for f in json.loads((DATA / 'lakes.geojson').read_text())['features']:
 water = (np.asarray(water_img) > 0) & island
 d = distance_transform_edt(~water)
 wgt = np.exp(-(d / 14) ** 2).astype('float32')
-playable = natural * (1 - wgt) + (-3.0) * wgt
-playable[water] = -3
+playable = natural * (1 - wgt) + RIVER * wgt
+playable[water] = RIVER
 inside = distance_transform_edt(island); outside = distance_transform_edt(~island)
-playable = np.where(island, np.minimum(playable, np.where(water, -3, inside * .9 + 1)), -np.clip(outside * .5, .5, 12)).astype('float32')
+playable = np.where(island, np.minimum(playable, np.where(water, RIVER, inside * .9 + 1)), -np.clip(outside * .5, min(.5, -MIN_H), min(12, -MIN_H))).astype('float32')
 del d, wgt, inside, outside
 
 # Towns: biggest OSM places inside the border, spaced for the game scale, on dry sites.
@@ -189,8 +197,9 @@ def place(kind, ax, ay, rmin=250, rmax=900):
     return False
 mid = [(t['position']['x'], t['position']['y']) for t in towns[5:]]
 agri = far_apart(mid, 5, mid[len(mid) // 2])
+HILL = float(np.percentile(natural[island], 70))  # forests go on the higher ground of each map
 hi = [(gxy(px, py)) for py in range(200, PIXELS - 200, 80) for px in range(200, PIXELS - 200, 80)
-      if island[py, px] and natural[py, px] > 70 and land_dist[py, px] > 40 and playable[py, px] > 3]
+      if island[py, px] and natural[py, px] > HILL and land_dist[py, px] > 40 and playable[py, px] > 3]
 hills = far_apart(hi, 3, max(hi, key=lambda p: -abs(p[0]) - abs(p[1]))) if hi else []
 chains = [(a, ['farm', 'farm', 'food_factory', 'brewery']) for a in agri] + [(h, ['forest', 'forest', 'saw_mill', 'furniture_factory']) for h in hills]
 for tt, kinds in ((towns[1], ['forest', 'paper_mill']), (towns[2], ['forest', 'printing_press'])):

@@ -1,0 +1,642 @@
+[
+  {
+    "name": "Budapest",
+    "osm_id": 85788293,
+    "lon": 19.0402383,
+    "lat": 47.4978789,
+    "x": -908.0,
+    "y": 804.0,
+    "game_offset_m": 45.3,
+    "population_reference": 1686222,
+    "population_date": "2024-01-01",
+    "starting_capacities": [
+      482,
+      482,
+      482
+    ]
+  },
+  {
+    "name": "Debrecen",
+    "osm_id": 26757724,
+    "lon": 21.6259782,
+    "lat": 47.531399,
+    "x": 4552.0,
+    "y": 1708.0,
+    "game_offset_m": 0.0,
+    "population_reference": 201704,
+    "population_date": "2024-01-01",
+    "starting_capacities": [
+      58,
+      58,
+      58
+    ]
+  },
+  {
+    "name": "Szeged",
+    "osm_id": 30453579,
+    "lon": 20.1486016,
+    "lat": 46.2546312,
+    "x": 2024.0,
+    "y": -2780.0,
+    "game_offset_m": 67.9,
+    "population_reference": 157930,
+    "population_date": "2024-01-01",
+    "starting_capacities": [
+      45,
+      45,
+      45
+    ]
+  },
+  {
+    "name": "Miskolc",
+    "osm_id": 64622559,
+    "lon": 20.7900429,
+    "lat": 48.1030643,
+    "x": 2544.0,
+    "y": 3216.0,
+    "game_offset_m": 0.0,
+    "population_reference": 143502,
+    "population_date": "2024-01-01",
+    "starting_capacities": [
+      41,
+      41,
+      41
+    ]
+  },
+  {
+    "name": "Pécs",
+    "osm_id": 17550787,
+    "lon": 18.2280317,
+    "lat": 46.0765092,
+    "x": -2116.0,
+    "y": -3804.0,
+    "game_offset_m": 0.0,
+    "population_reference": 140330,
+    "population_date": "2024-01-01",
+    "starting_capacities": [
+      40,
+      40,
+      40
+    ]
+  },
+  {
+    "name": "Győr",
+    "osm_id": 64624269,
+    "lon": 17.6342832,
+    "lat": 47.6835029,
+    "x": -3908.0,
+    "y": 1080.0,
+    "game_offset_m": 0.0,
+    "population_reference": 130191,
+    "population_date": "2024-01-01",
+    "starting_capacities": [
+      37,
+      37,
+      37
+    ]
+  },
+  {
+    "name": "Nyíregyháza",
+    "osm_id": 64627511,
+    "lon": 21.7167982,
+    "lat": 47.9557802,
+    "x": 4540.0,
+    "y": 3056.0,
+    "game_offset_m": 0.0,
+    "population_reference": 115359,
+    "population_date": "2024-01-01",
+    "starting_capacities": [
+      33,
+      33,
+      33
+    ]
+  },
+  {
+    "name": "Kecskemét",
+    "osm_id": 32443002,
+    "lon": 19.6922302,
+    "lat": 46.9075423,
+    "x": 732.0,
+    "y": -828.0,
+    "game_offset_m": 0.0,
+    "population_reference": 109450,
+    "population_date": "2024-01-01",
+    "starting_capacities": [
+      31,
+      31,
+      31
+    ]
+  },
+  {
+    "name": "Székesfehérvár",
+    "osm_id": 76464246,
+    "lon": 18.410811,
+    "lat": 47.1910169,
+    "x": -2100.0,
+    "y": -280.0,
+    "game_offset_m": 0.0,
+    "population_reference": 96024,
+    "population_date": "2024-01-01",
+    "starting_capacities": [
+      27,
+      27,
+      27
+    ]
+  },
+  {
+    "name": "Szombathely",
+    "osm_id": 1704499260,
+    "lon": 16.6187625,
+    "lat": 47.2291184,
+    "x": -5928.0,
+    "y": -548.0,
+    "game_offset_m": 0.0,
+    "population_reference": 77757,
+    "population_date": "2024-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Szolnok",
+    "osm_id": 1801839190,
+    "lon": 20.1946279,
+    "lat": 47.1753833,
+    "x": 1692.0,
+    "y": 152.0,
+    "game_offset_m": 0.0,
+    "population_reference": 66426,
+    "population_date": "2024-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Tatabánya",
+    "osm_id": 282420922,
+    "lon": 18.3979855,
+    "lat": 47.583845,
+    "x": -2264.0,
+    "y": 944.0,
+    "game_offset_m": 0.0,
+    "population_reference": 64785,
+    "population_date": "2025-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Sopron",
+    "osm_id": 25913119,
+    "lon": 16.5983457,
+    "lat": 47.6803063,
+    "x": -6092.0,
+    "y": 856.0,
+    "game_offset_m": 0.0,
+    "population_reference": 61589,
+    "population_date": "2024-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Kaposvár",
+    "osm_id": 25926749,
+    "lon": 17.7886886,
+    "lat": 46.3564692,
+    "x": -3160.0,
+    "y": -3032.0,
+    "game_offset_m": 0.0,
+    "population_reference": 58830,
+    "population_date": "2024-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Veszprém",
+    "osm_id": 334943106,
+    "lon": 17.9080406,
+    "lat": 47.0933824,
+    "x": -3140.0,
+    "y": -704.0,
+    "game_offset_m": 0.0,
+    "population_reference": 56029,
+    "population_date": "2024-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Zalaegerszeg",
+    "osm_id": 183813583,
+    "lon": 16.8456316,
+    "lat": 46.8415803,
+    "x": -5336.0,
+    "y": -1716.0,
+    "game_offset_m": 0.0,
+    "population_reference": 55152,
+    "population_date": "2024-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Békéscsaba",
+    "osm_id": 32444521,
+    "lon": 21.0985425,
+    "lat": 46.6798003,
+    "x": 3832.0,
+    "y": -1112.0,
+    "game_offset_m": 0.0,
+    "population_reference": 54460,
+    "population_date": "2024-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Eger",
+    "osm_id": 26757722,
+    "lon": 20.3743665,
+    "lat": 47.8989887,
+    "x": 1764.0,
+    "y": 2456.0,
+    "game_offset_m": 0.0,
+    "population_reference": 49499,
+    "population_date": "2024-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Dunakeszi",
+    "osm_id": 180731026,
+    "lon": 19.1294055,
+    "lat": 47.6316697,
+    "x": -724.0,
+    "y": 1276.0,
+    "game_offset_m": 16.0,
+    "population_reference": 42747,
+    "population_date": "2024-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Nagykanizsa",
+    "osm_id": 286101602,
+    "lon": 16.9923923,
+    "lat": 46.4548261,
+    "x": -4912.0,
+    "y": -2896.0,
+    "game_offset_m": 0.0,
+    "population_reference": 42502,
+    "population_date": "2024-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Hódmezővásárhely",
+    "osm_id": 30848697,
+    "lon": 20.3196068,
+    "lat": 46.4171344,
+    "x": 2276.0,
+    "y": -2172.0,
+    "game_offset_m": 0.0,
+    "population_reference": 41781,
+    "population_date": "2024-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Dunaújváros",
+    "osm_id": 1673787395,
+    "lon": 18.9405047,
+    "lat": 46.9649048,
+    "x": -924.0,
+    "y": -852.0,
+    "game_offset_m": 32.0,
+    "population_reference": 41394,
+    "population_date": "2024-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Cegléd",
+    "osm_id": 84782806,
+    "lon": 19.7977516,
+    "lat": 47.1716447,
+    "x": 852.0,
+    "y": 24.0,
+    "game_offset_m": 0.0,
+    "population_reference": 36391,
+    "population_date": "2024-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Mosonmagyaróvár",
+    "osm_id": 277515388,
+    "lon": 17.2722342,
+    "lat": 47.8731793,
+    "x": -4728.0,
+    "y": 1596.0,
+    "game_offset_m": 0.0,
+    "population_reference": 34165,
+    "population_date": "2024-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Vác",
+    "osm_id": 177532814,
+    "lon": 19.1278294,
+    "lat": 47.7782873,
+    "x": -748.0,
+    "y": 1764.0,
+    "game_offset_m": 57.7,
+    "population_reference": 34001,
+    "population_date": "2024-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Baja",
+    "osm_id": 287001980,
+    "lon": 18.9517255,
+    "lat": 46.1785471,
+    "x": -584.0,
+    "y": -3304.0,
+    "game_offset_m": 0.0,
+    "population_reference": 32759,
+    "population_date": "2024-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Gödöllő",
+    "osm_id": 140335407,
+    "lon": 19.3476981,
+    "lat": 47.601529,
+    "x": -268.0,
+    "y": 1240.0,
+    "game_offset_m": 0.0,
+    "population_reference": 32524,
+    "population_date": "2024-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Salgótarján",
+    "osm_id": 243688523,
+    "lon": 19.8005642,
+    "lat": 48.0960676,
+    "x": 488.0,
+    "y": 2904.0,
+    "game_offset_m": 0.0,
+    "population_reference": 30910,
+    "population_date": "2024-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Ózd",
+    "osm_id": 268215944,
+    "lon": 20.2810727,
+    "lat": 48.2191757,
+    "x": 1436.0,
+    "y": 3428.0,
+    "game_offset_m": 0.0,
+    "population_reference": 30550,
+    "population_date": "2024-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Szekszárd",
+    "osm_id": 25553427,
+    "lon": 18.701663,
+    "lat": 46.3484884,
+    "x": -1184.0,
+    "y": -2836.0,
+    "game_offset_m": 0.0,
+    "population_reference": 29707,
+    "population_date": "2024-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Hajdúböszörmény",
+    "osm_id": 286968025,
+    "lon": 21.5078944,
+    "lat": 47.6716617,
+    "x": 4240.0,
+    "y": 2104.0,
+    "game_offset_m": 0.0,
+    "population_reference": 29310,
+    "population_date": "2024-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Esztergom",
+    "osm_id": 206292236,
+    "lon": 18.7403377,
+    "lat": 47.7856939,
+    "x": -1596.0,
+    "y": 1640.0,
+    "game_offset_m": 22.6,
+    "population_reference": 28642,
+    "population_date": "2024-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Pápa",
+    "osm_id": 268183245,
+    "lon": 17.4705293,
+    "lat": 47.3261087,
+    "x": -4144.0,
+    "y": -72.0,
+    "game_offset_m": 0.0,
+    "population_reference": 28549,
+    "population_date": "2024-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Kiskunfélegyháza",
+    "osm_id": 287005902,
+    "lon": 19.8501648,
+    "lat": 46.7114381,
+    "x": 1148.0,
+    "y": -1396.0,
+    "game_offset_m": 0.0,
+    "population_reference": 28382,
+    "population_date": "2025-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Gyöngyös",
+    "osm_id": 243689884,
+    "lon": 19.9291176,
+    "lat": 47.7799838,
+    "x": 884.0,
+    "y": 1956.0,
+    "game_offset_m": 0.0,
+    "population_reference": 27645,
+    "population_date": "2024-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Ajka",
+    "osm_id": 285886520,
+    "lon": 17.5587276,
+    "lat": 47.1056579,
+    "x": -3888.0,
+    "y": -744.0,
+    "game_offset_m": 0.0,
+    "population_reference": 26408,
+    "population_date": "2024-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Kiskunhalas",
+    "osm_id": 287004164,
+    "lon": 19.4812571,
+    "lat": 46.4304454,
+    "x": 468.0,
+    "y": -2376.0,
+    "game_offset_m": 0.0,
+    "population_reference": 26009,
+    "population_date": "2024-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Jászberény",
+    "osm_id": 26734414,
+    "lon": 19.9117887,
+    "lat": 47.5030505,
+    "x": 960.0,
+    "y": 1088.0,
+    "game_offset_m": 0.0,
+    "population_reference": 25844,
+    "population_date": "2024-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Orosháza",
+    "osm_id": 31094677,
+    "lon": 20.6720146,
+    "lat": 46.5582801,
+    "x": 2972.0,
+    "y": -1628.0,
+    "game_offset_m": 0.0,
+    "population_reference": 25206,
+    "population_date": "2024-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Szentes",
+    "osm_id": 286974186,
+    "lon": 20.2566408,
+    "lat": 46.6524049,
+    "x": 2044.0,
+    "y": -1460.0,
+    "game_offset_m": 0.0,
+    "population_reference": 24905,
+    "population_date": "2024-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  }
+]

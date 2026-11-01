@@ -1,0 +1,39 @@
+{
+  "name": "Magyarorszag",
+  "english": "Hungary",
+  "pixels": 4097,
+  "game_size_m": 16384,
+  "real_coverage_m": 580000,
+  "crs": "EPSG:3035",
+  "bounds": [
+    4741713.461864,
+    2431359.8901931713,
+    5321713.461864,
+    3011359.8901931713
+  ],
+  "height_import_min": -1.0,
+  "height_import_max": 220.0,
+  "water_level": 0,
+  "horizontal_compression": 35.400390625,
+  "height_scale_m": 700,
+  "source_zoom": 9,
+  "source_tiles": 169,
+  "towns": 40,
+  "industries": 36,
+  "waterways": [
+    "Danube",
+    "Lake Balaton",
+    "Mur",
+    "Mures",
+    "Soroksari Duna",
+    "Tisa"
+  ],
+  "population_divisor": 3500,
+  "minimum_residential_capacity": 25,
+  "height_range_playable": [
+    -1.0,
+    167.43515014648438
+  ],
+  "population_source": "OpenStreetMap population tags; mixed or unknown dates; approximate relative sizes, not census counts.",
+  "caveat": "Fictional island following the national border. Relief compressed, rivers widened and lowered to sea level. Industry sites are game design."
+}

@@ -1,0 +1,722 @@
+[
+  {
+    "name": "Amsterdam",
+    "osm_id": 268396336,
+    "lon": 4.8924534,
+    "lat": 52.3730796,
+    "x": -1024.0,
+    "y": 1360.0,
+    "game_offset_m": 0.0,
+    "population_reference": 881933,
+    "population_date": "2022-01-01",
+    "starting_capacities": [
+      441,
+      441,
+      441
+    ]
+  },
+  {
+    "name": "Den Haag",
+    "osm_id": 235857686,
+    "lon": 4.3113461,
+    "lat": 52.0799838,
+    "x": -2936.0,
+    "y": 16.0,
+    "game_offset_m": 0.0,
+    "population_reference": 525745,
+    "population_date": "2017-01-01",
+    "starting_capacities": [
+      263,
+      263,
+      263
+    ]
+  },
+  {
+    "name": "Utrecht",
+    "osm_id": 235861650,
+    "lon": 5.1215634,
+    "lat": 52.0907006,
+    "x": -412.0,
+    "y": -116.0,
+    "game_offset_m": 0.0,
+    "population_reference": 295591,
+    "population_date": "2017-01-01",
+    "starting_capacities": [
+      148,
+      148,
+      148
+    ]
+  },
+  {
+    "name": "Eindhoven",
+    "osm_id": 42616340,
+    "lon": 5.478633,
+    "lat": 51.4392648,
+    "x": 496.0,
+    "y": -3480.0,
+    "game_offset_m": 0.0,
+    "population_reference": 235923,
+    "population_date": "2021-01-01",
+    "starting_capacities": [
+      118,
+      118,
+      118
+    ]
+  },
+  {
+    "name": "Groningen",
+    "osm_id": 3125538288,
+    "lon": 6.5680077,
+    "lat": 53.2190652,
+    "x": 4364.0,
+    "y": 5336.0,
+    "game_offset_m": 0.0,
+    "population_reference": 201242,
+    "population_date": "2017-01-01",
+    "starting_capacities": [
+      101,
+      101,
+      101
+    ]
+  },
+  {
+    "name": "Tilburg",
+    "osm_id": 1206763375,
+    "lon": 5.0886014,
+    "lat": 51.5562404,
+    "x": -696.0,
+    "y": -2808.0,
+    "game_offset_m": 0.0,
+    "population_reference": 199128,
+    "population_date": "2020-01-01",
+    "starting_capacities": [
+      100,
+      100,
+      100
+    ]
+  },
+  {
+    "name": "Nijmegen",
+    "osm_id": 867975219,
+    "lon": 5.8637771,
+    "lat": 51.8474946,
+    "x": 1844.0,
+    "y": -1536.0,
+    "game_offset_m": 50.6,
+    "population_reference": 176731,
+    "population_date": "2019-01-01",
+    "starting_capacities": [
+      88,
+      88,
+      88
+    ]
+  },
+  {
+    "name": "Haarlem",
+    "osm_id": 296054949,
+    "lon": 4.6388048,
+    "lat": 52.3885317,
+    "x": -1880.0,
+    "y": 1528.0,
+    "game_offset_m": 86.2,
+    "population_reference": 158593,
+    "population_date": "2017-01-01",
+    "starting_capacities": [
+      79,
+      79,
+      79
+    ]
+  },
+  {
+    "name": "Arnhem",
+    "osm_id": 6394641551,
+    "lon": 5.9108573,
+    "lat": 51.984257,
+    "x": 2032.0,
+    "y": -772.0,
+    "game_offset_m": 35.8,
+    "population_reference": 155694,
+    "population_date": "2017-01-01",
+    "starting_capacities": [
+      78,
+      78,
+      78
+    ]
+  },
+  {
+    "name": "Enschede",
+    "osm_id": 3836540471,
+    "lon": 6.8940537,
+    "lat": 52.2209855,
+    "x": 5136.0,
+    "y": 244.0,
+    "game_offset_m": 0.0,
+    "population_reference": 151041,
+    "population_date": "2023-01-01",
+    "starting_capacities": [
+      76,
+      76,
+      76
+    ]
+  },
+  {
+    "name": "Breda",
+    "osm_id": 867998189,
+    "lon": 4.7760237,
+    "lat": 51.5887845,
+    "x": -1668.0,
+    "y": -2576.0,
+    "game_offset_m": 0.0,
+    "population_reference": 150008,
+    "population_date": "2017-01-01",
+    "starting_capacities": [
+      75,
+      75,
+      75
+    ]
+  },
+  {
+    "name": "Amersfoort",
+    "osm_id": 667889917,
+    "lon": 5.3896944,
+    "lat": 52.1562499,
+    "x": 444.0,
+    "y": 148.0,
+    "game_offset_m": 16.0,
+    "population_reference": 145699,
+    "population_date": "2023-01-01",
+    "starting_capacities": [
+      73,
+      73,
+      73
+    ]
+  },
+  {
+    "name": "Apeldoorn",
+    "osm_id": 216244216,
+    "lon": 5.9639485,
+    "lat": 52.2156457,
+    "x": 2248.0,
+    "y": 356.0,
+    "game_offset_m": 0.0,
+    "population_reference": 141107,
+    "population_date": "2017-01-01",
+    "starting_capacities": [
+      71,
+      71,
+      71
+    ]
+  },
+  {
+    "name": "Ede",
+    "osm_id": 760382981,
+    "lon": 5.6702011,
+    "lat": 52.0458265,
+    "x": 1284.0,
+    "y": -448.0,
+    "game_offset_m": 0.0,
+    "population_reference": 123550,
+    "population_date": "2024-01-01",
+    "starting_capacities": [
+      62,
+      62,
+      62
+    ]
+  },
+  {
+    "name": "Maastricht",
+    "osm_id": 41977208,
+    "lon": 5.6909768,
+    "lat": 50.8512438,
+    "x": 944.0,
+    "y": -6492.0,
+    "game_offset_m": 48.0,
+    "population_reference": 120105,
+    "population_date": "2017-01-01",
+    "starting_capacities": [
+      60,
+      60,
+      60
+    ]
+  },
+  {
+    "name": "'s-Hertogenbosch",
+    "osm_id": 60400458,
+    "lon": 5.303116,
+    "lat": 51.6889387,
+    "x": 24.0,
+    "y": -2184.0,
+    "game_offset_m": 0.0,
+    "population_reference": 115903,
+    "population_date": "2017-01-01",
+    "starting_capacities": [
+      58,
+      58,
+      58
+    ]
+  },
+  {
+    "name": "Alkmaar",
+    "osm_id": 3474142743,
+    "lon": 4.7503798,
+    "lat": 52.6312592,
+    "x": -1464.0,
+    "y": 2616.0,
+    "game_offset_m": 125.0,
+    "population_reference": 96460,
+    "population_date": "2017-01-01",
+    "starting_capacities": [
+      48,
+      48,
+      48
+    ]
+  },
+  {
+    "name": "Oss",
+    "osm_id": 3123148337,
+    "lon": 5.5253912,
+    "lat": 51.7696387,
+    "x": 748.0,
+    "y": -1820.0,
+    "game_offset_m": 0.0,
+    "population_reference": 95239,
+    "population_date": "2025-01-01",
+    "starting_capacities": [
+      48,
+      48,
+      48
+    ]
+  },
+  {
+    "name": "Hilversum",
+    "osm_id": 296056871,
+    "lon": 5.1719396,
+    "lat": 52.2241375,
+    "x": -208.0,
+    "y": 548.0,
+    "game_offset_m": 0.0,
+    "population_reference": 93345,
+    "population_date": "2023-01-01",
+    "starting_capacities": [
+      47,
+      47,
+      47
+    ]
+  },
+  {
+    "name": "Helmond",
+    "osm_id": 299144900,
+    "lon": 5.6557686,
+    "lat": 51.4790956,
+    "x": 1068.0,
+    "y": -3312.0,
+    "game_offset_m": 0.0,
+    "population_reference": 90609,
+    "population_date": "2017-01-01",
+    "starting_capacities": [
+      45,
+      45,
+      45
+    ]
+  },
+  {
+    "name": "Deventer",
+    "osm_id": 3247433861,
+    "lon": 6.1584725,
+    "lat": 52.2532272,
+    "x": 2892.0,
+    "y": 532.0,
+    "game_offset_m": 35.8,
+    "population_reference": 86060,
+    "population_date": "2026-01-01",
+    "starting_capacities": [
+      43,
+      43,
+      43
+    ]
+  },
+  {
+    "name": "Assen",
+    "osm_id": 29629883,
+    "lon": 6.560498,
+    "lat": 52.9952273,
+    "x": 4288.0,
+    "y": 4204.0,
+    "game_offset_m": 0.0,
+    "population_reference": 70392,
+    "population_date": "2025-01-01",
+    "starting_capacities": [
+      35,
+      35,
+      35
+    ]
+  },
+  {
+    "name": "Almelo",
+    "osm_id": 3836540470,
+    "lon": 6.6636219,
+    "lat": 52.3563585,
+    "x": 4452.0,
+    "y": 960.0,
+    "game_offset_m": 0.0,
+    "population_reference": 69174,
+    "population_date": "2017-01-01",
+    "starting_capacities": [
+      35,
+      35,
+      35
+    ]
+  },
+  {
+    "name": "Heerlen",
+    "osm_id": 2667692112,
+    "lon": 5.9773285,
+    "lat": 50.8876735,
+    "x": 1920.0,
+    "y": -6360.0,
+    "game_offset_m": 0.0,
+    "population_reference": 67943,
+    "population_date": "2017-01-01",
+    "starting_capacities": [
+      34,
+      34,
+      34
+    ]
+  },
+  {
+    "name": "Roosendaal",
+    "osm_id": 3122967684,
+    "lon": 4.4561276,
+    "lat": 51.5331484,
+    "x": -2648.0,
+    "y": -2800.0,
+    "game_offset_m": 50.6,
+    "population_reference": 67390,
+    "population_date": "2017-01-01",
+    "starting_capacities": [
+      34,
+      34,
+      34
+    ]
+  },
+  {
+    "name": "Venlo",
+    "osm_id": 4774930013,
+    "lon": 6.1688954,
+    "lat": 51.3702109,
+    "x": 2708.0,
+    "y": -3968.0,
+    "game_offset_m": 50.6,
+    "population_reference": 64339,
+    "population_date": "2017-01-01",
+    "starting_capacities": [
+      32,
+      32,
+      32
+    ]
+  },
+  {
+    "name": "Emmen",
+    "osm_id": 868430925,
+    "lon": 6.8939001,
+    "lat": 52.788937,
+    "x": 5260.0,
+    "y": 3116.0,
+    "game_offset_m": 0.0,
+    "population_reference": 56113,
+    "population_date": "2017-01-01",
+    "starting_capacities": [
+      28,
+      28,
+      28
+    ]
+  },
+  {
+    "name": "Bergen op Zoom",
+    "osm_id": 760705238,
+    "lon": 4.2871541,
+    "lat": 51.4944756,
+    "x": -3224.0,
+    "y": -2888.0,
+    "game_offset_m": 50.6,
+    "population_reference": 51834,
+    "population_date": "2017-01-01",
+    "starting_capacities": [
+      26,
+      26,
+      26
+    ]
+  },
+  {
+    "name": "Harderwijk",
+    "osm_id": 46280889,
+    "lon": 5.618933,
+    "lat": 52.3490693,
+    "x": 1280.0,
+    "y": 1028.0,
+    "game_offset_m": 90.5,
+    "population_reference": 48726,
+    "population_date": "2021-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Doetinchem",
+    "osm_id": 760709245,
+    "lon": 6.2891093,
+    "lat": 51.9655192,
+    "x": 3192.0,
+    "y": -964.0,
+    "game_offset_m": 0.0,
+    "population_reference": 44600,
+    "population_date": "2017-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Etten-Leur",
+    "osm_id": 3123022919,
+    "lon": 4.635707,
+    "lat": 51.5695905,
+    "x": -2116.0,
+    "y": -2640.0,
+    "game_offset_m": 0.0,
+    "population_reference": 43027,
+    "population_date": "2017-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Katwijk",
+    "osm_id": 875617853,
+    "lon": 4.4146372,
+    "lat": 52.2005078,
+    "x": -2584.0,
+    "y": 600.0,
+    "game_offset_m": 16.0,
+    "population_reference": 43012,
+    "population_date": "2017-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Roermond",
+    "osm_id": 3124096042,
+    "lon": 5.9882649,
+    "lat": 51.1933903,
+    "x": 2052.0,
+    "y": -4848.0,
+    "game_offset_m": 35.8,
+    "population_reference": 41225,
+    "population_date": "2017-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Zutphen",
+    "osm_id": 2979682499,
+    "lon": 6.194772,
+    "lat": 52.1396933,
+    "x": 3040.0,
+    "y": -64.0,
+    "game_offset_m": 96.0,
+    "population_reference": 40624,
+    "population_date": "2025",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Weert",
+    "osm_id": 3124070294,
+    "lon": 5.7065678,
+    "lat": 51.2538446,
+    "x": 1160.0,
+    "y": -4460.0,
+    "game_offset_m": 0.0,
+    "population_reference": 40534,
+    "population_date": "2017-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Hoogeveen",
+    "osm_id": 47279925,
+    "lon": 6.4759313,
+    "lat": 52.7202393,
+    "x": 3960.0,
+    "y": 2828.0,
+    "game_offset_m": 0.0,
+    "population_reference": 39995,
+    "population_date": "2017-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Tiel",
+    "osm_id": 8181237045,
+    "lon": 5.4372681,
+    "lat": 51.8874333,
+    "x": 396.0,
+    "y": -1092.0,
+    "game_offset_m": 158.4,
+    "population_reference": 39545,
+    "population_date": "2017-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Heemskerk",
+    "osm_id": 1263171883,
+    "lon": 4.672252,
+    "lat": 52.5103279,
+    "x": -1732.0,
+    "y": 2168.0,
+    "game_offset_m": 102.4,
+    "population_reference": 39171,
+    "population_date": "2017-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Sittard",
+    "osm_id": 2526992665,
+    "lon": 5.8666627,
+    "lat": 50.9974235,
+    "x": 1564.0,
+    "y": -5788.0,
+    "game_offset_m": 32.0,
+    "population_reference": 37534,
+    "population_date": "2017-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Uden",
+    "osm_id": 2725072454,
+    "lon": 5.6148605,
+    "lat": 51.6590888,
+    "x": 992.0,
+    "y": -2396.0,
+    "game_offset_m": 0.0,
+    "population_reference": 36315,
+    "population_date": "2019-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Wijchen",
+    "osm_id": 2717911208,
+    "lon": 5.7261657,
+    "lat": 51.8071658,
+    "x": 1388.0,
+    "y": -1668.0,
+    "game_offset_m": 0.0,
+    "population_reference": 33800,
+    "population_date": "2017-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Barneveld",
+    "osm_id": 45438049,
+    "lon": 5.5869635,
+    "lat": 52.1397035,
+    "x": 1052.0,
+    "y": 40.0,
+    "game_offset_m": 0.0,
+    "population_reference": 33215,
+    "population_date": "2017-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Oldenzaal",
+    "osm_id": 46130993,
+    "lon": 6.9241615,
+    "lat": 52.3116616,
+    "x": 5252.0,
+    "y": 696.0,
+    "game_offset_m": 0.0,
+    "population_reference": 32006,
+    "population_date": "2017-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Heerenveen",
+    "osm_id": 235265692,
+    "lon": 5.9270052,
+    "lat": 52.9568246,
+    "x": 2440.0,
+    "y": 4032.0,
+    "game_offset_m": 125.0,
+    "population_reference": 29799,
+    "population_date": "2017-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Waalwijk",
+    "osm_id": 3123085911,
+    "lon": 5.0705122,
+    "lat": 51.6852544,
+    "x": -676.0,
+    "y": -2216.0,
+    "game_offset_m": 71.6,
+    "population_reference": 29385,
+    "population_date": "2017-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  }
+]

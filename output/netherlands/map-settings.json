@@ -1,0 +1,40 @@
+{
+  "name": "Nederland",
+  "english": "the Netherlands",
+  "pixels": 4097,
+  "game_size_m": 16384,
+  "real_coverage_m": 360000,
+  "crs": "EPSG:3035",
+  "bounds": [
+    3815937.4593340363,
+    3053795.2604678622,
+    4175937.4593340363,
+    3413795.2604678622
+  ],
+  "height_import_min": -1.0,
+  "height_import_max": 80.0,
+  "water_level": 0,
+  "horizontal_compression": 21.97265625,
+  "height_scale_m": 250,
+  "source_zoom": 9,
+  "source_tiles": 81,
+  "towns": 45,
+  "industries": 33,
+  "waterways": [
+    "IJssel",
+    "IJsselmeer",
+    "Lek",
+    "Maas",
+    "Nederrijn",
+    "Rhine",
+    "Waal"
+  ],
+  "population_divisor": 2000,
+  "minimum_residential_capacity": 25,
+  "height_range_playable": [
+    -1.0,
+    43.45291519165039
+  ],
+  "population_source": "OpenStreetMap population tags; mixed or unknown dates; approximate relative sizes, not census counts.",
+  "caveat": "Fictional island following the national border. Relief compressed, rivers widened and lowered to sea level. Industry sites are game design."
+}

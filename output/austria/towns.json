@@ -1,0 +1,642 @@
+[
+  {
+    "name": "Wien",
+    "osm_id": 17328659,
+    "lon": 16.3725042,
+    "lat": 48.2083537,
+    "x": 5760.0,
+    "y": 1688.0,
+    "game_offset_m": 0.0,
+    "population_reference": 2042036,
+    "population_date": "2021-01-01",
+    "starting_capacities": [
+      681,
+      681,
+      681
+    ]
+  },
+  {
+    "name": "Graz",
+    "osm_id": 21015489,
+    "lon": 15.4382786,
+    "lat": 47.0708678,
+    "x": 4168.0,
+    "y": -1696.0,
+    "game_offset_m": 50.6,
+    "population_reference": 331359,
+    "population_date": "2020-01",
+    "starting_capacities": [
+      110,
+      110,
+      110
+    ]
+  },
+  {
+    "name": "Linz",
+    "osm_id": 25181326,
+    "lon": 14.286198,
+    "lat": 48.3059078,
+    "x": 1784.0,
+    "y": 1632.0,
+    "game_offset_m": 48.0,
+    "population_reference": 207812,
+    "population_date": "2021-01-01",
+    "starting_capacities": [
+      69,
+      69,
+      69
+    ]
+  },
+  {
+    "name": "Salzburg",
+    "osm_id": 34964314,
+    "lon": 13.0464806,
+    "lat": 47.7981346,
+    "x": -512.0,
+    "y": 120.0,
+    "game_offset_m": 0.0,
+    "population_reference": 152083,
+    "population_date": "2015",
+    "starting_capacities": [
+      51,
+      51,
+      51
+    ]
+  },
+  {
+    "name": "Innsbruck",
+    "osm_id": 34840064,
+    "lon": 11.3927685,
+    "lat": 47.2654296,
+    "x": -3640.0,
+    "y": -1508.0,
+    "game_offset_m": 22.6,
+    "population_reference": 130585,
+    "population_date": "2022",
+    "starting_capacities": [
+      44,
+      44,
+      44
+    ]
+  },
+  {
+    "name": "Klagenfurt",
+    "osm_id": 29777988,
+    "lon": 14.3075976,
+    "lat": 46.623943,
+    "x": 2096.0,
+    "y": -3096.0,
+    "game_offset_m": 0.0,
+    "population_reference": 100316,
+    "population_date": "2018-01-01",
+    "starting_capacities": [
+      33,
+      33,
+      33
+    ]
+  },
+  {
+    "name": "Villach",
+    "osm_id": 29777261,
+    "lon": 13.8500268,
+    "lat": 46.6167284,
+    "x": 1200.0,
+    "y": -3196.0,
+    "game_offset_m": 32.0,
+    "population_reference": 61221,
+    "population_date": "2016",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Wels",
+    "osm_id": 26748998,
+    "lon": 14.0243752,
+    "lat": 48.1565472,
+    "x": 1308.0,
+    "y": 1228.0,
+    "game_offset_m": 0.0,
+    "population_reference": 59853,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "St. Pölten",
+    "osm_id": 240038219,
+    "lon": 15.6229118,
+    "lat": 48.2043985,
+    "x": 4340.0,
+    "y": 1560.0,
+    "game_offset_m": 0.0,
+    "population_reference": 59767,
+    "population_date": "2025-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Dornbirn",
+    "osm_id": 79994020,
+    "lon": 9.7423762,
+    "lat": 47.4136351,
+    "x": -6852.0,
+    "y": -1096.0,
+    "game_offset_m": 0.0,
+    "population_reference": 51222,
+    "population_date": "2023-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Wiener Neustadt",
+    "osm_id": 26807229,
+    "lon": 16.2441166,
+    "lat": 47.8131847,
+    "x": 5608.0,
+    "y": 548.0,
+    "game_offset_m": 0.0,
+    "population_reference": 38481,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Steyr",
+    "osm_id": 240079480,
+    "lon": 14.4191276,
+    "lat": 48.0390046,
+    "x": 2080.0,
+    "y": 936.0,
+    "game_offset_m": 0.0,
+    "population_reference": 38344,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Feldkirch",
+    "osm_id": 32627098,
+    "lon": 9.5981724,
+    "lat": 47.2375671,
+    "x": -7136.0,
+    "y": -1592.0,
+    "game_offset_m": 0.0,
+    "population_reference": 35793,
+    "population_date": "2023-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Krems an der Donau",
+    "osm_id": 340180405,
+    "lon": 15.6003717,
+    "lat": 48.4108382,
+    "x": 4268.0,
+    "y": 2128.0,
+    "game_offset_m": 22.6,
+    "population_reference": 25500,
+    "population_date": "2025-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Wolfsberg",
+    "osm_id": 240120735,
+    "lon": 14.8452061,
+    "lat": 46.8390583,
+    "x": 3108.0,
+    "y": -2420.0,
+    "game_offset_m": 0.0,
+    "population_reference": 25045,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Baden",
+    "osm_id": 34103911,
+    "lon": 16.2343693,
+    "lat": 48.0076713,
+    "x": 5544.0,
+    "y": 1096.0,
+    "game_offset_m": 0.0,
+    "population_reference": 25000,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Leoben",
+    "osm_id": 26754457,
+    "lon": 15.0947756,
+    "lat": 47.3805128,
+    "x": 3524.0,
+    "y": -868.0,
+    "game_offset_m": 35.8,
+    "population_reference": 24645,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Kufstein",
+    "osm_id": 26902437,
+    "lon": 12.1692134,
+    "lat": 47.582996,
+    "x": -2160.0,
+    "y": -568.0,
+    "game_offset_m": 22.6,
+    "population_reference": 19223,
+    "population_date": "2018-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Saalfelden am Steinernen Meer",
+    "osm_id": 826109863,
+    "lon": 12.8481048,
+    "lat": 47.4266166,
+    "x": -852.0,
+    "y": -952.0,
+    "game_offset_m": 0.0,
+    "population_reference": 17299,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Stockerau",
+    "osm_id": 27270106,
+    "lon": 16.2076303,
+    "lat": 48.3846124,
+    "x": 5404.0,
+    "y": 2196.0,
+    "game_offset_m": 32.0,
+    "population_reference": 16858,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Braunau am Inn",
+    "osm_id": 237042948,
+    "lon": 13.0397862,
+    "lat": 48.2534159,
+    "x": -576.0,
+    "y": 1380.0,
+    "game_offset_m": 32.0,
+    "population_reference": 16380,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Telfs",
+    "osm_id": 76472938,
+    "lon": 11.071515,
+    "lat": 47.3046511,
+    "x": -4280.0,
+    "y": -1440.0,
+    "game_offset_m": 48.0,
+    "population_reference": 15920,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Spittal an der Drau",
+    "osm_id": 31238888,
+    "lon": 13.4963308,
+    "lat": 46.7982211,
+    "x": 496.0,
+    "y": -2636.0,
+    "game_offset_m": 50.6,
+    "population_reference": 15549,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Bludenz",
+    "osm_id": 240103067,
+    "lon": 9.8219314,
+    "lat": 47.153037,
+    "x": -6700.0,
+    "y": -1836.0,
+    "game_offset_m": 0.0,
+    "population_reference": 15029,
+    "population_date": "2023-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Ternitz",
+    "osm_id": 240025153,
+    "lon": 16.0194688,
+    "lat": 47.7066007,
+    "x": 5204.0,
+    "y": 208.0,
+    "game_offset_m": 0.0,
+    "population_reference": 14823,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Feldkirchen",
+    "osm_id": 240116186,
+    "lon": 14.0964965,
+    "lat": 46.7229178,
+    "x": 1664.0,
+    "y": -2836.0,
+    "game_offset_m": 0.0,
+    "population_reference": 14434,
+    "population_date": "2023-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Bad Ischl",
+    "osm_id": 240110400,
+    "lon": 13.6239333,
+    "lat": 47.7115299,
+    "x": 608.0,
+    "y": -76.0,
+    "game_offset_m": 0.0,
+    "population_reference": 14088,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Amstetten",
+    "osm_id": 60806241,
+    "lon": 14.8752424,
+    "lat": 48.1203262,
+    "x": 2936.0,
+    "y": 1220.0,
+    "game_offset_m": 0.0,
+    "population_reference": 13878,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Feldbach",
+    "osm_id": 3653282655,
+    "lon": 15.8886091,
+    "lat": 46.9527822,
+    "x": 5116.0,
+    "y": -1948.0,
+    "game_offset_m": 0.0,
+    "population_reference": 13369,
+    "population_date": "2018-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Gmunden",
+    "osm_id": 30587791,
+    "lon": 13.8003048,
+    "lat": 47.9185855,
+    "x": 916.0,
+    "y": 528.0,
+    "game_offset_m": 0.0,
+    "population_reference": 13104,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Schwaz",
+    "osm_id": 2015063027,
+    "lon": 11.7084253,
+    "lat": 47.3449529,
+    "x": -3048.0,
+    "y": -1268.0,
+    "game_offset_m": 16.0,
+    "population_reference": 13058,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Knittelfeld",
+    "osm_id": 9260667460,
+    "lon": 14.8297233,
+    "lat": 47.2147399,
+    "x": 2980.0,
+    "y": -1308.0,
+    "game_offset_m": 57.7,
+    "population_reference": 12574,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Lienz",
+    "osm_id": 206378027,
+    "lon": 12.7681269,
+    "lat": 46.8298662,
+    "x": -912.0,
+    "y": -2704.0,
+    "game_offset_m": 57.7,
+    "population_reference": 12077,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Ried im Innkreis",
+    "osm_id": 35350228,
+    "lon": 13.48839,
+    "lat": 48.2085868,
+    "x": 284.0,
+    "y": 1324.0,
+    "game_offset_m": 0.0,
+    "population_reference": 11404,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Gänserndorf",
+    "osm_id": 240080957,
+    "lon": 16.7187051,
+    "lat": 48.3403867,
+    "x": 6380.0,
+    "y": 2120.0,
+    "game_offset_m": 0.0,
+    "population_reference": 11404,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Gleisdorf",
+    "osm_id": 34849803,
+    "lon": 15.7098162,
+    "lat": 47.1054105,
+    "x": 4736.0,
+    "y": -1544.0,
+    "game_offset_m": 0.0,
+    "population_reference": 11072,
+    "population_date": "2021-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Zwettl",
+    "osm_id": 240056945,
+    "lon": 15.1681644,
+    "lat": 48.6052683,
+    "x": 3396.0,
+    "y": 2636.0,
+    "game_offset_m": 0.0,
+    "population_reference": 10908,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Mistelbach",
+    "osm_id": 44846322,
+    "lon": 16.5720327,
+    "lat": 48.5694535,
+    "x": 6048.0,
+    "y": 2748.0,
+    "game_offset_m": 0.0,
+    "population_reference": 10643,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Sankt Johann im Pongau",
+    "osm_id": 240070646,
+    "lon": 13.2024626,
+    "lat": 47.3478481,
+    "x": -156.0,
+    "y": -1148.0,
+    "game_offset_m": 0.0,
+    "population_reference": 10566,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Imst",
+    "osm_id": 61764877,
+    "lon": 10.7406982,
+    "lat": 47.2381536,
+    "x": -4916.0,
+    "y": -1572.0,
+    "game_offset_m": 16.0,
+    "population_reference": 10504,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  }
+]

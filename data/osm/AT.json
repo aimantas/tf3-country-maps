@@ -2,13 +2,3960 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-07-15T15:22:01Z",
-    "timestamp_areas_base": "2026-07-15T15:22:01Z",
+    "timestamp_osm_base": "2026-11-01T02:45:11Z",
+    "timestamp_areas_base": "2026-10-31T20:36:21Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
 
-
+{
+  "type": "node",
+  "id": 17328659,
+  "lat": 48.2083537,
+  "lon": 16.3725042,
+  "tags": {
+    "ISO3166-1:alpha2": "AT",
+    "admin_level": "2",
+    "alt_name:gl": "Wien",
+    "alt_name:ml": "വീൻ",
+    "capital": "yes",
+    "capital_ISO3166-1": "yes",
+    "description": "Wien ist die Hauptstadt der Republik Österreich und zugleich eines der neun österreichischen Bundesländer.",
+    "name": "Wien",
+    "name:ab": "Вена",
+    "name:ace": "Wina",
+    "name:af": "Wene",
+    "name:am": "ቪየና",
+    "name:an": "Viena",
+    "name:ar": "فيينا",
+    "name:arc": "ܒܝܝܢܐ",
+    "name:arz": "فيينا",
+    "name:as": "ভিয়েনা",
+    "name:ast": "Viena",
+    "name:av": "Вена",
+    "name:az": "Vyana",
+    "name:ba": "Beč",
+    "name:bar": "Wean",
+    "name:bat-smg": "Viena",
+    "name:be": "Вена",
+    "name:be-tarask": "Вена",
+    "name:bg": "Виена",
+    "name:bi": "Vienna",
+    "name:bm": "Vienna",
+    "name:bn": "ভিয়েনা",
+    "name:bo": "ཝི་ཨེ་ན།",
+    "name:br": "Vienna",
+    "name:bs": "Beč",
+    "name:ca": "Viena",
+    "name:ce": "Вена",
+    "name:ceb": "Vienna",
+    "name:ch": "Vienna",
+    "name:ckb": "ڤیێنا",
+    "name:co": "Vienna",
+    "name:crh": "Viyana",
+    "name:cs": "Vídeň",
+    "name:cu": "Вѥнъ",
+    "name:cv": "Венӑ",
+    "name:cy": "Fienna",
+    "name:de": "Wien",
+    "name:diq": "Wiyana",
+    "name:ee": "Vienna",
+    "name:el": "Βιέννη",
+    "name:en": "Vienna",
+    "name:eo": "Vieno",
+    "name:es": "Viena",
+    "name:et": "Viin",
+    "name:eu": "Viena",
+    "name:ext": "Viena",
+    "name:fa": "وین",
+    "name:ff": "Vienna",
+    "name:fi": "Wien",
+    "name:fr": "Vienne",
+    "name:frp": "Vièna",
+    "name:fur": "Viene",
+    "name:fy": "Wenen",
+    "name:ga": "Vín",
+    "name:gag": "Vena",
+    "name:gd": "Vienna",
+    "name:gl": "Viena",
+    "name:gn": "Viéna",
+    "name:gv": "Veen",
+    "name:ha": "Vienna",
+    "name:haw": "Wiena",
+    "name:he": "וינה",
+    "name:hi": "वियना",
+    "name:hif": "Vienna",
+    "name:hr": "Beč",
+    "name:ht": "Vyèn",
+    "name:hu": "Bécs",
+    "name:hy": "Վիեննա",
+    "name:ia": "Vienna",
+    "name:id": "Wina",
+    "name:ie": "Vienna",
+    "name:ilo": "Vienna",
+    "name:is": "Vín",
+    "name:it": "Vienna",
+    "name:ja": "ウィーン",
+    "name:jv": "Wina",
+    "name:ka": "ვენა",
+    "name:kab": "Wien",
+    "name:ki": "Vienna",
+    "name:kk": "Вена",
+    "name:kn": "ವಿಯೆನ್ನ",
+    "name:ko": "빈",
+    "name:koi": "Вин",
+    "name:krc": "Вена",
+    "name:ku": "Viyana",
+    "name:kv": "Вена",
+    "name:ky": "Вена",
+    "name:la": "Vindobona",
+    "name:lez": "Вена",
+    "name:li": "Wene",
+    "name:lij": "Vienna",
+    "name:lmo": "Viena",
+    "name:ln": "Viɛnɛ",
+    "name:lt": "Viena",
+    "name:lv": "Vīne",
+    "name:mg": "Vienna",
+    "name:mhr": "Вена",
+    "name:mi": "Whiena",
+    "name:mk": "Виена",
+    "name:ml": "വിയന്ന",
+    "name:mn": "Вена",
+    "name:mr": "व्हियेना",
+    "name:mrj": "Вена",
+    "name:ms": "Vienna",
+    "name:mt": "Vjenna",
+    "name:my": "ဗီယင်နာမြို့",
+    "name:mzn": "وین",
+    "name:nah": "Viena",
+    "name:nds": "Wien",
+    "name:nds-nl": "Wienen",
+    "name:ne": "भिएना",
+    "name:nl": "Wenen",
+    "name:no": "Wien",
+    "name:nv": "Tsinyiʼ Tóhí",
+    "name:ny": "Vienna",
+    "name:oc": "Viena",
+    "name:or": "ଭିଏନା",
+    "name:os": "Венæ",
+    "name:pa": "ਵਿਆਨਾ",
+    "name:pap": "Viena",
+    "name:pih": "Wienna",
+    "name:pl": "Wiedeń",
+    "name:pms": "Vien-a",
+    "name:pnb": "ویآنا",
+    "name:ps": "وين",
+    "name:pt": "Viena",
+    "name:rm": "Vienna",
+    "name:rmy": "Bech",
+    "name:ro": "Viena",
+    "name:roa-tara": "Vienne",
+    "name:ru": "Вена",
+    "name:rue": "Відень",
+    "name:sah": "Вена",
+    "name:sc": "Vienna",
+    "name:scn": "Vienna",
+    "name:sco": "Vienna",
+    "name:sd": "ويانا",
+    "name:sh": "Beč",
+    "name:si": "වියානා",
+    "name:sk": "Viedeň",
+    "name:sl": "Dunaj",
+    "name:sn": "Vienna",
+    "name:so": "Fiyena",
+    "name:sq": "Vjena",
+    "name:sr": "Беч",
+    "name:st": "Vienna",
+    "name:sv": "Wien",
+    "name:sw": "Vienna",
+    "name:szl": "Wiedziyń",
+    "name:ta": "வியன்னா",
+    "name:te": "వియన్నా",
+    "name:tg": "Вена",
+    "name:th": "เวียนนา",
+    "name:tk": "Wena",
+    "name:tl": "Vienna",
+    "name:tr": "Viyana",
+    "name:tt": "Вена шәһәре",
+    "name:tw": "Vienna",
+    "name:tzl": "Viadna",
+    "name:udm": "Вена",
+    "name:ug": "Wyéna",
+    "name:uk": "Відень",
+    "name:ur": "ویانا",
+    "name:uz": "Vena",
+    "name:vec": "Viena",
+    "name:vep": "Ven",
+    "name:vi": "Viên",
+    "name:vro": "Viin",
+    "name:wa": "Wîne",
+    "name:wal": "Veenaa",
+    "name:war": "Vienna",
+    "name:wo": "Wiyen",
+    "name:wuu": "维恩纳",
+    "name:xh": "EVienna",
+    "name:yi": "וויען",
+    "name:yo": "Vienna",
+    "name:yue": "維也納",
+    "name:yue-Latn": "Wai4 Jaa5 Naap6",
+    "name:zh": "維也納",
+    "name:zh-Hans": "维也纳",
+    "name:zh-Hant": "維也納",
+    "name:zh-Latn": "Wéiyěnà",
+    "place": "city",
+    "population": "2042036",
+    "population:date": "2021-01-01",
+    "source:population": "wikipedia",
+    "website": "https://www.wien.gv.at/",
+    "wikidata": "Q1741",
+    "wikipedia": "de:Wien"
+  }
+},
+{
+  "type": "node",
+  "id": 17330426,
+  "lat": 48.2076724,
+  "lon": 16.1772068,
+  "tags": {
+    "ele": "248",
+    "name": "Purkersdorf",
+    "name:de": "Purkersdorf",
+    "name:hu": "Purkersdorf",
+    "name:ru": "Пуркерсдорф",
+    "name:zh": "普尔克尔斯多夫",
+    "place": "town",
+    "population": "9684",
+    "ref:at:gkz": "3241601",
+    "ref:at:okz": "06722",
+    "wikidata": "Q590620",
+    "wikipedia": "de:Purkersdorf"
+  }
+},
+{
+  "type": "node",
+  "id": 21015489,
+  "lat": 47.0708678,
+  "lon": 15.4382786,
+  "tags": {
+    "alt_name:hr": "Gradac",
+    "alt_name:la": "Graecium",
+    "alt_name:mk": "Градец",
+    "alt_name:sk": "Hradec",
+    "capital": "4",
+    "ele": "353",
+    "name": "Graz",
+    "name:am": "ግራጽ",
+    "name:ar": "غراتس",
+    "name:az": "Qrats",
+    "name:ba": "Грац",
+    "name:be": "Грац",
+    "name:be-tarask": "Грац",
+    "name:bg": "Грац",
+    "name:bn": "গ্রাৎস",
+    "name:ce": "Грац",
+    "name:cs": "Štýrský Hradec",
+    "name:cv": "Грац",
+    "name:de": "Graz",
+    "name:el": "Γκρατς",
+    "name:en": "Graz",
+    "name:fa": "گراتس",
+    "name:fr": "Graz",
+    "name:he": "גראץ",
+    "name:hr": "Graz",
+    "name:hsb": "Štyrski Hródk",
+    "name:hu": "Grác",
+    "name:hy": "Գրաց",
+    "name:ja": "グラーツ",
+    "name:ka": "გრაცი",
+    "name:kn": "ಗ್ರಾಟ್ಸ್್",
+    "name:ko": "그라츠",
+    "name:la": "Graecia",
+    "name:lt": "Gracas",
+    "name:lv": "Grāca",
+    "name:mk": "Грац",
+    "name:ml": "ഗ്രാസ്",
+    "name:mn": "Грац",
+    "name:mr": "ग्रात्स",
+    "name:os": "Грац",
+    "name:ps": "گراڅ",
+    "name:rmc": "Gereci",
+    "name:ro": "Graz",
+    "name:ru": "Грац",
+    "name:sd": "گراتس",
+    "name:sl": "Gradec",
+    "name:sq": "Grac",
+    "name:sr": "Грац",
+    "name:ta": "க்ராத்ஸ்",
+    "name:tg": "Грас",
+    "name:th": "กราทซ์",
+    "name:tt": "Грац",
+    "name:ug": "گراز",
+    "name:uk": "Ґрац",
+    "name:ur": "گراتز",
+    "name:uz": "Grats",
+    "name:yi": "גראץ",
+    "name:zh": "格拉茨",
+    "name:zh-Hans": "格拉茨",
+    "name:zh-Hant": "格拉茨",
+    "old_name:hr": "Gradac;Štajerski Gradac",
+    "place": "city",
+    "population": "331359",
+    "population:date": "2020-01",
+    "website": "https://www.graz.at/",
+    "wikidata": "Q13298",
+    "wikipedia": "de:Graz"
+  }
+},
+{
+  "type": "node",
+  "id": 25181326,
+  "lat": 48.3059078,
+  "lon": 14.2861980,
+  "tags": {
+    "alt_name:mk": "Линец",
+    "capital": "4",
+    "ele": "266",
+    "name": "Linz",
+    "name:ar": "لنتس",
+    "name:az": "Lins",
+    "name:ba": "Линц",
+    "name:be": "Лінц",
+    "name:be-tarask": "Лінц",
+    "name:bg": "Линц",
+    "name:bn": "লিনৎস",
+    "name:ce": "Линц",
+    "name:cs": "Linec",
+    "name:de": "Linz",
+    "name:el": "Λιντς",
+    "name:en": "Linz",
+    "name:fa": "لینتس",
+    "name:fr": "Linz",
+    "name:he": "לינץ",
+    "name:hi": "लिंज़",
+    "name:hu": "Linz",
+    "name:hy": "Լինց",
+    "name:ja": "リンツ",
+    "name:ka": "ლინყი",
+    "name:kn": "ಲಿನ್ಸ್",
+    "name:ko": "린츠",
+    "name:ky": "Линц",
+    "name:la": "Lentia",
+    "name:lt": "Lincas",
+    "name:lv": "Linca",
+    "name:mk": "Линц",
+    "name:ml": "ലിൻ്റ്സ്",
+    "name:mn": "Линц",
+    "name:mr": "लिंत्स",
+    "name:os": "Линц",
+    "name:ps": "لینڅ",
+    "name:ro": "Linz",
+    "name:ru": "Линц",
+    "name:sc": "Linz",
+    "name:sk": "Linec",
+    "name:sq": "Linc",
+    "name:sr": "Линц",
+    "name:th": "ลินทซ์",
+    "name:tt": "Линц",
+    "name:uk": "Лінц",
+    "name:ur": "لینتس",
+    "name:uz": "Lins",
+    "name:yi": "לינץ",
+    "name:zh": "林茨",
+    "place": "city",
+    "population": "207812",
+    "population:date": "2021-01-01",
+    "website": "https://linz.at/",
+    "wikidata": "Q41329",
+    "wikipedia": "de:Linz"
+  }
+},
+{
+  "type": "node",
+  "id": 26370473,
+  "lat": 47.3239636,
+  "lon": 12.7963165,
+  "tags": {
+    "capital": "6",
+    "ele": "750",
+    "name": "Zell am See",
+    "name:hu": "Zell am See",
+    "name:la": "Cella in Bisoncio",
+    "name:ru": "Целль-ам-Зе",
+    "place": "town",
+    "population": "10131",
+    "source": "landsat",
+    "wikidata": "Q187572",
+    "wikipedia": "de:Zell am See"
+  }
+},
+{
+  "type": "node",
+  "id": 26748998,
+  "lat": 48.1565472,
+  "lon": 14.0243752,
+  "tags": {
+    "capital": "6",
+    "ele": "317",
+    "name": "Wels",
+    "name:hu": "Wels",
+    "name:lt": "Velsas",
+    "name:ml": "വെൽസ്",
+    "name:uk": "Вельс",
+    "place": "town",
+    "population": "59853",
+    "website": "https://www.wels.at/",
+    "wikidata": "Q178582",
+    "wikipedia": "de:Wels (Stadt)"
+  }
+},
+{
+  "type": "node",
+  "id": 26754457,
+  "lat": 47.3805128,
+  "lon": 15.0947756,
+  "tags": {
+    "capital": "6",
+    "name": "Leoben",
+    "name:cs": "Lubno",
+    "name:hu": "Leoben",
+    "name:ru": "Леобен",
+    "name:uk": "Леобен",
+    "place": "town",
+    "population": "24645"
+  }
+},
+{
+  "type": "node",
+  "id": 26759287,
+  "lat": 47.0644882,
+  "lon": 15.0850032,
+  "tags": {
+    "name": "Köflach",
+    "name:hu": "Köflach",
+    "name:ru": "Кёфлах",
+    "place": "town",
+    "population": "4856"
+  }
+},
+{
+  "type": "node",
+  "id": 26807229,
+  "lat": 47.8131847,
+  "lon": 16.2441166,
+  "tags": {
+    "alt_name": "Wr. Neustadt",
+    "capital": "6",
+    "ele": "262",
+    "geonames:id": "2761353",
+    "import_ref": "city_import_at_1",
+    "name": "Wiener Neustadt",
+    "name:ar": "فينر نويشتات",
+    "name:bg": "Винер Нойщат",
+    "name:bs": "Bečko Novo Mjesto",
+    "name:cs": "Vídeňské Nové Město",
+    "name:de": "Wiener Neustadt",
+    "name:he": "וינר נוישטט",
+    "name:hr": "Bečko Novo Mjesto",
+    "name:hu": "Bécsújhely",
+    "name:ja": "ウィーナー・ノイシュタット",
+    "name:ka": "ვენური ახალქალაქი",
+    "name:lt": "Vyner Noištatas",
+    "name:ml": "വീനർ നോയ്‌സ്റ്റാറ്റ്",
+    "name:ru": "Винер-Нойштадт",
+    "name:sk": "Viedenské Nové Mesto",
+    "name:sl": "Dunajsko Novo mesto",
+    "name:sr": "Винер Нојштат",
+    "name:uk": "Вінер-Нойштадт",
+    "name:zh": "維也納新城",
+    "place": "town",
+    "population": "38481",
+    "source": "survey",
+    "source:name": "www.geonames.org",
+    "website": "https://www.wiener-neustadt.at/",
+    "wikidata": "Q131612",
+    "wikipedia": "de:Wiener Neustadt"
+  }
+},
+{
+  "type": "node",
+  "id": 26807230,
+  "lat": 47.7368423,
+  "lon": 16.3980488,
+  "tags": {
+    "capital": "6",
+    "ele": "238",
+    "geonames:id": "2771817",
+    "import_ref": "city_import_at_1",
+    "name": "Mattersburg",
+    "name:hr": "Matrštof",
+    "name:hu": "Nagymarton",
+    "name:ml": "മറ്റർസ്ബർഗ്",
+    "name:ru": "Маттерсбург",
+    "place": "town",
+    "population": "7177",
+    "postal_code": "7210",
+    "source:name": "www.geonames.org",
+    "wikidata": "Q250832",
+    "wikipedia": "de:Mattersburg"
+  }
+},
+{
+  "type": "node",
+  "id": 26807241,
+  "lat": 47.8454821,
+  "lon": 16.5249288,
+  "tags": {
+    "capital": "4",
+    "ele": "182",
+    "name": "Eisenstadt",
+    "name:bar": "Eisnståd",
+    "name:be": "Айзенштат",
+    "name:be-tarask": "Айзенштат",
+    "name:bg": "Айзенщат",
+    "name:cs": "Železno",
+    "name:de": "Eisenstadt",
+    "name:he": "אייזנשטט",
+    "name:hr": "Željezno",
+    "name:hu": "Kismarton",
+    "name:ka": "რკინისქალაქი",
+    "name:ko": "아이젠슈타트",
+    "name:la": "Ferreum Castrum",
+    "name:lt": "Eizenštatas",
+    "name:rmc": "Srasta",
+    "name:ru": "Айзенштадт",
+    "name:sk": "Železno",
+    "name:sr": "Ајзенштат",
+    "name:uk": "Айзенштадт",
+    "place": "town",
+    "population": "9243",
+    "postal_code": "7000",
+    "source:name": "www.geonames.org",
+    "wikidata": "Q126321",
+    "wikipedia": "de:Eisenstadt"
+  }
+},
+{
+  "type": "node",
+  "id": 26902436,
+  "lat": 47.4872718,
+  "lon": 12.0637633,
+  "tags": {
+    "ele": "513",
+    "name": "Wörgl",
+    "name:hu": "Wörgl",
+    "name:ru": "Вёргль",
+    "place": "town",
+    "population": "13811",
+    "population:date": "2018-01-01",
+    "rank": "20"
+  }
+},
+{
+  "type": "node",
+  "id": 26902437,
+  "lat": 47.5829960,
+  "lon": 12.1692134,
+  "tags": {
+    "capital": "6",
+    "name": "Kufstein",
+    "name:ar": "كوفشتاين",
+    "name:hu": "Kufstein",
+    "name:ja": "クーフシュタイン",
+    "name:ru": "Куфштайн",
+    "name:zh": "库夫施泰因",
+    "place": "town",
+    "population": "19223",
+    "population:date": "2018-01-01",
+    "rank": "20",
+    "wikidata": "Q486341",
+    "wikipedia": "de:Kufstein"
+  }
+},
+{
+  "type": "node",
+  "id": 27270094,
+  "lat": 48.1970124,
+  "lon": 15.9070980,
+  "tags": {
+    "name": "Neulengbach",
+    "name:hu": "Neulengbach",
+    "name:ru": "Нойленгбах",
+    "place": "town",
+    "population": "1529",
+    "source": "gns"
+  }
+},
+{
+  "type": "node",
+  "id": 27270101,
+  "lat": 48.0585791,
+  "lon": 16.0786108,
+  "tags": {
+    "name": "Alland",
+    "name:hu": "Alland",
+    "name:ru": "Алланд",
+    "place": "town",
+    "place:note": "town aufgrund der Bedeutung für die Region gewählt, obwohl population<2000 ist",
+    "population": "1558",
+    "population:date": "2023-01-01",
+    "source:population": "wikipedia",
+    "wikidata": "Q665137",
+    "wikipedia": "de:Alland"
+  }
+},
+{
+  "type": "node",
+  "id": 27270104,
+  "lat": 48.0348237,
+  "lon": 15.7711936,
+  "tags": {
+    "name": "Hainfeld",
+    "name:de": "Hainfeld",
+    "name:ru": "Хайнфельд",
+    "place": "town",
+    "population": "2025",
+    "source": "gns"
+  }
+},
+{
+  "type": "node",
+  "id": 27270106,
+  "lat": 48.3846124,
+  "lon": 16.2076303,
+  "tags": {
+    "name": "Stockerau",
+    "name:cs": "Štokrava",
+    "name:hu": "Stockerau",
+    "name:ml": "സ്റ്റോക്കറൗ",
+    "name:ru": "Штоккерау",
+    "name:sk": "Štokrava",
+    "place": "town",
+    "population": "16858",
+    "wikidata": "Q494283",
+    "wikipedia": "de:Stockerau"
+  }
+},
+{
+  "type": "node",
+  "id": 29748312,
+  "lat": 47.9134270,
+  "lon": 16.6957954,
+  "tags": {
+    "ele": "128",
+    "name": "Purbach am Neusiedler See",
+    "name:de": "Purbach am Neusiedler See",
+    "name:hr": "Porpuh",
+    "name:hu": "Feketeváros",
+    "name:ru": "Пурбах",
+    "official_name": "Purbach am Neusiedler See",
+    "place": "town",
+    "population": "2885",
+    "short_name": "Purbach",
+    "website": "https://www.purbach.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 29748318,
+  "lat": 47.8003459,
+  "lon": 16.6749452,
+  "tags": {
+    "capital": "6",
+    "ele": "123",
+    "name": "Rust",
+    "name:hr": "Rušta",
+    "name:hu": "Ruszt",
+    "name:ru": "Руст",
+    "place": "town",
+    "population": "1980"
+  }
+},
+{
+  "type": "node",
+  "id": 29749399,
+  "lat": 47.7895615,
+  "lon": 15.9124064,
+  "tags": {
+    "name": "Puchberg am Schneeberg",
+    "place": "town",
+    "population": "2812",
+    "short_name": "Puchberg"
+  }
+},
+{
+  "type": "node",
+  "id": 29749986,
+  "lat": 48.1486658,
+  "lon": 16.7017163,
+  "tags": {
+    "name": "Orth an der Donau",
+    "name:de": "Orth an der Donau",
+    "name:hr": "Šari Grad",
+    "name:ru": "Орт-на-Дунае",
+    "name:sk": "Ort",
+    "place": "town",
+    "place:note": "town aufgrund der Bedeutung für die Region gewählt, obwohl population<2000 ist",
+    "population": "1966"
+  }
+},
+{
+  "type": "node",
+  "id": 29752440,
+  "lat": 48.2272068,
+  "lon": 15.3369992,
+  "tags": {
+    "capital": "6",
+    "ele": "213",
+    "name": "Melk",
+    "name:cs": "Medlík",
+    "name:de": "Melk",
+    "name:ru": "Мельк",
+    "place": "town",
+    "population": "5296",
+    "wikidata": "Q489806",
+    "wikipedia": "de:Melk"
+  }
+},
+{
+  "type": "node",
+  "id": 29777261,
+  "lat": 46.6167284,
+  "lon": 13.8500268,
+  "tags": {
+    "capital": "6",
+    "ele": "501",
+    "name": "Villach",
+    "name:cs": "Bělák",
+    "name:de": "Villach",
+    "name:fur": "Vilac",
+    "name:hu": "Villach",
+    "name:it": "Villaco",
+    "name:ka": "ფილახი",
+    "name:ml": "വിലാഹ്",
+    "name:ru": "Филлах",
+    "name:sk": "Belák",
+    "name:sl": "Beljak",
+    "name:sr": "Филах",
+    "name:uk": "Філлах",
+    "place": "town",
+    "population": "61221",
+    "population:date": "2016",
+    "wikidata": "Q483522",
+    "wikipedia": "de:Villach"
+  }
+},
+{
+  "type": "node",
+  "id": 29777988,
+  "lat": 46.6239430,
+  "lon": 14.3075976,
+  "tags": {
+    "alt_name:hr": "Celovac",
+    "capital": "4",
+    "ele": "446",
+    "name": "Klagenfurt",
+    "name:ar": "كلاغنفورت",
+    "name:be": "Клагенфурт",
+    "name:be-tarask": "Клягенфурт",
+    "name:bs": "Celovec",
+    "name:cs": "Celovec",
+    "name:de": "Klagenfurt",
+    "name:en": "Klagenfurt",
+    "name:es": "Klagenfurt",
+    "name:fr": "Klagenfurt",
+    "name:fur": "Clanfurt",
+    "name:hr": "Klagenfurt",
+    "name:hsb": "Celowc",
+    "name:hu": "Klagenfurt",
+    "name:ja": "クラーゲンフルト・アム・ヴェルターゼー",
+    "name:ka": "კლაგენფურთი;ცელოვწი",
+    "name:ko": "클라겐푸르트",
+    "name:la": "Clagenfurtum",
+    "name:lt": "Clanforte",
+    "name:lv": "Klāgenfurte",
+    "name:mk": "Клагенфурт",
+    "name:ml": "ക്ലാഗൻഫുർട്ട്",
+    "name:ru": "Клагенфурт",
+    "name:sk": "Celovec",
+    "name:sl": "Celovec ob Vrbskem jezeru",
+    "name:sr": "Клагенфурт",
+    "name:uk": "Клаґенфурт",
+    "official_name": "Klagenfurt am Wörthersee",
+    "official_name:de": "Klagenfurt am Wörthersee",
+    "official_name:uk": "Клаґенфурт-ам-Вертерзе",
+    "old_name:cs": "Celovec",
+    "place": "city",
+    "population": "100316",
+    "population:date": "2018-01-01",
+    "website": "https://www.klagenfurt.at/",
+    "wikidata": "Q41753",
+    "wikipedia": "de:Klagenfurt am Wörthersee"
+  }
+},
+{
+  "type": "node",
+  "id": 30587791,
+  "lat": 47.9185855,
+  "lon": 13.8003048,
+  "tags": {
+    "capital": "6",
+    "ele": "425",
+    "name": "Gmunden",
+    "name:hu": "Gmunden",
+    "name:ru": "Гмунден",
+    "place": "town",
+    "population": "13104",
+    "wikidata": "Q430449",
+    "wikipedia": "de:Gmunden"
+  }
+},
+{
+  "type": "node",
+  "id": 30589153,
+  "lat": 47.9051940,
+  "lon": 14.1244169,
+  "tags": {
+    "capital": "6",
+    "name": "Kirchdorf an der Krems",
+    "name:cs": "Kostelec nad Kremží",
+    "place": "town",
+    "population": "4099",
+    "wikidata": "Q688620"
+  }
+},
+{
+  "type": "node",
+  "id": 31238390,
+  "lat": 46.7506053,
+  "lon": 13.1804131,
+  "tags": {
+    "name": "Greifenburg",
+    "place": "town",
+    "population": "1005",
+    "population:date": "2024-01-01",
+    "source:population": "wikipedia"
+  }
+},
+{
+  "type": "node",
+  "id": 31238888,
+  "lat": 46.7982211,
+  "lon": 13.4963308,
+  "tags": {
+    "capital": "6",
+    "ele": "560",
+    "name": "Spittal an der Drau",
+    "name:hu": "Spittal an der Drau",
+    "name:ja": "シュピッタール",
+    "name:sl": "Špital ob Dravi",
+    "official_name:ja": "シュピッタール・アン・デア・ドラウ",
+    "place": "town",
+    "population": "15549",
+    "wikidata": "Q487500",
+    "wikipedia": "de:Spittal an der Drau"
+  }
+},
+{
+  "type": "node",
+  "id": 32463266,
+  "lat": 47.5224141,
+  "lon": 12.4286809,
+  "tags": {
+    "alt_name": "Sankt Johann in Tirol",
+    "ele": "659",
+    "name": "St. Johann in Tirol",
+    "name:hu": "St. Johann in Tirol",
+    "note": "Offizielle Schreibweise l.t. Gemeinde ist St. Johann in Tirol",
+    "place": "town",
+    "population": "9891",
+    "wikidata": "Q699599",
+    "wikipedia": "de:St. Johann in Tirol"
+  }
+},
+{
+  "type": "node",
+  "id": 32627098,
+  "lat": 47.2375671,
+  "lon": 9.5981724,
+  "tags": {
+    "capital": "6",
+    "name": "Feldkirch",
+    "name:de": "Feldkirch",
+    "name:el": "Φέλντκιρχ",
+    "name:ja": "フェルトキルヒ",
+    "name:mk": "Фелдкирх",
+    "name:rm": "Sogn Pieder",
+    "name:uk": "Фельдкірх",
+    "name:zh": "費爾德基希",
+    "place": "town",
+    "population": "35793",
+    "population:date": "2023-01-01",
+    "source:population": "Statistik Austria",
+    "wikidata": "Q21881819"
+  }
+},
+{
+  "type": "node",
+  "id": 34103909,
+  "lat": 47.9655519,
+  "lon": 16.2148073,
+  "tags": {
+    "name": "Bad Vöslau",
+    "name:de": "Bad Vöslau",
+    "name:hu": "Bad Vöslau",
+    "name:ru": "Бад-Фёслау",
+    "place": "town",
+    "population": "11190",
+    "wikidata": "Q798800",
+    "wikipedia": "de:Bad Vöslau"
+  }
+},
+{
+  "type": "node",
+  "id": 34103911,
+  "lat": 48.0076713,
+  "lon": 16.2343693,
+  "tags": {
+    "addr:postcode": "2500",
+    "alt_name": "Baden bei Wien",
+    "alt_name:hr": "Teplice",
+    "capital": "6",
+    "heritage": "1",
+    "heritage:operator": "whc",
+    "heritage:ref": "1613",
+    "heritage:website": "https://whc.unesco.org/en/list/1613/",
+    "name": "Baden",
+    "name:cs": "Baden",
+    "name:de": "Baden",
+    "name:en": "Baden",
+    "name:fr": "Baden",
+    "name:he": "באדן",
+    "name:hr": "Baden",
+    "name:hu": "Baden",
+    "name:it": "Baden",
+    "name:lt": "Badenas",
+    "name:ru": "Баден",
+    "name:sk": "Baden",
+    "name:sl": "Baden",
+    "name:uk": "Баден",
+    "note": "Stadt",
+    "place": "town",
+    "population": "25000",
+    "ref:whc": "1613-001",
+    "whc:criteria": "(ii)(iii)",
+    "whc:inscription_date": "2021",
+    "wikidata": "Q486450",
+    "wikipedia": "de:Baden (Niederösterreich)"
+  }
+},
+{
+  "type": "node",
+  "id": 34104024,
+  "lat": 47.9455876,
+  "lon": 16.1093585,
+  "tags": {
+    "ele": "314",
+    "name": "Berndorf",
+    "name:de": "Berndorf",
+    "name:hu": "Berndorf",
+    "name:ru": "Берндорф",
+    "place": "town",
+    "population": "8698",
+    "wikidata": "Q666615",
+    "wikipedia": "de:Berndorf (Niederösterreich)"
+  }
+},
+{
+  "type": "node",
+  "id": 34840064,
+  "lat": 47.2654296,
+  "lon": 11.3927685,
+  "tags": {
+    "alt_name:cs": "Inomostí",
+    "capital": "4",
+    "ele": "574",
+    "name": "Innsbruck",
+    "name:ar": "إنسبروك",
+    "name:az": "İnsbruk",
+    "name:bar": "Innschbrugg",
+    "name:be": "Інсбрук",
+    "name:be-tarask": "Інсбрук",
+    "name:bg": "Инсбрук",
+    "name:bn": "ইন্সব্রুক",
+    "name:cs": "Inšpruk",
+    "name:cv": "Инсбрук",
+    "name:de": "Innsbruck",
+    "name:el": "Ίνσμπρουκ",
+    "name:en": "Innsbruck",
+    "name:fa": "اینسبروک",
+    "name:fr": "Innsbruck",
+    "name:he": "אינסברוק",
+    "name:hu": "Innsbruck",
+    "name:it": "Innsbruck",
+    "name:ja": "インスブルック",
+    "name:ka": "ინსბრუკი",
+    "name:kk": "Инсбрук",
+    "name:kn": "ಇಸ್ಸ್ಬ್ರುಕ್",
+    "name:ko": "인스브루크",
+    "name:la": "Pons Aeni",
+    "name:lld": "Dispruch",
+    "name:lt": "Insbrukas",
+    "name:lv": "Insbruka",
+    "name:mk": "Инсбрук",
+    "name:ml": "ഇൻസ്ബ്രൂക്ക്",
+    "name:mr": "इन्सब्रुक",
+    "name:os": "Инсбрук",
+    "name:rm": "Puntina",
+    "name:ru": "Инсбрук",
+    "name:sr": "Инзбрук",
+    "name:th": "อินส์บรุค",
+    "name:tr": "İnnsbruck",
+    "name:uk": "Інсбрук",
+    "name:zh": "因斯布鲁克",
+    "name:zh-Hant": "因斯布魯克",
+    "old_name:hr": "Inomost;Inšpruk",
+    "old_name:it": "Ponte sull'Eno",
+    "old_name:sl": "Inomost;Inšpruk",
+    "place": "city",
+    "population": "130585",
+    "population:date": "2022",
+    "website": "https://www.innsbruck.at/",
+    "wikidata": "Q1735",
+    "wikipedia": "de:Innsbruck"
+  }
+},
+{
+  "type": "node",
+  "id": 34841814,
+  "lat": 47.5012609,
+  "lon": 16.5054577,
+  "tags": {
+    "capital": "6",
+    "name": "Oberpullendorf/Felsőpulya",
+    "name:de": "Oberpullendorf",
+    "name:hr": "Gornja Pulja",
+    "name:hu": "Felsőpulya",
+    "name:rmc": "Uprutni Puja",
+    "name:ru": "Оберпуллендорф",
+    "place": "town",
+    "population": "3176"
+  }
+},
+{
+  "type": "node",
+  "id": 34844268,
+  "lat": 48.1110690,
+  "lon": 15.3410341,
+  "tags": {
+    "name": "Mank",
+    "place": "town",
+    "population": "1571"
+  }
+},
+{
+  "type": "node",
+  "id": 34848074,
+  "lat": 46.9371733,
+  "lon": 16.1412906,
+  "tags": {
+    "capital": "6",
+    "name": "Jennersdorf",
+    "name:hr": "Jeništrof",
+    "name:hu": "Gyanafalva",
+    "name:ru": "Йеннерсдорф",
+    "name:sl": "Ženavci",
+    "place": "town",
+    "population": "2351"
+  }
+},
+{
+  "type": "node",
+  "id": 34849803,
+  "lat": 47.1054105,
+  "lon": 15.7098162,
+  "tags": {
+    "name": "Gleisdorf",
+    "name:ru": "Гляйсдорф",
+    "place": "town",
+    "population": "11072",
+    "population:date": "2021-01-01",
+    "wikidata": "Q643600",
+    "wikipedia": "de:Gleisdorf"
+  }
+},
+{
+  "type": "node",
+  "id": 34854128,
+  "lat": 47.2715315,
+  "lon": 15.3260206,
+  "tags": {
+    "name": "Frohnleiten",
+    "place": "town",
+    "population": "6655",
+    "wikidata": "Q661519",
+    "wikipedia": "de:Frohnleiten"
+  }
+},
+{
+  "type": "node",
+  "id": 34855256,
+  "lat": 47.4121987,
+  "lon": 15.2721668,
+  "tags": {
+    "capital": "6",
+    "name": "Bruck an der Mur",
+    "name:hu": "Bruck an der Mur",
+    "name:ru": "Брук-ан-дер-Мур",
+    "place": "town",
+    "population": "9748",
+    "wikidata": "Q259893",
+    "wikipedia": "en:Bruck an der Mur"
+  }
+},
+{
+  "type": "node",
+  "id": 34911644,
+  "lat": 46.8146272,
+  "lon": 15.2137799,
+  "tags": {
+    "capital": "6",
+    "name": "Deutschlandsberg",
+    "name:hu": "Deutschlandsberg",
+    "name:ru": "Дойчландсберг",
+    "place": "town",
+    "population": "7983"
+  }
+},
+{
+  "type": "node",
+  "id": 34911783,
+  "lat": 47.4405481,
+  "lon": 15.2901669,
+  "tags": {
+    "name": "Kapfenberg",
+    "name:ru": "Капфенберг",
+    "name:uk": "Капфенберґ",
+    "place": "town",
+    "population": "23004",
+    "wikidata": "Q623049",
+    "wikipedia": "de:Kapfenberg"
+  }
+},
+{
+  "type": "node",
+  "id": 34911808,
+  "lat": 47.6053538,
+  "lon": 15.6723805,
+  "tags": {
+    "name": "Mürzzuschlag",
+    "place": "town",
+    "population": "6842"
+  }
+},
+{
+  "type": "node",
+  "id": 34956200,
+  "lat": 46.7076470,
+  "lon": 15.7695211,
+  "tags": {
+    "alt_name:hr": "Cmurek",
+    "name": "Mureck",
+    "name:de": "Mureck",
+    "name:en": "Mureck",
+    "name:hr": "Mureck",
+    "name:hu": "Murahegy",
+    "name:prefix": "Stadt",
+    "name:ru": "Мурек",
+    "name:sl": "Cmurek",
+    "name:uk": "Мурек",
+    "place": "town",
+    "population": "1690",
+    "wikidata": "Q163474",
+    "wikipedia": "de:Mureck"
+  }
+},
+{
+  "type": "node",
+  "id": 34964314,
+  "lat": 47.7981346,
+  "lon": 13.0464806,
+  "tags": {
+    "alt_name:cs": "Solnohrad",
+    "alt_name:mk": "Залцбург",
+    "capital": "4",
+    "ele": "424",
+    "name": "Salzburg",
+    "name:ar": "زالتسبورغ",
+    "name:az": "Zalsburq",
+    "name:bar": "Soizburg",
+    "name:be-tarask": "Зальцбург",
+    "name:bs": "Salzburg",
+    "name:cs": "Salcburk",
+    "name:de": "Salzburg",
+    "name:el": "Σάλτσμπουργκ",
+    "name:en": "Salzburg",
+    "name:es": "Salzburgo",
+    "name:fr": "Salzbourg",
+    "name:fur": "Salisburc",
+    "name:he": "זלצבורג",
+    "name:hr": "Salzburg",
+    "name:hu": "Salzburg",
+    "name:hy": "Զալցբուրգ",
+    "name:it": "Salisburgo",
+    "name:ka": "ზალცბურგი",
+    "name:kn": "ಸಾಲ್ಸ್ಬುರ್ಗ್",
+    "name:ko": "잘츠부르크",
+    "name:la": "Salisburgum",
+    "name:lt": "Zalcburgas",
+    "name:lv": "Zalcburga",
+    "name:mk": "Салцбург",
+    "name:ml": "സാൽസ്ബർഗ്",
+    "name:ro": "Salzburg",
+    "name:ru": "Зальцбург",
+    "name:sk": "Soľnohrad",
+    "name:sl": "Salzburg",
+    "name:sr": "Салцбург",
+    "name:uk": "Зальцбурґ",
+    "name:zh": "萨尔茨堡",
+    "name:zh-Hans": "萨尔茨堡",
+    "name:zh-Hant": "薩爾茨堡",
+    "old_name:sl": "Solnograd",
+    "place": "city",
+    "population": "152083",
+    "population:date": "2015",
+    "wikidata": "Q34713",
+    "wikipedia": "de:Salzburg"
+  }
+},
+{
+  "type": "node",
+  "id": 35293519,
+  "lat": 47.2861513,
+  "lon": 16.2124214,
+  "tags": {
+    "capital": "6",
+    "name": "Oberwart/Felsőőr",
+    "name:de": "Oberwart",
+    "name:hr": "Gornja Borta",
+    "name:hu": "Felsőőr",
+    "name:ro": "Erba",
+    "name:ru": "Оберварт",
+    "place": "town",
+    "population": "6442",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 35350228,
+  "lat": 48.2085868,
+  "lon": 13.4883900,
+  "tags": {
+    "capital": "6",
+    "name": "Ried im Innkreis",
+    "name:hu": "Ried im Innkreis",
+    "place": "town",
+    "population": "11404"
+  }
+},
+{
+  "type": "node",
+  "id": 36487909,
+  "lat": 46.8190736,
+  "lon": 13.5186548,
+  "tags": {
+    "ele": "618",
+    "name": "Seeboden",
+    "place": "town",
+    "population": "6325",
+    "wikidata": "Q660576",
+    "wikipedia": "de:Seeboden am Millstätter See"
+  }
+},
+{
+  "type": "node",
+  "id": 36488223,
+  "lat": 46.8007487,
+  "lon": 13.7107017,
+  "tags": {
+    "alt_name": "die GranatStadt",
+    "name": "Radenthein",
+    "name:de": "Radenthein",
+    "name:ru": "Радентайн",
+    "name:zh": "拉登泰因",
+    "place": "town",
+    "population": "1974"
+  }
+},
+{
+  "type": "node",
+  "id": 36488725,
+  "lat": 46.8051293,
+  "lon": 13.5714926,
+  "tags": {
+    "ele": "611",
+    "name": "Millstatt",
+    "name:ru": "Милльштатт",
+    "name:uk": "Мілльштатт",
+    "name:zh": "米尔施塔特",
+    "place": "town",
+    "population": "3464",
+    "population:date": "2025-01-01",
+    "source:population": "wikipedia",
+    "wikidata": "Q668044",
+    "wikipedia": "de:Millstatt am See"
+  }
+},
+{
+  "type": "node",
+  "id": 37580635,
+  "lat": 48.8657996,
+  "lon": 15.1230155,
+  "tags": {
+    "name": "Heidenreichstein",
+    "name:cs": "Kamýk",
+    "name:de": "Heidenreichstein",
+    "place": "town",
+    "population": "4067",
+    "website": "https://www.heidenreichstein.gv.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 37581252,
+  "lat": 48.9443409,
+  "lon": 15.0453244,
+  "tags": {
+    "name": "Litschau",
+    "name:cs": "Líčov",
+    "name:de": "Litschau",
+    "name:ru": "Личау",
+    "place": "town",
+    "population": "2083",
+    "wikidata": "Q669693",
+    "wikipedia": "de:Litschau"
+  }
+},
+{
+  "type": "node",
+  "id": 37585033,
+  "lat": 48.7729279,
+  "lon": 14.9861752,
+  "tags": {
+    "capital": "6",
+    "name": "Gmünd",
+    "name:cs": "Cmunt",
+    "name:de": "Gmünd",
+    "name:ru": "Гмюнд",
+    "place": "town",
+    "population": "5088"
+  }
+},
+{
+  "type": "node",
+  "id": 39460210,
+  "lat": 47.8677623,
+  "lon": 16.3764014,
+  "tags": {
+    "ele": "231",
+    "name": "Neufeld an der Leitha",
+    "name:de": "Neufeld an der Leitha",
+    "name:hr": "Novo Selo",
+    "name:hu": "Lajtaújfalu",
+    "name:ru": "Нойфельд-на-Лайте",
+    "place": "town",
+    "population": "3486",
+    "ref:at:gkz": "1030901",
+    "wikidata": "Q259859",
+    "wikipedia": "de:Neufeld an der Leitha"
+  }
+},
+{
+  "type": "node",
+  "id": 41404066,
+  "lat": 48.3549825,
+  "lon": 14.5308031,
+  "tags": {
+    "ele": "430",
+    "name": "Pregarten",
+    "name:ru": "Прегартен",
+    "place": "town",
+    "population": "2509"
+  }
+},
+{
+  "type": "node",
+  "id": 41843375,
+  "lat": 48.8146165,
+  "lon": 15.2845180,
+  "tags": {
+    "alt_name:cs": "Český Bejdov",
+    "capital": "6",
+    "ele": "510",
+    "name": "Waidhofen an der Thaya",
+    "name:cs": "Bejdov nad Dyjí",
+    "name:de": "Waidhofen an der Thaya",
+    "place": "town",
+    "population": "5459",
+    "website": "http://www.waidhofen-thaya-stadt.at/",
+    "wikidata": "Q660060",
+    "wikipedia": "de:Waidhofen an der Thaya"
+  }
+},
+{
+  "type": "node",
+  "id": 43758043,
+  "lat": 48.7007937,
+  "lon": 14.8941385,
+  "tags": {
+    "name": "Weitra",
+    "name:cs": "Vitoraz",
+    "name:de": "Weitra",
+    "place": "town",
+    "population": "1749"
+  }
+},
+{
+  "type": "node",
+  "id": 44833357,
+  "lat": 48.5447465,
+  "lon": 16.7621379,
+  "tags": {
+    "name": "Zistersdorf",
+    "name:cs": "Čistějov",
+    "name:de": "Zistersdorf",
+    "name:ru": "Цистерсдорф",
+    "name:sk": "Čistejov",
+    "place": "town",
+    "population": "3138",
+    "website": "www.zistersdorf.at"
+  }
+},
+{
+  "type": "node",
+  "id": 44846322,
+  "lat": 48.5694535,
+  "lon": 16.5720327,
+  "tags": {
+    "capital": "6",
+    "name": "Mistelbach",
+    "name:cs": "Mysliboch",
+    "name:hu": "Mistelbach",
+    "name:ru": "Мистельбах",
+    "name:sk": "Mysliboch",
+    "place": "town",
+    "population": "10643",
+    "website": "https://www.mistelbach.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 44848916,
+  "lat": 48.5282016,
+  "lon": 16.3628114,
+  "tags": {
+    "name": "Ernstbrunn",
+    "name:ru": "Эрнстбрун",
+    "place": "town",
+    "population": "1332"
+  }
+},
+{
+  "type": "node",
+  "id": 44905294,
+  "lat": 48.6432222,
+  "lon": 15.8162695,
+  "tags": {
+    "name": "Eggenburg",
+    "name:ru": "Эггенбург",
+    "place": "town",
+    "population": "3092",
+    "website": "https://www.eggenburg.gv.at/",
+    "wikidata": "Q661774",
+    "wikipedia": "de:Eggenburg"
+  }
+},
+{
+  "type": "node",
+  "id": 44926987,
+  "lat": 48.7210387,
+  "lon": 16.3853207,
+  "tags": {
+    "ele": "183",
+    "name": "Laa an der Thaya",
+    "name:cs": "Láva nad Dyjí",
+    "name:de": "Laa an der Thaya",
+    "name:ru": "Ла-ан-дер-Тайя",
+    "name:sk": "Lava nad Dyjou",
+    "place": "town",
+    "population": "4500"
+  }
+},
+{
+  "type": "node",
+  "id": 45018840,
+  "lat": 48.6636596,
+  "lon": 15.6563147,
+  "tags": {
+    "capital": "6",
+    "ele": "311",
+    "name": "Horn",
+    "name:cs": "Rohy",
+    "name:hu": "Horn",
+    "place": "town",
+    "population": "6632",
+    "wikidata": "Q659918",
+    "wikipedia": "de:Horn (Niederösterreich)"
+  }
+},
+{
+  "type": "node",
+  "id": 47166248,
+  "lat": 48.3531392,
+  "lon": 14.4164196,
+  "tags": {
+    "name": "Gallneukirchen",
+    "name:hu": "Gallneukirchen",
+    "place": "town",
+    "population": "5915"
+  }
+},
+{
+  "type": "node",
+  "id": 47910185,
+  "lat": 48.2271779,
+  "lon": 14.8551948,
+  "tags": {
+    "name": "Grein",
+    "place": "town",
+    "population": "2141",
+    "ref:at:gkz": "41105",
+    "ref:at:okz": "10050"
+  }
+},
+{
+  "type": "node",
+  "id": 47912944,
+  "lat": 48.2500898,
+  "lon": 14.6338102,
+  "tags": {
+    "capital": "6",
+    "name": "Perg",
+    "place": "town",
+    "population": "8479",
+    "population:date": "2018",
+    "ref:at:gkz": "41116",
+    "ref:at:okz": "10186"
+  }
+},
+{
+  "type": "node",
+  "id": 52950607,
+  "lat": 48.2141482,
+  "lon": 14.4793948,
+  "tags": {
+    "name": "Enns",
+    "name:hu": "Enns",
+    "place": "town",
+    "population": "8046",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 54790820,
+  "lat": 48.5625384,
+  "lon": 16.0798033,
+  "tags": {
+    "capital": "6",
+    "name": "Hollabrunn",
+    "name:de": "Hollabrunn",
+    "name:ru": "Холлабрунн",
+    "place": "town",
+    "population": "6005"
+  }
+},
+{
+  "type": "node",
+  "id": 57651883,
+  "lat": 48.2119885,
+  "lon": 15.2120099,
+  "tags": {
+    "name": "Pöchlarn",
+    "name:ru": "Пёхларн",
+    "place": "town",
+    "population": "1296",
+    "wikidata": "Q255350",
+    "wikipedia": "de:Pöchlarn"
+  }
+},
+{
+  "type": "node",
+  "id": 59599529,
+  "lat": 48.3189487,
+  "lon": 16.6429437,
+  "tags": {
+    "name": "Strasshof an der Nordbahn",
+    "name:ru": "Штрасхоф-ан-дер-Нордбан",
+    "old_name": "Straßhof an der Nordbahn",
+    "place": "town",
+    "population": "6993",
+    "short_name": "Strasshof"
+  }
+},
+{
+  "type": "node",
+  "id": 59841472,
+  "lat": 48.7974749,
+  "lon": 15.6724733,
+  "tags": {
+    "name": "Geras",
+    "name:cs": "Jeruš",
+    "name:de": "Geras",
+    "place": "town",
+    "population": "1873",
+    "source:population": "http://www.geras.gv.at/system/web/fakten.aspx?menuonr=218557110",
+    "wikidata": "Q661857",
+    "wikipedia": "de:Geras"
+  }
+},
+{
+  "type": "node",
+  "id": 60041539,
+  "lat": 48.3311702,
+  "lon": 16.0517900,
+  "tags": {
+    "capital": "6",
+    "name": "Tulln an der Donau",
+    "name:cs": "Tulín nad Dunají",
+    "name:de": "Tulln an der Donau",
+    "name:hu": "Tulln",
+    "name:la": "Comagena",
+    "name:ru": "Тульн",
+    "place": "town",
+    "population": "12357",
+    "short_name": "Tulln",
+    "source": "http://www.statistik.at/wcm/idc/idcplg?IdcService=GET_PDF_FILE&RevisionSelectionMethod=LatestReleased&dDocName=103419",
+    "url": "https://www.tulln.at",
+    "wikidata": "Q489810"
+  }
+},
+{
+  "type": "node",
+  "id": 60220275,
+  "lat": 47.1123353,
+  "lon": 14.1691331,
+  "tags": {
+    "capital": "6",
+    "ele": "829",
+    "name": "Murau",
+    "place": "town",
+    "population": "3714",
+    "ref:at:gkz": "6141101",
+    "ref:at:okz": "16002",
+    "wikidata": "Q605054",
+    "wikipedia": "de:Murau"
+  }
+},
+{
+  "type": "node",
+  "id": 60240127,
+  "lat": 48.2843295,
+  "lon": 15.6946065,
+  "tags": {
+    "name": "Herzogenburg",
+    "name:ru": "Херцогенбург",
+    "place": "town",
+    "population": "2954"
+  }
+},
+{
+  "type": "node",
+  "id": 60291887,
+  "lat": 48.5706932,
+  "lon": 15.8259176,
+  "tags": {
+    "ele": "341",
+    "name": "Maissau",
+    "place": "town",
+    "population": "931",
+    "population:date": "2026-01-01",
+    "source:population": "wikipedia",
+    "website": "https://www.maissau.gv.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 60806241,
+  "lat": 48.1203262,
+  "lon": 14.8752424,
+  "tags": {
+    "capital": "6",
+    "name": "Amstetten",
+    "name:hu": "Amstetten",
+    "place": "town",
+    "population": "13878"
+  }
+},
+{
+  "type": "node",
+  "id": 60806408,
+  "lat": 48.0053866,
+  "lon": 15.1674871,
+  "tags": {
+    "capital": "6",
+    "name": "Scheibbs",
+    "place": "town",
+    "population": "4275"
+  }
+},
+{
+  "type": "node",
+  "id": 61102063,
+  "lat": 47.9491855,
+  "lon": 16.8425149,
+  "tags": {
+    "capital": "6",
+    "ele": "131",
+    "name": "Neusiedl am See",
+    "name:bg": "Нойзидъл ам Зее",
+    "name:cs": "Nezider",
+    "name:hr": "Niuzalj",
+    "name:hu": "Nezsider",
+    "name:ru": "Нойзидль-ам-Зе",
+    "name:sk": "Nezider",
+    "place": "town",
+    "population": "8585",
+    "website": "https://www.neusiedlamsee.at"
+  }
+},
+{
+  "type": "node",
+  "id": 61276046,
+  "lat": 47.9609716,
+  "lon": 14.7747171,
+  "tags": {
+    "capital": "6",
+    "name": "Waidhofen an der Ybbs",
+    "name:cs": "Bejdov nad Jivicí",
+    "name:hu": "Waidhofen an der Ybbs",
+    "place": "town",
+    "population": "4559",
+    "short_name": "Waidhofen"
+  }
+},
+{
+  "type": "node",
+  "id": 61764877,
+  "lat": 47.2381536,
+  "lon": 10.7406982,
+  "tags": {
+    "capital": "6",
+    "ele": "827",
+    "name": "Imst",
+    "name:ja": "イムスト",
+    "name:ru": "Имст",
+    "name:zh": "伊姆斯特",
+    "place": "town",
+    "population": "10504"
+  }
+},
+{
+  "type": "node",
+  "id": 66147281,
+  "lat": 47.7717395,
+  "lon": 15.3174781,
+  "tags": {
+    "name": "Mariazell",
+    "name:hr": "Celje",
+    "name:rmc": "Cej",
+    "name:sl": "Marijino Celje",
+    "place": "town",
+    "population": "3811",
+    "population:date": "2018-01-01",
+    "source:population": "wikipedia",
+    "wikidata": "Q264201",
+    "wikipedia": "de:Mariazell"
+  }
+},
+{
+  "type": "node",
+  "id": 76472938,
+  "lat": 47.3046511,
+  "lon": 11.0715150,
+  "tags": {
+    "ele": "634",
+    "name": "Telfs",
+    "name:hu": "Telfs",
+    "place": "town",
+    "population": "15920",
+    "wikidata": "Q660015",
+    "wikipedia": "de:Telfs"
+  }
+},
+{
+  "type": "node",
+  "id": 79977566,
+  "lat": 47.1424135,
+  "lon": 10.5704571,
+  "tags": {
+    "capital": "6",
+    "ele": "817",
+    "name": "Landeck",
+    "name:ru": "Ландекк",
+    "name:zh": "蘭德克",
+    "place": "town",
+    "population": "7336"
+  }
+},
+{
+  "type": "node",
+  "id": 79994020,
+  "lat": 47.4136351,
+  "lon": 9.7423762,
+  "tags": {
+    "capital": "6",
+    "ele": "437",
+    "name": "Dornbirn",
+    "name:hu": "Dornbirn",
+    "name:ja": "ドルンビルン",
+    "name:ru": "Дорнбирн",
+    "name:uk": "Дорнбірн",
+    "name:zh": "多恩比恩",
+    "place": "town",
+    "population": "51222",
+    "population:date": "2023-01-01",
+    "source:population": "Statistik Austria",
+    "website": "https://www.dornbirn.at",
+    "wikidata": "Q21879823"
+  }
+},
+{
+  "type": "node",
+  "id": 82499752,
+  "lat": 48.1118898,
+  "lon": 14.5660884,
+  "tags": {
+    "name": "Haag",
+    "place": "town",
+    "population": "5299"
+  }
+},
+{
+  "type": "node",
+  "id": 82521380,
+  "lat": 47.2815157,
+  "lon": 12.4837012,
+  "tags": {
+    "name": "Mittersill",
+    "place": "town",
+    "population": "1900"
+  }
+},
+{
+  "type": "node",
+  "id": 82747879,
+  "lat": 47.3725400,
+  "lon": 16.1234157,
+  "tags": {
+    "name": "Pinkafeld",
+    "name:de": "Pinkafeld",
+    "name:hr": "Pinkafelj",
+    "name:hu": "Pinkafő",
+    "name:ro": "Pinkafa",
+    "name:ru": "Пинкафельд",
+    "place": "town",
+    "population": "5272",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 87079818,
+  "lat": 48.6678922,
+  "lon": 16.6291796,
+  "tags": {
+    "name": "Poysdorf",
+    "name:cs": "Pušdorf",
+    "name:de": "Poysdorf",
+    "name:ru": "Пойсдорф",
+    "name:sk": "Pušdorf",
+    "place": "town",
+    "population": "2480"
+  }
+},
+{
+  "type": "node",
+  "id": 88942045,
+  "lat": 48.2500220,
+  "lon": 13.2320404,
+  "tags": {
+    "name": "Altheim",
+    "name:hu": "Altheim",
+    "place": "town",
+    "population": "4146"
+  }
+},
+{
+  "type": "node",
+  "id": 88961904,
+  "lat": 48.2350110,
+  "lon": 13.8261920,
+  "tags": {
+    "capital": "6",
+    "name": "Grieskirchen",
+    "name:ru": "Грискирхен",
+    "place": "town",
+    "population": "4307"
+  }
+},
+{
+  "type": "node",
+  "id": 94676798,
+  "lat": 47.4398841,
+  "lon": 11.8941106,
+  "tags": {
+    "name": "Rattenberg",
+    "place": "town",
+    "population": "440"
+  }
+},
+{
+  "type": "node",
+  "id": 95467937,
+  "lat": 48.1772445,
+  "lon": 15.0852856,
+  "tags": {
+    "name": "Ybbs an der Donau",
+    "place": "town",
+    "population": "5777",
+    "short_name": "Ybbs",
+    "website": "https://www.ybbs.gv.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 119759840,
+  "lat": 48.7048968,
+  "lon": 15.8609985,
+  "tags": {
+    "name": "Pulkau",
+    "name:hu": "Pulkau",
+    "place": "town",
+    "population": "967"
+  }
+},
+{
+  "type": "node",
+  "id": 123531953,
+  "lat": 48.8474094,
+  "lon": 15.4934343,
+  "tags": {
+    "name": "Raabs an der Thaya",
+    "name:cs": "Rakousy nad Dyjí",
+    "name:de": "Raabs an der Thaya",
+    "place": "town",
+    "population": "901",
+    "website": "https://www.raabs-thaya.gv.at/",
+    "wikipedia": "de:Raabs an der Thaya"
+  }
+},
+{
+  "type": "node",
+  "id": 126460646,
+  "lat": 48.5951053,
+  "lon": 15.6594592,
+  "tags": {
+    "name": "Gars am Kamp",
+    "place": "town",
+    "population": "1804"
+  }
+},
+{
+  "type": "node",
+  "id": 148357541,
+  "lat": 48.3499106,
+  "lon": 15.7441868,
+  "tags": {
+    "name": "Traismauer",
+    "name:ru": "Трайсмауэр",
+    "place": "town",
+    "population": "2747",
+    "source": "Population: Statistik Austria Gebietsstand 1.1.2019"
+  }
+},
+{
+  "type": "node",
+  "id": 150541848,
+  "lat": 47.5676850,
+  "lon": 14.2420508,
+  "tags": {
+    "capital": "6",
+    "name": "Liezen",
+    "name:cs": "Štýrský Týnec",
+    "name:ru": "Лицен",
+    "place": "town",
+    "population": "6803"
+  }
+},
+{
+  "type": "node",
+  "id": 176758063,
+  "lat": 47.3351291,
+  "lon": 9.6440092,
+  "tags": {
+    "alt_name:uk": "Гетцис",
+    "ele": "448",
+    "name": "Götzis",
+    "name:de": "Götzis",
+    "name:hu": "Götzis",
+    "name:ru": "Гётцис",
+    "name:uk": "Ґьотціс",
+    "name:zh": "格齐斯",
+    "place": "town",
+    "population": "12041",
+    "population:date": "2023-01-01",
+    "source:population": "Statistik Austria",
+    "website": "https://goetzis.at/",
+    "wikidata": "Q698573",
+    "wikipedia": "de:Götzis"
+  }
+},
+{
+  "type": "node",
+  "id": 178470564,
+  "lat": 48.5731094,
+  "lon": 14.9570948,
+  "tags": {
+    "name": "Groß Gerungs",
+    "name:cs": "Velké Kerušice",
+    "name:de": "Groß Gerungs",
+    "place": "town",
+    "population": "4737"
+  }
+},
+{
+  "type": "node",
+  "id": 182703854,
+  "lat": 47.1261065,
+  "lon": 13.8103817,
+  "tags": {
+    "capital": "6",
+    "name": "Tamsweg",
+    "place": "town",
+    "population": "3606"
+  }
+},
+{
+  "type": "node",
+  "id": 185432598,
+  "lat": 46.8751209,
+  "lon": 14.2897692,
+  "tags": {
+    "name": "Gurk",
+    "place": "town",
+    "population": "861"
+  }
+},
+{
+  "type": "node",
+  "id": 185503543,
+  "lat": 46.6268076,
+  "lon": 13.3702382,
+  "tags": {
+    "capital": "6",
+    "name": "Hermagor",
+    "name:cs": "Šmohor",
+    "name:fur": "Sant Armacul",
+    "name:it": "Sant'Ermagora",
+    "name:sl": "Šmohor",
+    "place": "town",
+    "population": "1527",
+    "wikidata": "Q21871647"
+  }
+},
+{
+  "type": "node",
+  "id": 186636093,
+  "lat": 46.6604246,
+  "lon": 14.6340505,
+  "tags": {
+    "capital": "6",
+    "name": "Völkermarkt",
+    "name:ru": "Фёлькермаркт",
+    "name:sl": "Velikovec",
+    "place": "town",
+    "population": "4747",
+    "population:date": "2024-01-01",
+    "source:population": "wikipedia"
+  }
+},
+{
+  "type": "node",
+  "id": 196540588,
+  "lat": 47.3846705,
+  "lon": 13.4627822,
+  "tags": {
+    "ele": "858",
+    "name": "Radstadt",
+    "place": "town",
+    "population": "4826"
+  }
+},
+{
+  "type": "node",
+  "id": 200769912,
+  "lat": 47.1694082,
+  "lon": 14.6601079,
+  "tags": {
+    "capital": "6",
+    "name": "Judenburg",
+    "name:hu": "Judenburg",
+    "name:ru": "Юденбург",
+    "name:zh": "尤登堡",
+    "place": "town",
+    "population": "9514"
+  }
+},
+{
+  "type": "node",
+  "id": 200770473,
+  "lat": 47.1912045,
+  "lon": 14.7549244,
+  "tags": {
+    "ele": "659",
+    "name": "Zeltweg",
+    "place": "town",
+    "population": "7327"
+  }
+},
+{
+  "type": "node",
+  "id": 200881689,
+  "lat": 47.5049711,
+  "lon": 15.4498601,
+  "tags": {
+    "name": "Kindberg",
+    "place": "town",
+    "population": "5546"
+  }
+},
+{
+  "type": "node",
+  "id": 205753242,
+  "lat": 47.8377450,
+  "lon": 16.9241358,
+  "tags": {
+    "alt_name": "Fertőboldogasszony",
+    "ele": "124",
+    "name": "Frauenkirchen",
+    "name:hr": "Svetica za Jezerom",
+    "name:hu": "Boldogasszony",
+    "name:ru": "Фрауэнкирхен",
+    "name:sk": "Ženyvody",
+    "place": "town",
+    "population": "2970",
+    "population:date": "2024-10-31",
+    "source:population": "Statistik Austria"
+  }
+},
+{
+  "type": "node",
+  "id": 206378027,
+  "lat": 46.8298662,
+  "lon": 12.7681269,
+  "tags": {
+    "capital": "6",
+    "name": "Lienz",
+    "name:cs": "Línec",
+    "name:hu": "Lienz",
+    "name:ru": "Лиенц",
+    "place": "town",
+    "population": "12077"
+  }
+},
+{
+  "type": "node",
+  "id": 224024924,
+  "lat": 47.3940415,
+  "lon": 13.6867878,
+  "tags": {
+    "addr:postcode": "8970",
+    "ele": "745",
+    "name": "Schladming",
+    "place": "town",
+    "population": "6538",
+    "wikidata": "Q254221",
+    "wikipedia": "de:Schladming"
+  }
+},
+{
+  "type": "node",
+  "id": 237042948,
+  "lat": 48.2534159,
+  "lon": 13.0397862,
+  "tags": {
+    "capital": "6",
+    "ele": "352",
+    "name": "Braunau am Inn",
+    "name:cs": "Brunov nad Jinem",
+    "name:hu": "Braunau",
+    "name:ru": "Браунау-ам-Инн",
+    "place": "town",
+    "population": "16380",
+    "ref:at:gkz": "4040404",
+    "ref:at:okz": "07178",
+    "short_name": "Braunau",
+    "wikidata": "Q131128",
+    "wikipedia": "de:Braunau am Inn"
+  }
+},
+{
+  "type": "node",
+  "id": 240024258,
+  "lat": 47.3915387,
+  "lon": 11.7717443,
+  "tags": {
+    "ele": "563",
+    "name": "Jenbach",
+    "place": "town",
+    "population": "7021",
+    "rank": "30",
+    "website": "https://www.jenbach.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 240025153,
+  "lat": 47.7066007,
+  "lon": 16.0194688,
+  "tags": {
+    "ele": "393",
+    "name": "Ternitz",
+    "name:ar": "تيرنتس",
+    "name:he": "תרניץ",
+    "name:hu": "Ternitz",
+    "name:ml": "ടെർനിറ്റ്സ്",
+    "name:ru": "Терниц",
+    "place": "town",
+    "population": "14823",
+    "website": "https://www.ternitz.gv.at/",
+    "wikidata": "Q659984",
+    "wikipedia": "de:Ternitz"
+  }
+},
+{
+  "type": "node",
+  "id": 240028097,
+  "lat": 48.8684166,
+  "lon": 15.6196930,
+  "tags": {
+    "name": "Drosendorf",
+    "name:cs": "Drozdovice",
+    "name:de": "Drosendorf",
+    "place": "town",
+    "population": "522"
+  }
+},
+{
+  "type": "node",
+  "id": 240029790,
+  "lat": 47.2703808,
+  "lon": 9.6426923,
+  "tags": {
+    "loc_name": "Rankwil",
+    "name": "Rankweil",
+    "name:de": "Rankweil",
+    "name:hu": "Rankweil",
+    "name:uk": "Ранквайль",
+    "name:zh": "兰克韦尔",
+    "place": "town",
+    "population": "12150",
+    "population:date": "2023-01-01",
+    "source:population": "Statistik Austria",
+    "wikidata": "Q21879820"
+  }
+},
+{
+  "type": "node",
+  "id": 240032101,
+  "lat": 48.1298877,
+  "lon": 15.1376585,
+  "tags": {
+    "name": "Wieselburg",
+    "name:de": "Wieselburg",
+    "name:ru": "Визельбург",
+    "place": "town",
+    "population": "4408",
+    "wikidata": "Q661734",
+    "wikipedia": "de:Wieselburg"
+  }
+},
+{
+  "type": "node",
+  "id": 240038219,
+  "lat": 48.2043985,
+  "lon": 15.6229118,
+  "tags": {
+    "alt_name:cs": "Svatý Hypolit",
+    "alt_name:hr": "Sveti Hipolit",
+    "alt_name:hu": "Szentpöltény",
+    "alt_name:la": "Fanum Sancti Hippolyti",
+    "alt_name:sl": "Sveti Hipolit[",
+    "capital": "4",
+    "ele": "267",
+    "name": "St. Pölten",
+    "name:ar": "سانت بولتن",
+    "name:be": "Санкт-Пёльтэн",
+    "name:be-tarask": "Санкт-Пёльтэн",
+    "name:cs": "Svatý Hypolit",
+    "name:el": "Σανκτ Πέλτεν",
+    "name:en": "Sankt Pölten",
+    "name:fr": "Sankt Pölten",
+    "name:he": "סנקט פלטן",
+    "name:hr": "Sankt Pölten",
+    "name:hu": "Sankt Pölten",
+    "name:hy": "Սանկտ Պյոլտեն",
+    "name:ja": "ザンクト・ペルテン",
+    "name:ko": "장크트푈텐",
+    "name:la": "Cetium",
+    "name:ml": "സാങ്ക്റ്റ്-പോൾട്ടൻ",
+    "name:ru": "Санкт-Пёльтен",
+    "name:sl": "Sankt Pölten",
+    "name:sr": "Санкт Пелтен",
+    "name:uk": "Санкт-Пельтен",
+    "name:zh": "聖帕爾滕",
+    "place": "town",
+    "population": "59767",
+    "population:date": "2025-01-01",
+    "source:population": "statistik.at",
+    "wikidata": "Q82500",
+    "wikimedia_commons": "Category:St. Pölten",
+    "wikipedia": "de:St. Pölten"
+  }
+},
+{
+  "type": "node",
+  "id": 240039905,
+  "lat": 48.3829773,
+  "lon": 16.5181068,
+  "tags": {
+    "name": "Wolkersdorf im Weinviertel",
+    "name:ru": "Волькерсдорф-им-Вайнфиртель",
+    "place": "town",
+    "population": "3359",
+    "ref:at:gkz": "31655",
+    "ref:at:okz": "05138",
+    "short_name": "Wolkersdorf"
+  }
+},
+{
+  "type": "node",
+  "id": 240040458,
+  "lat": 48.2778951,
+  "lon": 16.9097882,
+  "tags": {
+    "name": "Marchegg",
+    "name:de": "Marchegg",
+    "name:hr": "Marhek",
+    "name:sk": "Moravský Hradec",
+    "place": "town",
+    "population": "2118",
+    "website": "https://www.marchegg.at",
+    "wikidata": "Q546273",
+    "wikipedia": "de:Marchegg"
+  }
+},
+{
+  "type": "node",
+  "id": 240040704,
+  "lat": 48.7569663,
+  "lon": 15.9511119,
+  "tags": {
+    "alt_name:cs": "Rec",
+    "name": "Retz",
+    "name:cs": "Reteč",
+    "name:de": "Retz",
+    "place": "town",
+    "population": "4253",
+    "population:date": "2024-01-01",
+    "source:population": "wikipedia"
+  }
+},
+{
+  "type": "node",
+  "id": 240041310,
+  "lat": 46.6880556,
+  "lon": 15.9880546,
+  "tags": {
+    "name": "Bad Radkersburg",
+    "name:hu": "Regede",
+    "name:prefix": "Stadt",
+    "name:ru": "Бад-Радкерсбург",
+    "name:sl": "Radgona",
+    "place": "town",
+    "population": "3207",
+    "population:date": "2026-01-01",
+    "source:population": "Statistik Austria",
+    "wikidata": "Q698465"
+  }
+},
+{
+  "type": "node",
+  "id": 240042171,
+  "lat": 46.7472874,
+  "lon": 12.4180291,
+  "tags": {
+    "ele": "1103",
+    "name": "Sillian",
+    "name:ru": "Зиллиан",
+    "place": "town",
+    "population": "2086",
+    "wikidata": "Q687344",
+    "wikipedia": "en:Sillian"
+  }
+},
+{
+  "type": "node",
+  "id": 240044695,
+  "lat": 48.7933789,
+  "lon": 15.0689756,
+  "tags": {
+    "name": "Schrems",
+    "name:cs": "Skřemelice",
+    "name:de": "Schrems",
+    "name:ru": "Шремс",
+    "place": "town",
+    "population": "3455"
+  }
+},
+{
+  "type": "node",
+  "id": 240051786,
+  "lat": 47.9450169,
+  "lon": 13.2253002,
+  "tags": {
+    "name": "Neumarkt am Wallersee",
+    "place": "town",
+    "population": "3741"
+  }
+},
+{
+  "type": "node",
+  "id": 240052074,
+  "lat": 48.0138858,
+  "lon": 16.2952311,
+  "tags": {
+    "name": "Traiskirchen",
+    "name:fa": "ترایزکیرشن",
+    "name:hu": "Traiskirchen",
+    "name:ka": "ტრაისკირხენი",
+    "name:ru": "Трайскирхен",
+    "name:sr": "Трајскирхен",
+    "name:zh": "特賴斯基興",
+    "place": "town",
+    "population": "18000",
+    "wikidata": "Q659950",
+    "wikipedia": "de:Traiskirchen"
+  }
+},
+{
+  "type": "node",
+  "id": 240052146,
+  "lat": 46.9065611,
+  "lon": 13.5359844,
+  "tags": {
+    "full_name": "Gmünd in Kärnten",
+    "name": "Gmünd",
+    "place": "town",
+    "population": "1547",
+    "ref:at:gkz": "2060803",
+    "ref:at:okz": "01896",
+    "wikidata": "Q660580",
+    "wikipedia": "de:Gmünd in Kärnten"
+  }
+},
+{
+  "type": "node",
+  "id": 240052359,
+  "lat": 46.6245962,
+  "lon": 13.6871559,
+  "tags": {
+    "ele": "902",
+    "name": "Bad Bleiberg",
+    "place": "town",
+    "population": "589",
+    "website": "https://www.bad-bleiberg.gv.at",
+    "wikidata": "Q535737",
+    "wikipedia": "de:Bad Bleiberg"
+  }
+},
+{
+  "type": "node",
+  "id": 240052571,
+  "lat": 47.2809371,
+  "lon": 15.9691769,
+  "tags": {
+    "capital": "6",
+    "name": "Hartberg",
+    "name:ru": "Хартберг",
+    "place": "town",
+    "population": "3920"
+  }
+},
+{
+  "type": "node",
+  "id": 240052582,
+  "lat": 48.1746466,
+  "lon": 14.5319725,
+  "tags": {
+    "alt_name": "Sankt Valentin",
+    "ele": "268",
+    "full_name": "Sankt Valentin",
+    "name": "St. Valentin",
+    "place": "town",
+    "population": "2997",
+    "ref:at:gkz": "3053105",
+    "ref:at:okz": "03294"
+  }
+},
+{
+  "type": "node",
+  "id": 240052875,
+  "lat": 46.8955368,
+  "lon": 14.3313853,
+  "tags": {
+    "ele": "642",
+    "name": "Straßburg",
+    "place": "town",
+    "population": "2138",
+    "wikidata": "Q660945",
+    "wikipedia": "de:Straßburg (Kärnten)"
+  }
+},
+{
+  "type": "node",
+  "id": 240053135,
+  "lat": 46.6151882,
+  "lon": 14.0450583,
+  "tags": {
+    "addr:postcode": "9220",
+    "alt_name": "Velden am Wörthersee",
+    "name": "Velden",
+    "name:sl": "Vrba",
+    "official_name": "Velden am Wörther See",
+    "official_name:sl": "Vrba na Koroškem",
+    "place": "town",
+    "population": "9127",
+    "population:date": "2023-01-01",
+    "source:population": "wikipedia",
+    "website": "https://velden.gv.at/",
+    "wikidata": "Q660687",
+    "wikipedia": "en:Velden am Wörther See"
+  }
+},
+{
+  "type": "node",
+  "id": 240054941,
+  "lat": 48.1185885,
+  "lon": 16.6112789,
+  "tags": {
+    "alt_name:hr": "Fišament",
+    "name": "Fischamend",
+    "name:cs": "Fischamend",
+    "name:de": "Fischamend",
+    "name:en": "Fischamend",
+    "name:hr": "Fischamend",
+    "name:hu": "Fischamend",
+    "name:it": "Fischamend",
+    "name:ru": "Фишаменд",
+    "name:sk": "Fischamend",
+    "name:sl": "Fischamend",
+    "name:uk": "Фішаменд",
+    "place": "town",
+    "population": "4416",
+    "website": "https://www.fischamend.gv.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 240056349,
+  "lat": 46.5487180,
+  "lon": 13.7071246,
+  "tags": {
+    "ele": "578",
+    "name": "Arnoldstein",
+    "name:fur": "Orestagn",
+    "name:it": "Oristagno",
+    "name:sl": "Podklošter",
+    "place": "town",
+    "population": "2035",
+    "population:date": "2016",
+    "source:population": "wikipedia"
+  }
+},
+{
+  "type": "node",
+  "id": 240056881,
+  "lat": 47.4891092,
+  "lon": 10.7187955,
+  "tags": {
+    "capital": "6",
+    "ele": "853",
+    "name": "Reutte",
+    "name:ru": "Ройтте",
+    "name:zh": "羅伊特",
+    "place": "town",
+    "population": "5719"
+  }
+},
+{
+  "type": "node",
+  "id": 240056945,
+  "lat": 48.6052683,
+  "lon": 15.1681644,
+  "tags": {
+    "capital": "6",
+    "name": "Zwettl",
+    "name:cs": "Světlá",
+    "name:de": "Zwettl",
+    "place": "town",
+    "population": "10908"
+  }
+},
+{
+  "type": "node",
+  "id": 240057320,
+  "lat": 48.0855922,
+  "lon": 16.2833526,
+  "tags": {
+    "capital": "6",
+    "name": "Mödling",
+    "name:hu": "Mödling",
+    "name:ka": "მიოდლინგი",
+    "name:ru": "Мёдлинг",
+    "name:uk": "Медлінґ",
+    "place": "town",
+    "population": "20619",
+    "ref:at:gkz": "31717",
+    "ref:at:okz": "05156",
+    "wikidata": "Q277965",
+    "wikipedia": "de:Mödling"
+  }
+},
+{
+  "type": "node",
+  "id": 240059038,
+  "lat": 47.5242260,
+  "lon": 14.3585643,
+  "tags": {
+    "elevation": "681",
+    "name": "Rottenmann",
+    "name:ru": "Роттенманн",
+    "place": "town",
+    "population": "5111",
+    "wikipedia": "de:Rottenmann"
+  }
+},
+{
+  "type": "node",
+  "id": 240059493,
+  "lat": 47.9825598,
+  "lon": 13.8225156,
+  "tags": {
+    "name": "Laakirchen",
+    "place": "town",
+    "population": "9600"
+  }
+},
+{
+  "type": "node",
+  "id": 240059607,
+  "lat": 48.2090744,
+  "lon": 14.2892608,
+  "tags": {
+    "name": "Ansfelden",
+    "name:hu": "Ansfelden",
+    "place": "town",
+    "population": "17748",
+    "wikidata": "Q257130"
+  }
+},
+{
+  "type": "node",
+  "id": 240063299,
+  "lat": 47.8942481,
+  "lon": 13.1260778,
+  "tags": {
+    "name": "Seekirchen am Wallersee",
+    "place": "town",
+    "population": "11708",
+    "population:date": "2025-01-01",
+    "population:source": "STATcube"
+  }
+},
+{
+  "type": "node",
+  "id": 240067151,
+  "lat": 47.2174206,
+  "lon": 15.6221694,
+  "tags": {
+    "capital": "6",
+    "name": "Weiz",
+    "name:de": "Weiz",
+    "place": "town",
+    "population": "8799",
+    "website": "https://www.weiz.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 240067971,
+  "lat": 46.7672814,
+  "lon": 14.3576981,
+  "tags": {
+    "capital": "6",
+    "name": "Sankt Veit an der Glan",
+    "name:hu": "Sankt Veit an der Glan",
+    "name:sl": "Sveti Vid",
+    "place": "town",
+    "population": "12255",
+    "population:date": "2023-01-01",
+    "short_name": "St. Veit",
+    "source:population": "wikipedia",
+    "website": "www.stveit.carinthia.at",
+    "wikidata": "Q494604"
+  }
+},
+{
+  "type": "node",
+  "id": 240068543,
+  "lat": 47.4251065,
+  "lon": 15.0065515,
+  "tags": {
+    "name": "Trofaiach",
+    "place": "town",
+    "population": "8385",
+    "wikidata": "Q675834"
+  }
+},
+{
+  "type": "node",
+  "id": 240070188,
+  "lat": 46.5265324,
+  "lon": 14.3006203,
+  "tags": {
+    "alt_name": "Borovlje",
+    "name": "Ferlach",
+    "name:de": "Ferlach",
+    "name:hu": "Ferlach",
+    "name:ru": "Ферлах",
+    "name:sl": "Borovlje",
+    "name:uk": "Ферлах",
+    "place": "town",
+    "population": "7450",
+    "source": "geoimage.at",
+    "wikidata": "Q610514",
+    "wikipedia": "de:Ferlach",
+    "wikipedia:sl": "Borovlje"
+  }
+},
+{
+  "type": "node",
+  "id": 240070646,
+  "lat": 47.3478481,
+  "lon": 13.2024626,
+  "tags": {
+    "capital": "6",
+    "name": "Sankt Johann im Pongau",
+    "name:hu": "Sankt Johann im Pongau",
+    "place": "town",
+    "population": "10566",
+    "wikidata": "Q251022",
+    "wikipedia": "de:St. Johann im Pongau"
+  }
+},
+{
+  "type": "node",
+  "id": 240071579,
+  "lat": 46.6359543,
+  "lon": 14.1448209,
+  "tags": {
+    "alt_name": "Pörtschach am Wörthersee",
+    "name": "Pörtschach",
+    "name:ja": "ペルチャッハ",
+    "name:sl": "Poreče",
+    "official_name": "Pörtschach am Wörther See",
+    "official_name:sl": "Poreče ob Vrbskem jezeru",
+    "place": "town",
+    "population": "2937",
+    "population:date": "2023-01-01",
+    "source:population": "wikipedia",
+    "wikidata": "Q875805",
+    "wikipedia": "en:Pörtschach am Wörthersee"
+  }
+},
+{
+  "type": "node",
+  "id": 240071805,
+  "lat": 46.6784661,
+  "lon": 13.0043640,
+  "tags": {
+    "name": "Kötschach",
+    "name:fur": "Catès-Mude",
+    "name:sl": "Koča-Muta",
+    "place": "town",
+    "population": "1612",
+    "wikidata": "Q1750012"
+  }
+},
+{
+  "type": "node",
+  "id": 240072839,
+  "lat": 47.0587650,
+  "lon": 16.3243364,
+  "tags": {
+    "capital": "6",
+    "ele": "229",
+    "name": "Güssing",
+    "name:hr": "Novigrad",
+    "name:hu": "Németújvár",
+    "name:ro": "Ujvara",
+    "name:ru": "Гюссинг",
+    "place": "town",
+    "population": "2734"
+  }
+},
+{
+  "type": "node",
+  "id": 240074021,
+  "lat": 48.0149797,
+  "lon": 15.5966191,
+  "tags": {
+    "capital": "6",
+    "name": "Lilienfeld",
+    "place": "town",
+    "population": "2.618",
+    "population:date": "2025-01-01",
+    "source:population": "census",
+    "website": "https://www.lilienfeld.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 240076643,
+  "lat": 48.2214369,
+  "lon": 14.2368078,
+  "tags": {
+    "name": "Traun",
+    "name:cs": "Travna",
+    "name:ru": "Траун",
+    "place": "town",
+    "population": "10627",
+    "website": "https://www.traun.at/",
+    "wikidata": "Q260176",
+    "wikipedia": "de:Traun (Stadt)"
+  }
+},
+{
+  "type": "node",
+  "id": 240076703,
+  "lat": 47.4747262,
+  "lon": 9.7313331,
+  "tags": {
+    "alt_name:uk": "Ляутерах",
+    "name": "Lauterach",
+    "name:de": "Lauterach",
+    "name:uk": "Лаутерах",
+    "name:zh": "劳特阿赫",
+    "place": "town",
+    "population": "10433",
+    "population:date": "2023-01-01",
+    "source:population": "Statistik Austria",
+    "website": "https://www.lauterach.at/",
+    "wikidata": "Q699781",
+    "wikipedia": "de:Lauterach (Vorarlberg)"
+  }
+},
+{
+  "type": "node",
+  "id": 240077050,
+  "lat": 48.0576733,
+  "lon": 15.1352003,
+  "tags": {
+    "name": "Purgstall",
+    "note": "Die Klassifizirung als town ist zutreffend da 5.353 EW per 1.1.2026 und eine Dichte von 132 EW/m² gegeben ist, und im Ortskern ca. 3.000 EW leben. Daher die Einstufung belassen.",
+    "official_name": "Purgstall an der Erlauf",
+    "place": "town",
+    "population": "5.353",
+    "source:date": "2026-01-01",
+    "source:population": "https://www.statistik.at/fileadmin/pages/405/Bev_Ortschaften_2026.ods"
+  }
+},
+{
+  "type": "node",
+  "id": 240077072,
+  "lat": 47.4504996,
+  "lon": 12.1558791,
+  "tags": {
+    "name": "Hopfgarten im Brixental",
+    "place": "town",
+    "population": "5365",
+    "rank": "30"
+  }
+},
+{
+  "type": "node",
+  "id": 240077102,
+  "lat": 46.9666319,
+  "lon": 11.0072845,
+  "tags": {
+    "ele": "1368",
+    "name": "Sölden",
+    "name:ru": "Зёльден",
+    "place": "town",
+    "population": "3488",
+    "website": "https://www.soelden.tirol.gv.at/",
+    "wikidata": "Q570486"
+  }
+},
+{
+  "type": "node",
+  "id": 240079112,
+  "lat": 46.9646368,
+  "lon": 14.7887727,
+  "tags": {
+    "alt_name": "Bad Sankt Leonhard",
+    "ele": "714",
+    "int_name": "Bad Sankt Leonhard im Lavanttal",
+    "name": "Bad Sankt Leonhard im Lavanttal",
+    "old_name": "St. Leonhard im Lavantthale",
+    "place": "town",
+    "population": "4386",
+    "wikidata": "Q660781",
+    "wikipedia": "de:Bad St. Leonhard im Lavanttal"
+  }
+},
+{
+  "type": "node",
+  "id": 240079280,
+  "lat": 47.3639973,
+  "lon": 9.6892710,
+  "tags": {
+    "ele": "432",
+    "name": "Hohenems",
+    "name:de": "Hohenems",
+    "name:ru": "Хоэнемс",
+    "name:uk": "Гогенемс",
+    "name:zh": "霍恩埃姆斯",
+    "place": "town",
+    "population": "16720",
+    "population:date": "2020-01-01",
+    "source:population": "Statistik Austria",
+    "website": "https://www.hohenems.at/",
+    "wikidata": "Q698591",
+    "wikipedia": "de:Hohenems"
+  }
+},
+{
+  "type": "node",
+  "id": 240079480,
+  "lat": 48.0390046,
+  "lon": 14.4191276,
+  "tags": {
+    "capital": "6",
+    "ele": "310",
+    "name": "Steyr",
+    "name:cs": "Štýr",
+    "name:ru": "Штайр",
+    "name:uk": "Штайр",
+    "place": "town",
+    "population": "38344",
+    "wikidata": "Q260320",
+    "wikipedia": "de:Steyr"
+  }
+},
+{
+  "type": "node",
+  "id": 240080957,
+  "lat": 48.3403867,
+  "lon": 16.7187051,
+  "tags": {
+    "capital": "6",
+    "ele": "167",
+    "image": "https://commons.wikimedia.org/wiki/File:G%C3%A4nserndorf_-_Rathaus.JPG",
+    "name": "Gänserndorf",
+    "name:cs": "Husník",
+    "name:hu": "Gänserndorf",
+    "name:ru": "Гензерндорф",
+    "name:sk": "Genšdorf",
+    "place": "town",
+    "population": "11404",
+    "website": "https://www.gaenserndorf.at/",
+    "wikidata": "Q259579",
+    "wikipedia": "de:Gänserndorf"
+  }
+},
+{
+  "type": "node",
+  "id": 240082800,
+  "lat": 46.9328250,
+  "lon": 13.2019817,
+  "tags": {
+    "name": "Obervellach",
+    "place": "town",
+    "population": "243"
+  }
+},
+{
+  "type": "node",
+  "id": 240086875,
+  "lat": 48.3438653,
+  "lon": 13.7710445,
+  "tags": {
+    "name": "Peuerbach",
+    "name:ru": "Пойербах",
+    "place": "town",
+    "population": "2184"
+  }
+},
+{
+  "type": "node",
+  "id": 240087857,
+  "lat": 47.1671149,
+  "lon": 11.8641909,
+  "tags": {
+    "ele": "633",
+    "name": "Mayrhofen",
+    "name:ru": "Майрхофен",
+    "name:zh": "迈尔霍芬",
+    "place": "town",
+    "population": "3883",
+    "website": "https://www.mayrhofen.tirol.gv.at/",
+    "wikidata": "Q668214",
+    "wikipedia": "de:Mayrhofen"
+  }
+},
+{
+  "type": "node",
+  "id": 240090385,
+  "lat": 47.7221147,
+  "lon": 16.0816020,
+  "tags": {
+    "capital": "6",
+    "name": "Neunkirchen",
+    "name:hu": "Neunkirchen",
+    "place": "town",
+    "population": "9974",
+    "wikidata": "Q265948",
+    "wikipedia": "de:Neunkirchen (Niederösterreich)"
+  }
+},
+{
+  "type": "node",
+  "id": 240090615,
+  "lat": 48.1050619,
+  "lon": 15.6058425,
+  "tags": {
+    "name": "Wilhelmsburg",
+    "place": "town",
+    "population": "6489",
+    "population:date": "2024-01-01",
+    "source:population": "wikipedia"
+  }
+},
+{
+  "type": "node",
+  "id": 240091192,
+  "lat": 46.5659297,
+  "lon": 13.8713597,
+  "tags": {
+    "name": "Finkenstein",
+    "name:sl": "Bekštanj",
+    "place": "town",
+    "population": "1275",
+    "wikidata": "Q662080",
+    "wikipedia": "de:Finkenstein am Faaker See"
+  }
+},
+{
+  "type": "node",
+  "id": 240093642,
+  "lat": 48.5112961,
+  "lon": 14.5047566,
+  "tags": {
+    "capital": "6",
+    "name": "Freistadt",
+    "name:cs": "Cáhlov",
+    "name:hu": "Freistadt",
+    "place": "town",
+    "population": "7445"
+  }
+},
+{
+  "type": "node",
+  "id": 240094722,
+  "lat": 48.1792064,
+  "lon": 16.0770890,
+  "tags": {
+    "alt_name:uk": "Прессбаум",
+    "ele": "315",
+    "name": "Pressbaum",
+    "name:de": "Pressbaum",
+    "name:uk": "Пресбаум",
+    "name:zh": "普雷斯鲍姆",
+    "note": "der alte Name bezieht sich auf den ersten Förster Paul Tanner, der hier 1675-1681 tätig war",
+    "old_name": "Tannering;Tannerin;Tonnerin;Donnerin",
+    "place": "town",
+    "population": "6568",
+    "population:date": "2023-01-01",
+    "source:population": "wikipedia",
+    "wikidata": "Q666577",
+    "wikipedia": "de:Pressbaum"
+  }
+},
+{
+  "type": "node",
+  "id": 240095192,
+  "lat": 48.2793314,
+  "lon": 14.2487457,
+  "tags": {
+    "check_date": "2024-04-28",
+    "name": "Leonding",
+    "name:ru": "Леондинг",
+    "name:uk": "Леондінґ",
+    "place": "town",
+    "population": "24416",
+    "population:date": "2024-01-01",
+    "source:population": "https://www.leonding.at/service/ueber-leonding/zahlen-fakten",
+    "website": "https://www.leonding.at/",
+    "wikidata": "Q487958",
+    "wikipedia": "de:Leonding"
+  }
+},
+{
+  "type": "node",
+  "id": 240095462,
+  "lat": 47.9744729,
+  "lon": 16.6038027,
+  "tags": {
+    "name": "Mannersdorf am Leithagebirge",
+    "name:ru": "Маннерсдорф-ам-Ляйтагебирге",
+    "place": "town",
+    "population": "3731",
+    "short_name": "Mannersdorf",
+    "website": "https://www.mannersdorf-leithagebirge.gv.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 240096250,
+  "lat": 48.1466103,
+  "lon": 16.9422459,
+  "tags": {
+    "ele": "161",
+    "name": "Hainburg an der Donau",
+    "name:de": "Hainburg an der Donau",
+    "name:hr": "Hamborak",
+    "name:sk": "Hainburg nad Dunajom",
+    "official_name": "Hainburg an der Donau",
+    "place": "town",
+    "population": "6725",
+    "short_name": "Hainburg",
+    "website": "https://www.hainburg-donau.gv.at/",
+    "wikidata": "Q752107",
+    "wikipedia": "de:Hainburg an der Donau"
+  }
+},
+{
+  "type": "node",
+  "id": 240099995,
+  "lat": 48.3082607,
+  "lon": 14.0203999,
+  "tags": {
+    "name": "Eferding",
+    "place": "town",
+    "population": "3521"
+  }
+},
+{
+  "type": "node",
+  "id": 240100634,
+  "lat": 47.3986534,
+  "lon": 10.9205046,
+  "tags": {
+    "ele": "994",
+    "name": "Ehrwald",
+    "place": "town",
+    "population": "2554"
+  }
+},
+{
+  "type": "node",
+  "id": 240101128,
+  "lat": 48.2858001,
+  "lon": 14.3721605,
+  "tags": {
+    "ele": "259",
+    "name": "Steyregg",
+    "place": "town",
+    "population": "5039",
+    "population:date": "2024.01.01",
+    "source:population": "Statistik Austria"
+  }
+},
+{
+  "type": "node",
+  "id": 240101155,
+  "lat": 48.0078587,
+  "lon": 13.6460378,
+  "tags": {
+    "capital": "6",
+    "ele": "433",
+    "name": "Vöcklabruck",
+    "name:hu": "Vöcklabruck",
+    "place": "town",
+    "population": "11972",
+    "website": "https://www.voecklabruck.at/",
+    "wikidata": "Q251325",
+    "wikipedia": "de:Vöcklabruck"
+  }
+},
+{
+  "type": "node",
+  "id": 240101404,
+  "lat": 46.8713830,
+  "lon": 14.4698793,
+  "tags": {
+    "name": "Althofen",
+    "name:hu": "Althofen",
+    "place": "town",
+    "population": "4950"
+  }
+},
+{
+  "type": "node",
+  "id": 240102547,
+  "lat": 48.2004159,
+  "lon": 15.4020198,
+  "tags": {
+    "name": "Loosdorf",
+    "place": "town",
+    "population": "2732"
+  }
+},
+{
+  "type": "node",
+  "id": 240103067,
+  "lat": 47.1530370,
+  "lon": 9.8219314,
+  "tags": {
+    "capital": "6",
+    "name": "Bludenz",
+    "name:cs": "Bludenec",
+    "name:de": "Bludenz",
+    "name:mk": "Блуденц",
+    "name:pl": "Bogna",
+    "name:uk": "Блуденц",
+    "name:zh": "布卢登茨",
+    "place": "town",
+    "population": "15029",
+    "population:date": "2023-01-01",
+    "source:population": "Statistik Austria",
+    "wikidata": "Q494504",
+    "wikipedia": "de:Bludenz"
+  }
+},
+{
+  "type": "node",
+  "id": 240105058,
+  "lat": 47.9626455,
+  "lon": 16.4023629,
+  "tags": {
+    "name": "Ebreichsdorf",
+    "name:hu": "Ebreichsdorf",
+    "name:ru": "Эбрайхсдорф",
+    "place": "town",
+    "population": "9194",
+    "wikidata": "Q646396",
+    "wikipedia": "de:Ebreichsdorf"
+  }
+},
+{
+  "type": "node",
+  "id": 240108057,
+  "lat": 47.4276538,
+  "lon": 9.6599406,
+  "tags": {
+    "alt_name:uk": "Люстенау",
+    "ele": "404",
+    "loc_name:uk": "Люштенау",
+    "name": "Lustenau",
+    "name:de": "Lustenau",
+    "name:hu": "Lustenau",
+    "name:uk": "Лустенау",
+    "name:zh": "盧斯特瑙",
+    "old_name": "Lustenoua",
+    "place": "town",
+    "population": "24688",
+    "population:date": "2025-03-01",
+    "source:population": "https://vorarlberg.at/documents/302033/472238/Bev%C3%B6lkerung+M%C3%A4rz+2025.pdf/9b7972d3-dfef-cf00-44d7-f8c16ec9b422?t=1744695873075",
+    "website": "https://www.lustenau.at/",
+    "wikidata": "Q488315",
+    "wikipedia": "de:Lustenau"
+  }
+},
+{
+  "type": "node",
+  "id": 240108142,
+  "lat": 47.8972114,
+  "lon": 15.9626426,
+  "tags": {
+    "ele": "430",
+    "email": "gemeinde@pernitz.co.at",
+    "name": "Pernitz",
+    "phone": "+43 2632 72220",
+    "place": "town",
+    "population": "2478",
+    "ref:at:gkz": "3232302",
+    "ref:at:okz": "06654",
+    "website": "http://pernitz.at",
+    "wikidata": "Q672797",
+    "wikipedia": "de:Pernitz"
+  }
+},
+{
+  "type": "node",
+  "id": 240109644,
+  "lat": 48.2018000,
+  "lon": 16.5519598,
+  "tags": {
+    "name": "Groß-Enzersdorf",
+    "name:cs": "Hrubý Enčesdorf",
+    "name:de": "Groß-Enzersdorf",
+    "name:ru": "Гросэнцерсдорф",
+    "name:sk": "Hrubý Enčisdorf",
+    "place": "town",
+    "population": "8532"
+  }
+},
+{
+  "type": "node",
+  "id": 240110400,
+  "lat": 47.7115299,
+  "lon": 13.6239333,
+  "tags": {
+    "name": "Bad Ischl",
+    "name:hu": "Bad Ischl",
+    "name:ru": "Бад-Ишль",
+    "place": "town",
+    "population": "14088"
+  }
+},
+{
+  "type": "node",
+  "id": 240110468,
+  "lat": 46.4868033,
+  "lon": 14.5932323,
+  "tags": {
+    "name": "Bad Eisenkappel/Železna Kapla",
+    "name:de": "Bad Eisenkappel",
+    "name:ru": "Айзенкаппель",
+    "name:sl": "Železna Kapla",
+    "place": "town",
+    "population": "872",
+    "wikidata": "Q14954747",
+    "wikipedia": "de:Bad Eisenkappel"
+  }
+},
+{
+  "type": "node",
+  "id": 240110614,
+  "lat": 48.0348017,
+  "lon": 14.2091385,
+  "tags": {
+    "name": "Bad Hall",
+    "place": "town",
+    "population": "4727",
+    "website": "http://www.badhall.com",
+    "wikidata": "Q259086",
+    "wikipedia": "de:Bad Hall"
+  }
+},
+{
+  "type": "node",
+  "id": 240111200,
+  "lat": 48.1030792,
+  "lon": 13.1503106,
+  "tags": {
+    "name": "Mattighofen",
+    "name:ru": "Маттигхофен",
+    "place": "town",
+    "population": "5287"
+  }
+},
+{
+  "type": "node",
+  "id": 240112659,
+  "lat": 47.2935786,
+  "lon": 11.5907326,
+  "tags": {
+    "ele": "564",
+    "name": "Wattens",
+    "name:ru": "Ваттенс",
+    "place": "town",
+    "population": "7503",
+    "rank": "30",
+    "website": "https://www.wattens.com/",
+    "wikidata": "Q660935",
+    "wikipedia": "de:Wattens"
+  }
+},
+{
+  "type": "node",
+  "id": 240116186,
+  "lat": 46.7229178,
+  "lon": 14.0964965,
+  "tags": {
+    "capital": "6",
+    "ele": "554",
+    "name": "Feldkirchen",
+    "name:hu": "Feldkirchen in Kärnten",
+    "name:ru": "Фельдкирхен-ин-Кернтен",
+    "official_name": "Feldkirchen in Kärnten",
+    "place": "town",
+    "population": "14434",
+    "population:date": "2023-01-01",
+    "source:population": "wikipedia",
+    "wikidata": "Q507533",
+    "wikipedia": "de:Feldkirchen in Kärnten"
+  }
+},
+{
+  "type": "node",
+  "id": 240118548,
+  "lat": 47.0010562,
+  "lon": 12.5387487,
+  "tags": {
+    "name": "Matrei in Osttirol",
+    "name:ru": "Матрай",
+    "name:uk": "Матрай-ін-Осттіроль",
+    "place": "town",
+    "population": "2466",
+    "wikidata": "Q261697",
+    "wikipedia": "de:Matrei in Osttirol"
+  }
+},
+{
+  "type": "node",
+  "id": 240120735,
+  "lat": 46.8390583,
+  "lon": 14.8452061,
+  "tags": {
+    "capital": "6",
+    "ele": "463",
+    "name": "Wolfsberg",
+    "name:cs": "Vlčí Hora",
+    "name:hu": "Wolfsberg",
+    "name:ru": "Вольфсберг",
+    "name:sl": "Volšperk",
+    "name:uk": "Вольфсберґ",
+    "place": "town",
+    "population": "25045",
+    "wikidata": "Q487527",
+    "wikipedia": "de:Wolfsberg (Kärnten)"
+  }
+},
+{
+  "type": "node",
+  "id": 240121762,
+  "lat": 47.4302395,
+  "lon": 11.8772297,
+  "tags": {
+    "name": "Brixlegg",
+    "name:ru": "Брикслег",
+    "place": "town",
+    "population": "2840",
+    "rank": "30"
+  }
+},
+{
+  "type": "node",
+  "id": 240122078,
+  "lat": 47.6757858,
+  "lon": 15.9374085,
+  "tags": {
+    "name": "Gloggnitz",
+    "name:ru": "Глогниц",
+    "place": "town",
+    "population": "6062",
+    "website": "https://www.gloggnitz.at/",
+    "wikidata": "Q679328",
+    "wikipedia": "de:Gloggnitz"
+  }
+},
+{
+  "type": "node",
+  "id": 240123085,
+  "lat": 47.3028910,
+  "lon": 15.8340187,
+  "tags": {
+    "name": "Pöllau",
+    "place": "town",
+    "population": "1981"
+  }
+},
+{
+  "type": "node",
+  "id": 240126489,
+  "lat": 47.2335951,
+  "lon": 11.8819910,
+  "tags": {
+    "ele": "575",
+    "name": "Zell am Ziller",
+    "name:cs": "Zell nad Zillerem",
+    "name:ru": "Целль-ам-Циллер",
+    "name:uk": "Целль-ам-Ціллєр",
+    "place": "town",
+    "population": "1723",
+    "website": "https://www.gemeinde-zell.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 240127924,
+  "lat": 47.5420788,
+  "lon": 14.8857099,
+  "tags": {
+    "name": "Eisenerz",
+    "name:ru": "Айзенэрц",
+    "place": "town",
+    "population": "3742",
+    "wikidata": "Q284596",
+    "wikimedia_commons": "Category:Eisenerz",
+    "wikipedia": "de:Eisenerz (Steiermark)"
+  }
+},
+{
+  "type": "node",
+  "id": 240129102,
+  "lat": 48.1907992,
+  "lon": 14.1117625,
+  "tags": {
+    "name": "Marchtrenk",
+    "name:hu": "Marchtrenk",
+    "name:ru": "Мархтренк",
+    "place": "town",
+    "population": "12951"
+  }
+},
+{
+  "type": "node",
+  "id": 240129992,
+  "lat": 46.7661111,
+  "lon": 14.8236111,
+  "tags": {
+    "name": "Sankt Andrä",
+    "name:ru": "Санкт-Андре",
+    "note": "population stands for town, not for municipality",
+    "place": "town",
+    "population": "1299",
+    "population:date": "2011-10-31",
+    "source:population": "wikipedia"
+  }
+},
+{
+  "type": "node",
+  "id": 269366799,
+  "lat": 48.5166820,
+  "lon": 15.4905293,
+  "tags": {
+    "name": "Gföhl",
+    "name:ru": "Гфёль",
+    "place": "town",
+    "population": "1888"
+  }
+},
+{
+  "type": "node",
+  "id": 340180405,
+  "lat": 48.4108382,
+  "lon": 15.6003717,
+  "tags": {
+    "capital": "6",
+    "name": "Krems an der Donau",
+    "name:cs": "Kremže",
+    "name:hu": "Krems an der Donau",
+    "name:ka": "კრემზი დუნაიზე",
+    "name:ru": "Кремз на Дунае",
+    "name:sk": "Kremža",
+    "place": "town",
+    "population": "25500",
+    "population:date": "2025-01-01",
+    "short_name": "Krems",
+    "wikidata": "Q131266"
+  }
+},
+{
+  "type": "node",
+  "id": 343343868,
+  "lat": 46.9520636,
+  "lon": 14.4052266,
+  "tags": {
+    "name": "Friesach",
+    "name:ru": "Фризах",
+    "place": "town",
+    "population": "2238"
+  }
+},
+{
+  "type": "node",
+  "id": 443006267,
+  "lat": 48.4726010,
+  "lon": 15.6762950,
+  "tags": {
+    "description": "Auch bekannt als \"Die Weinstadt\" Österreichs",
+    "name": "Langenlois",
+    "name:ru": "Лангенлойс",
+    "name:uk": "Лангенлойс",
+    "name:zh": "朗根洛伊斯",
+    "place": "town",
+    "population": "4272",
+    "wikidata": "Q672511",
+    "wikipedia": "de:Langenlois"
+  }
+},
+{
+  "type": "node",
+  "id": 528617322,
+  "lat": 47.1703104,
+  "lon": 13.1060635,
+  "tags": {
+    "name": "Bad Hofgastein",
+    "name:hu": "Bad Hofgastein",
+    "name:ru": "Бад-Хофгастайн",
+    "place": "town",
+    "population": "6726"
+  }
+},
+{
+  "type": "node",
+  "id": 611750804,
+  "lat": 46.7037803,
+  "lon": 13.6614080,
+  "tags": {
+    "name": "Feistritz an der Drau",
+    "name:cs": "Bystřice nad Drávou",
+    "place": "town",
+    "population": "1739"
+  }
+},
+{
+  "type": "node",
+  "id": 746030027,
+  "lat": 48.2959872,
+  "lon": 16.5568452,
+  "tags": {
+    "alt_name:cs": "Německý Ogrun",
+    "alt_name:hr": "Nimški Ogrun",
+    "name": "Deutsch-Wagram",
+    "name:cs": "Deutsch-Wagram",
+    "name:de": "Deutsch-Wagram",
+    "name:en": "Deutsch-Wagram",
+    "name:hr": "Deutsch-Wagram",
+    "name:hu": "Deutsch-Wagram",
+    "name:it": "Deutsch-Wagram",
+    "name:ru": "Дойч-Ваграм",
+    "name:sk": "Nemecký Ogrún",
+    "name:sl": "Deutsch-Wagram",
+    "name:uk": "Дойч-Ваграм",
+    "old_name:-1560": "Wagram",
+    "place": "town",
+    "population": "7830"
+  }
+},
+{
+  "type": "node",
+  "id": 802050695,
+  "lat": 48.3049900,
+  "lon": 16.3237560,
+  "tags": {
+    "name": "Klosterneuburg",
+    "name:hu": "Klosterneuburg",
+    "name:ml": "ക്ലോസ്റ്റർനോയ്ബർഗ്",
+    "name:ru": "Клостернойбург",
+    "name:uk": "Клостернойбурґ",
+    "place": "town",
+    "population": "26816",
+    "population:date": "2017-01-01",
+    "population:source": "Statistik Austria",
+    "wikidata": "Q487522",
+    "wikipedia": "de:Klosterneuburg"
+  }
+},
+{
+  "type": "node",
+  "id": 826109863,
+  "lat": 47.4266166,
+  "lon": 12.8481048,
+  "tags": {
+    "ele": "748",
+    "name": "Saalfelden am Steinernen Meer",
+    "name:de": "Saalfelden am Steinernen Meer",
+    "name:ru": "Зальфельден-ам-Штайнернен-Мер",
+    "place": "town",
+    "population": "17299",
+    "short_name": "Saalfelden",
+    "wikidata": "Q183228",
+    "wikipedia": "de:Saalfelden am Steinernen Meer"
+  }
+},
+{
+  "type": "node",
+  "id": 1014320988,
+  "lat": 47.9399350,
+  "lon": 12.9461482,
+  "tags": {
+    "name": "Oberndorf bei Salzburg",
+    "name:de": "Oberndorf bei Salzburg",
+    "name:ru": "Оберндорф-бай-Зальцбург",
+    "old_name": "Marktgemeinde Oberndorf",
+    "place": "town",
+    "population": "5578"
+  }
+},
+{
+  "type": "node",
+  "id": 1090062682,
+  "lat": 47.4463585,
+  "lon": 12.3911473,
+  "tags": {
+    "capital": "6",
+    "name": "Kitzbühel",
+    "name:cs": "Kobylí",
+    "name:ja": "キッツビュール",
+    "name:ru": "Кицбюэль",
+    "name:zh": "基茨比尔",
+    "place": "town",
+    "population": "8574",
+    "rank": "30",
+    "wikidata": "Q264665",
+    "wikipedia": "de:Kitzbühel"
+  }
+},
+{
+  "type": "node",
+  "id": 1143614364,
+  "lat": 47.0726198,
+  "lon": 15.1262903,
+  "tags": {
+    "name": "Bärnbach",
+    "place": "town",
+    "population": "3650"
+  }
+},
+{
+  "type": "node",
+  "id": 1303859047,
+  "lat": 47.4168029,
+  "lon": 13.2170933,
+  "tags": {
+    "name": "Bischofshofen",
+    "name:hu": "Bischofshofen",
+    "name:ru": "Бишофсхофен",
+    "place": "town",
+    "population": "7134"
+  }
+},
+{
+  "type": "node",
+  "id": 1612589807,
+  "lat": 47.2816648,
+  "lon": 11.5075337,
+  "tags": {
+    "ele": "574",
+    "name": "Hall in Tirol",
+    "name:hu": "Hall in Tirol",
+    "name:ja": "ハル・イン・チロル",
+    "name:ko": "할인티롤",
+    "name:ru": "Халль-ин-Тироль",
+    "name:uk": "Галь-ін-Тіроль",
+    "name:zh": "蒂羅爾州霍爾",
+    "place": "town",
+    "population": "14418",
+    "rank": "20",
+    "source": "GeoImage.at;Wikipedia",
+    "wikidata": "Q302745",
+    "wikipedia": "de:Hall in Tirol"
+  }
+},
+{
+  "type": "node",
+  "id": 1685894040,
+  "lat": 47.6821521,
+  "lon": 13.0956313,
+  "tags": {
+    "capital": "6",
+    "name": "Hallein",
+    "name:de": "Hallein",
+    "name:ru": "Халлайн",
+    "name:uk": "Галайн",
+    "place": "town",
+    "population": "20768"
+  }
+},
+{
+  "type": "node",
+  "id": 1898614152,
+  "lat": 47.5025779,
+  "lon": 9.7472924,
+  "tags": {
+    "capital": "4",
+    "ele": "427",
+    "name": "Bregenz",
+    "name:be": "Брэгенц",
+    "name:be-tarask": "Брэгенц",
+    "name:cs": "Břežnice",
+    "name:de": "Bregenz",
+    "name:fr": "Brégence",
+    "name:hu": "Bregenz",
+    "name:ko": "브레겐츠",
+    "name:pl": "Bregencja",
+    "name:ru": "Брегенц",
+    "name:uk": "Бреґенц",
+    "name:zh": "布雷根茨",
+    "note": "capital=4 da Landeshauptstadt",
+    "place": "town",
+    "population": "29620",
+    "population:date": "2023-01-01",
+    "source": "wikipedia.de",
+    "source:population": "Statistik Austria",
+    "website": "https://www.bregenz.at/",
+    "wikidata": "Q1737",
+    "wikipedia": "de:Bregenz"
+  }
+},
+{
+  "type": "node",
+  "id": 1993122158,
+  "lat": 46.5901133,
+  "lon": 14.7989915,
+  "tags": {
+    "name": "Bleiburg/Pliberk",
+    "name:de": "Bleiburg",
+    "name:ru": "Блайбург",
+    "name:sl": "Pliberk",
+    "place": "town",
+    "population": "1339",
+    "wikidata": "Q871356",
+    "wikipedia": "de:Bleiburg"
+  }
+},
+{
+  "type": "node",
+  "id": 2015063027,
+  "lat": 47.3449529,
+  "lon": 11.7084253,
+  "tags": {
+    "capital": "6",
+    "country": "AT",
+    "name": "Schwaz",
+    "name:ko": "한국어",
+    "name:ru": "Швац",
+    "name:zh": "施瓦茨",
+    "place": "town",
+    "population": "13058",
+    "rank": "20",
+    "website": "https://www.schwaz.at/",
+    "wikidata": "Q583485",
+    "wikipedia": "de:Schwaz"
+  }
+},
+{
+  "type": "node",
+  "id": 2904894031,
+  "lat": 48.0114566,
+  "lon": 13.7210848,
+  "tags": {
+    "name": "Attnang-Puchheim",
+    "name:ru": "Атнанг-Пуххайм",
+    "note": "wiki.openstreetmap.org/wiki/Austria#Besonderheiten_und_Standards_beim_Kartografieren .Ortsname laut Ortstafeln \"Attnang-Pucheim\" (wie die Gesamtgemeinde). Auch wenn es laut BEV-Adressregister keine gleichnamige Ortschaft gibt",
+    "place": "town",
+    "population": "8839",
+    "wikidata": "Q261216",
+    "wikipedia": "de:Attnang-Puchheim"
+  }
+},
+{
+  "type": "node",
+  "id": 3653282655,
+  "lat": 46.9527822,
+  "lon": 15.8886091,
+  "tags": {
+    "alt_name:hr": "Polje",
+    "capital": "6",
+    "name": "Feldbach",
+    "name:de": "Feldbach",
+    "name:en": "Feldbach",
+    "name:hu": "Földvár",
+    "name:ru": "Фельдбах",
+    "name:sl": "Vrbna",
+    "place": "town",
+    "population": "13369",
+    "population:date": "2018-01-01",
+    "wikidata": "Q672717",
+    "wikipedia": "en:Feldbach, Styria"
+  }
+},
+{
+  "type": "node",
+  "id": 3895747275,
+  "lat": 48.5723052,
+  "lon": 13.9908156,
+  "tags": {
+    "alt_name": "Rohrbach-Berg",
+    "capital": "6",
+    "name": "Rohrbach",
+    "place": "town",
+    "population": "5075",
+    "source:name": "Ortstafeln gemäß https://wiki.openstreetmap.org/wiki/Austria#St%C3%A4dte-_und_Ortsnamen. \"Rohrbach-Berg\" heißt die Gesamtgemeinde",
+    "wikidata": "Q19848342",
+    "wikipedia": "de:Rohrbach-Berg"
+  }
+},
+{
+  "type": "node",
+  "id": 8986762228,
+  "lat": 47.6094985,
+  "lon": 13.7835784,
+  "tags": {
+    "ele": "659",
+    "name": "Bad Aussee",
+    "name:hu": "Bad Aussee",
+    "name:ru": "Бад-Аусзе",
+    "place": "town",
+    "population": "4998",
+    "population:date": "2026-01-01",
+    "source:population": "wikipedia",
+    "wikidata": "Q251065",
+    "wikipedia": "de:Bad Aussee"
+  }
+},
+{
+  "type": "node",
+  "id": 9260667460,
+  "lat": 47.2147399,
+  "lon": 14.8297233,
+  "tags": {
+    "elevation": "645",
+    "name": "Knittelfeld",
+    "place": "town",
+    "population": "12574",
+    "website": "https://knittelfeld.gv.at/",
+    "wikipedia": "de:Knittelfeld"
+  }
+}
 
   ]
 }

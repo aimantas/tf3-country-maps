@@ -5,7 +5,16 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 CFG = json.loads((ROOT / 'configs' / f'{sys.argv[1]}.json').read_text())
 SH = ROOT / 'shots' / CFG['id']; OUT = ROOT / 'art' / CFG['id']; OUT.mkdir(parents=True, exist_ok=True)
-RELIEF = ROOT / 'output' / CFG['id'] / 'relief.png'
+RELIEF = ROOT / 'output' / CFG['id'] / 'relief-crop.png'
+def _crop_relief():  # square crop around the land, with a sea margin
+    from PIL import Image, ImageChops
+    im = Image.open(ROOT / 'output' / CFG['id'] / 'relief.png').convert('RGB')
+    sea = Image.new('RGB', im.size, (69, 124, 150))
+    box = ImageChops.difference(im, sea).convert('L').point(lambda v: 255 if v > 24 else 0).getbbox()
+    x0, y0, x1, y1 = box; cx, cy = (x0 + x1) / 2, (y0 + y1) / 2; half = max(x1 - x0, y1 - y0) / 2 * 1.12
+    half = min(half, cx, cy, im.size[0] - cx, im.size[1] - cy)
+    im.crop((int(cx - half), int(cy - half), int(cx + half), int(cy + half))).resize((1500, 1500)).save(RELIEF)
+_crop_relief()
 LOGO = ROOT / 'assets' / 'tf3-logo.png'
 FONTS = ROOT / 'assets' / 'fonts'
 CHROME = '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'
@@ -41,8 +50,12 @@ def page(name, body, bg=None, pos='center', shade=None, extra=''):
       if r.returncode == 0 and out.exists(): break
       import time; time.sleep(3)
     else: raise SystemExit('chrome failed for ' + name)
-c1, c2, c3 = CFG['flag']
-FLAG = f'<div style="width:190px;height:114px;border-radius:12px;overflow:hidden;box-shadow:0 14px 34px rgba(0,0,0,.55);border:2px solid rgba(243,240,232,.5);display:flex;flex-direction:column"><div style="flex:1;background:{c1}"></div><div style="flex:1;background:{c2}"></div><div style="flex:1;background:{c3}"></div></div>'
+if isinstance(CFG['flag'], str) and CFG['flag'].startswith('cross:'):
+    col = CFG['flag'].split(':')[1]
+    FLAG = f'<div style="width:114px;height:114px;border-radius:12px;overflow:hidden;position:relative;background:{col};box-shadow:0 14px 34px rgba(0,0,0,.55);border:2px solid rgba(243,240,232,.5)"><div style="position:absolute;left:46px;top:20px;width:22px;height:74px;background:#fff"></div><div style="position:absolute;left:20px;top:46px;width:74px;height:22px;background:#fff"></div></div>'
+else:
+    c1, c2, c3 = CFG['flag']
+    FLAG = f'<div style="width:190px;height:114px;border-radius:12px;overflow:hidden;box-shadow:0 14px 34px rgba(0,0,0,.55);border:2px solid rgba(243,240,232,.5);display:flex;flex-direction:column"><div style="flex:1;background:{c1}"></div><div style="flex:1;background:{c2}"></div><div style="flex:1;background:{c3}"></div></div>'
 chips = ''.join(f'<span class="chip">{x}</span>' for x in CFG['chips'])
 page('0-cover', f'''<div style="position:absolute;right:36px;top:40px;width:1000px;height:1000px;background:url('file://{RELIEF}') center/cover;border-radius:50%;box-shadow:0 0 0 3px rgba(243,240,232,.25),0 60px 120px -20px rgba(0,0,0,.7)"></div>
 <div class="left"><div style="display:flex;align-items:center;gap:28px"><img src="file://{LOGO}" style="height:128px"><span class="eyebrow">Map</span></div>

@@ -1,0 +1,87 @@
+{
+  "zoom": 9,
+  "min_game_spacing": 450,
+  "min_capacity": 25,
+  "major_labels": 12,
+  "id": "netherlands",
+  "iso": "NLD",
+  "iso2": "NL",
+  "title": "Nederland",
+  "english": "the Netherlands",
+  "stem": "Nederland",
+  "mod_id": "aimantas_nederland_island",
+  "crs": 3035,
+  "real_m": 360000,
+  "towns": 45,
+  "pop_divisor": 2000,
+  "height_scale": 250,
+  "clip_bbox": [
+    -12,
+    35,
+    35,
+    62
+  ],
+  "rivers": [
+    "Rhine",
+    "Waal",
+    "Lek",
+    "Maas",
+    "IJssel",
+    "Nederrijn"
+  ],
+  "big_rivers": [
+    "Rhine",
+    "Waal",
+    "Maas"
+  ],
+  "lakes": [
+    "IJsselmeer"
+  ],
+  "flag": [
+    "#AE1C28",
+    "#FFFFFF",
+    "#21468B"
+  ],
+  "rivers_text": "the Rhine, Waal and Maas",
+  "name_in_game": "Nederland: Netherlands Map",
+  "summary": "The Netherlands as a Transport Fever 3 island: real terrain, 45 real towns.",
+  "names_set": "Dutch",
+  "min_h": -1,
+  "max_h": 80,
+  "drop_industries": [
+    [
+      2477.03,
+      -3872.33
+    ]
+  ],
+  "tagline": "The whole country as a playable island. Flat land, big rivers, 45 real towns.",
+  "chips": [
+    "45 towns",
+    "33 industries",
+    "Island map"
+  ],
+  "gallery": [
+    {
+      "file": "overview",
+      "kicker": "The delta",
+      "title": "Rivers and the IJsselmeer",
+      "desc": "The Rhine, Waal and Maas cross the lowlands.",
+      "pos": "center 45%"
+    },
+    {
+      "file": "amsterdam",
+      "kicker": "Amsterdam",
+      "title": "The biggest town on the map",
+      "desc": "On the edge of the IJsselmeer.",
+      "pos": "center 45%"
+    },
+    {
+      "file": "denhaag",
+      "kicker": "Den Haag",
+      "title": "Right on the coast",
+      "desc": "Beach and North Sea on one side, farms on the other.",
+      "pos": "center 45%"
+    }
+  ],
+  "cover_bg": "amsterdam"
+}

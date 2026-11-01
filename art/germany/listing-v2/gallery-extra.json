@@ -1,0 +1,98 @@
+{
+ "id": "germany",
+ "iso": "DEU",
+ "iso2": "DE",
+ "title": "Deutschland",
+ "english": "Germany",
+ "stem": "Deutschland",
+ "mod_id": "aimantas_deutschland_island",
+ "crs": 3035,
+ "real_m": 920000,
+ "zoom": 9,
+ "towns": 60,
+ "min_game_spacing": 450,
+ "pop_divisor": 5000,
+ "min_capacity": 25,
+ "height_scale": 650,
+ "rivers": [
+  "Rhein",
+  "Rhine",
+  "Elbe",
+  "Donau",
+  "Danube",
+  "Main",
+  "Weser",
+  "Oder",
+  "Mosel",
+  "Ems",
+  "Inn",
+  "Saale",
+  "Havel",
+  "Neckar"
+ ],
+ "big_rivers": [
+  "Rhein",
+  "Rhine",
+  "Elbe",
+  "Donau",
+  "Danube",
+  "Oder"
+ ],
+ "lakes": [
+  "Bodensee",
+  "Müritz"
+ ],
+ "flag": [
+  "#000000",
+  "#DD0000",
+  "#FFCE00"
+ ],
+ "major_labels": 14,
+ "drop_industries": [
+  [
+   -1426.2,
+   7108.59
+  ]
+ ],
+ "tagline": "The whole country as a playable island. Real terrain, real rivers, 60 real towns.",
+ "chips": [
+  "60 towns",
+  "35 industries",
+  "Island map"
+ ],
+ "gallery": [
+  {
+   "file": "muenchen",
+   "kicker": "München",
+   "title": "The big town in the south",
+   "desc": "München, with Augsburg to the west.",
+   "pos": "center 50%"
+  },
+  {
+   "file": "dresden",
+   "kicker": "Dresden",
+   "title": "In the Elbe valley",
+   "desc": "The river cuts through rocky hills here.",
+   "pos": "center 50%"
+  },
+  {
+   "file": "stuttgart",
+   "kicker": "Stuttgart",
+   "title": "The hilly southwest",
+   "desc": "Stuttgart, Heilbronn, Pforzheim and Karlsruhe on rough ground.",
+   "pos": "center 50%"
+  },
+  {
+   "file": "coast-north",
+   "kicker": "Kiel and Flensburg",
+   "title": "On the Baltic coast",
+   "desc": "Flensburg and Kiel, at the top of the map.",
+   "pos": "center 50%"
+  }
+ ],
+ "cover_bg": "berlin",
+ "rivers_text": "the Rhine, Elbe, Danube and Weser",
+ "name_in_game": "Deutschland: Germany Island Map",
+ "summary": "Germany as a Transport Fever 3 island: real terrain, 60 real towns.",
+ "names_set": "German"
+}

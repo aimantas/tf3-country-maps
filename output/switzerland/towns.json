@@ -1,0 +1,578 @@
+[
+  {
+    "name": "Zürich",
+    "osm_id": 240025182,
+    "lon": 8.5410422,
+    "lat": 47.3744489,
+    "x": 1212.0,
+    "y": 2712.0,
+    "game_offset_m": 0.0,
+    "population_reference": 443037,
+    "population_date": "2022-12-31",
+    "starting_capacities": [
+      295,
+      295,
+      295
+    ]
+  },
+  {
+    "name": "Genève",
+    "osm_id": 33622904,
+    "lon": 6.1466014,
+    "lat": 46.2017559,
+    "x": -6852.0,
+    "y": -2636.0,
+    "game_offset_m": 22.6,
+    "population_reference": 191557,
+    "population_date": "2013",
+    "starting_capacities": [
+      128,
+      128,
+      128
+    ]
+  },
+  {
+    "name": "Basel",
+    "osm_id": 27284711,
+    "lon": 7.5878261,
+    "lat": 47.5581077,
+    "x": -1880.0,
+    "y": 3656.0,
+    "game_offset_m": 22.6,
+    "population_reference": 174491,
+    "population_date": "2015",
+    "starting_capacities": [
+      116,
+      116,
+      116
+    ]
+  },
+  {
+    "name": "Lausanne",
+    "osm_id": 35295150,
+    "lon": 6.6327025,
+    "lat": 46.5218269,
+    "x": -5164.0,
+    "y": -1152.0,
+    "game_offset_m": 22.6,
+    "population_reference": 133521,
+    "population_date": "2014",
+    "starting_capacities": [
+      89,
+      89,
+      89
+    ]
+  },
+  {
+    "name": "Bern",
+    "osm_id": 18477455,
+    "lon": 7.4521749,
+    "lat": 46.9484742,
+    "x": -2404.0,
+    "y": 768.0,
+    "game_offset_m": 0.0,
+    "population_reference": 128848,
+    "population_date": "unknown",
+    "starting_capacities": [
+      86,
+      86,
+      86
+    ]
+  },
+  {
+    "name": "Luzern",
+    "osm_id": 560719199,
+    "lon": 8.3058123,
+    "lat": 47.052144,
+    "x": 412.0,
+    "y": 1184.0,
+    "game_offset_m": 0.0,
+    "population_reference": 86234,
+    "population_date": "2024-12-31",
+    "starting_capacities": [
+      57,
+      57,
+      57
+    ]
+  },
+  {
+    "name": "St. Gallen",
+    "osm_id": 240062840,
+    "lon": 9.3762397,
+    "lat": 47.425618,
+    "x": 3936.0,
+    "y": 2916.0,
+    "game_offset_m": 0.0,
+    "population_reference": 78213,
+    "population_date": "2023",
+    "starting_capacities": [
+      52,
+      52,
+      52
+    ]
+  },
+  {
+    "name": "Lugano",
+    "osm_id": 1376769426,
+    "lon": 8.9512275,
+    "lat": 46.0038007,
+    "x": 2460.0,
+    "y": -3876.0,
+    "game_offset_m": 0.0,
+    "population_reference": 67000,
+    "population_date": "2020",
+    "starting_capacities": [
+      45,
+      45,
+      45
+    ]
+  },
+  {
+    "name": "Biel/Bienne",
+    "osm_id": 240097197,
+    "lon": 7.2439029,
+    "lat": 47.1402077,
+    "x": -3052.0,
+    "y": 1708.0,
+    "game_offset_m": 0.0,
+    "population_reference": 56378,
+    "population_date": "unknown",
+    "starting_capacities": [
+      38,
+      38,
+      38
+    ]
+  },
+  {
+    "name": "Thun",
+    "osm_id": 178582316,
+    "lon": 7.628086,
+    "lat": 46.7582827,
+    "x": -1852.0,
+    "y": -164.0,
+    "game_offset_m": 0.0,
+    "population_reference": 43905,
+    "population_date": "2023-12-31",
+    "starting_capacities": [
+      29,
+      29,
+      29
+    ]
+  },
+  {
+    "name": "Bellinzona",
+    "osm_id": 1376769424,
+    "lon": 9.0205888,
+    "lat": 46.1920538,
+    "x": 2700.0,
+    "y": -2992.0,
+    "game_offset_m": 16.0,
+    "population_reference": 43785,
+    "population_date": "2021-12-31",
+    "starting_capacities": [
+      29,
+      29,
+      29
+    ]
+  },
+  {
+    "name": "La Chaux-de-Fonds",
+    "osm_id": 240041404,
+    "lon": 6.8325778,
+    "lat": 47.1031321,
+    "x": -4408.0,
+    "y": 1584.0,
+    "game_offset_m": 0.0,
+    "population_reference": 39027,
+    "population_date": "unknown",
+    "starting_capacities": [
+      26,
+      26,
+      26
+    ]
+  },
+  {
+    "name": "Fribourg",
+    "osm_id": 1685926271,
+    "lon": 7.1612669,
+    "lat": 46.8055656,
+    "x": -3384.0,
+    "y": 116.0,
+    "game_offset_m": 0.0,
+    "population_reference": 37485,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Chur",
+    "osm_id": 1577255384,
+    "lon": 9.5264904,
+    "lat": 46.854747,
+    "x": 4408.0,
+    "y": 180.0,
+    "game_offset_m": 0.0,
+    "population_reference": 37082,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Schaffhausen",
+    "osm_id": 29011774,
+    "lon": 8.634513,
+    "lat": 47.6960491,
+    "x": 1480.0,
+    "y": 4260.0,
+    "game_offset_m": 66.0,
+    "population_reference": 35927,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Sion",
+    "osm_id": 197501928,
+    "lon": 7.3588795,
+    "lat": 46.2311749,
+    "x": -2796.0,
+    "y": -2688.0,
+    "game_offset_m": 45.3,
+    "population_reference": 34599,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Neuchâtel",
+    "osm_id": 3019197852,
+    "lon": 6.9292641,
+    "lat": 46.9895828,
+    "x": -4112.0,
+    "y": 1028.0,
+    "game_offset_m": 0.0,
+    "population_reference": 33641,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Uster",
+    "osm_id": 1378906317,
+    "lon": 8.7179221,
+    "lat": 47.3512065,
+    "x": 1788.0,
+    "y": 2588.0,
+    "game_offset_m": 0.0,
+    "population_reference": 33097,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Yverdon-les-Bains",
+    "osm_id": 240098122,
+    "lon": 6.6409158,
+    "lat": 46.7785711,
+    "x": -5100.0,
+    "y": 60.0,
+    "game_offset_m": 0.0,
+    "population_reference": 29406,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Zug",
+    "osm_id": 60404417,
+    "lon": 8.5173652,
+    "lat": 47.1679898,
+    "x": 1116.0,
+    "y": 1724.0,
+    "game_offset_m": 0.0,
+    "population_reference": 29251,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Dietikon",
+    "osm_id": 296480705,
+    "lon": 8.4030765,
+    "lat": 47.4050746,
+    "x": 764.0,
+    "y": 2868.0,
+    "game_offset_m": 0.0,
+    "population_reference": 27904,
+    "population_date": "2022-01-01",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Bulle",
+    "osm_id": 1425042341,
+    "lon": 7.0581152,
+    "lat": 46.6190969,
+    "x": -3756.0,
+    "y": -760.0,
+    "game_offset_m": 0.0,
+    "population_reference": 27101,
+    "population_date": "2024-12-31",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Frauenfeld",
+    "osm_id": 1599381299,
+    "lon": 8.8963347,
+    "lat": 47.5561915,
+    "x": 2380.0,
+    "y": 3560.0,
+    "game_offset_m": 0.0,
+    "population_reference": 27099,
+    "population_date": "2024-12-31",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Rapperswil",
+    "osm_id": 240062727,
+    "lon": 8.8164042,
+    "lat": 47.2266532,
+    "x": 2096.0,
+    "y": 1988.0,
+    "game_offset_m": 0.0,
+    "population_reference": 26354,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Montreux",
+    "osm_id": 197507412,
+    "lon": 6.9129921,
+    "lat": 46.4310831,
+    "x": -4192.0,
+    "y": -1608.0,
+    "game_offset_m": 86.2,
+    "population_reference": 26208,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Wil SG",
+    "osm_id": 240109752,
+    "lon": 9.0415478,
+    "lat": 47.465266,
+    "x": 2848.0,
+    "y": 3120.0,
+    "game_offset_m": 0.0,
+    "population_reference": 24980,
+    "population_date": "2023-12-31",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Wädenswil",
+    "osm_id": 30351172,
+    "lon": 8.6701365,
+    "lat": 47.2278988,
+    "x": 1620.0,
+    "y": 2000.0,
+    "game_offset_m": 0.0,
+    "population_reference": 24341,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Kreuzlingen",
+    "osm_id": 30606296,
+    "lon": 9.1725621,
+    "lat": 47.6464362,
+    "x": 3284.0,
+    "y": 3980.0,
+    "game_offset_m": 0.0,
+    "population_reference": 23550,
+    "population_date": "2025-12-31",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Martigny",
+    "osm_id": 158220182,
+    "lon": 7.0727354,
+    "lat": 46.103115,
+    "x": -3804.0,
+    "y": -3232.0,
+    "game_offset_m": 0.0,
+    "population_reference": 21759,
+    "population_date": "2023-12-31",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Aarau",
+    "osm_id": 29886774,
+    "lon": 8.0444448,
+    "lat": 47.3927146,
+    "x": -404.0,
+    "y": 2836.0,
+    "game_offset_m": 0.0,
+    "population_reference": 21191,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Nyon",
+    "osm_id": 240039598,
+    "lon": 6.2402791,
+    "lat": 46.3820585,
+    "x": -6528.0,
+    "y": -1756.0,
+    "game_offset_m": 22.6,
+    "population_reference": 19738,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Bülach",
+    "osm_id": 1378978126,
+    "lon": 8.5407118,
+    "lat": 47.5172321,
+    "x": 1224.0,
+    "y": 3396.0,
+    "game_offset_m": 0.0,
+    "population_reference": 19342,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Monthey",
+    "osm_id": 197504797,
+    "lon": 6.9478263,
+    "lat": 46.252844,
+    "x": -4192.0,
+    "y": -2500.0,
+    "game_offset_m": 0.0,
+    "population_reference": 18178,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Wohlen",
+    "osm_id": 240101062,
+    "lon": 8.2786906,
+    "lat": 47.3504945,
+    "x": 356.0,
+    "y": 2616.0,
+    "game_offset_m": 0.0,
+    "population_reference": 17816,
+    "population_date": "2024-12-31",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Burgdorf",
+    "osm_id": 18477010,
+    "lon": 7.6237466,
+    "lat": 47.0571316,
+    "x": -1824.0,
+    "y": 1268.0,
+    "game_offset_m": 0.0,
+    "population_reference": 17292,
+    "population_date": "2024-12-31",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Olten",
+    "osm_id": 1388479447,
+    "lon": 7.903787,
+    "lat": 47.3496571,
+    "x": -868.0,
+    "y": 2640.0,
+    "game_offset_m": 0.0,
+    "population_reference": 17280,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  }
+]

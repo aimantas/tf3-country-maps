@@ -1,0 +1,74 @@
+{
+  "zoom": 9,
+  "min_game_spacing": 450,
+  "min_capacity": 25,
+  "major_labels": 12,
+  "id": "switzerland",
+  "iso": "CHE",
+  "iso2": "CH",
+  "title": "Schweiz",
+  "english": "Switzerland",
+  "stem": "Schweiz",
+  "mod_id": "aimantas_schweiz_island",
+  "crs": 3035,
+  "real_m": 380000,
+  "towns": 36,
+  "pop_divisor": 1500,
+  "height_scale": 2500,
+  "rivers": [
+    "Rhein",
+    "Rhin",
+    "Rhône",
+    "Rhne",
+    "Inn",
+    "Ticino",
+    "Doubs"
+  ],
+  "big_rivers": [
+    "Rhein",
+    "Rhin",
+    "Rhône",
+    "Rhne"
+  ],
+  "lakes": [
+    "Bodensee",
+    "Lake Geneva"
+  ],
+  "flag": "cross:#DA291C",
+  "rivers_text": "the Rhine, Rhône and Inn",
+  "name_in_game": "Schweiz: Switzerland Island Map",
+  "summary": "Switzerland as a Transport Fever 3 island: real terrain, 36 real towns.",
+  "names_set": "German",
+  "min_h": -1,
+  "max_h": 500,
+  "tagline": "The whole country as a playable island. Real Alps, real lakes, 36 real towns.",
+  "chips": [
+    "36 towns",
+    "36 industries",
+    "Island map"
+  ],
+  "gallery": [
+    {
+      "file": "alps",
+      "kicker": "The Alps",
+      "title": "Real mountains",
+      "desc": "The central ranges rise high above the valleys.",
+      "pos": "center 45%"
+    },
+    {
+      "file": "zuerich",
+      "kicker": "Zürich",
+      "title": "The biggest town on the map",
+      "desc": "Ahead of Genève, Basel and Lausanne.",
+      "pos": "center 45%"
+    },
+    {
+      "file": "luzern",
+      "kicker": "Luzern",
+      "title": "Cliffs above the town",
+      "desc": "Central Switzerland, where the land climbs fast.",
+      "pos": "center 45%"
+    }
+  ],
+  "cover_bg": "alps"
+}

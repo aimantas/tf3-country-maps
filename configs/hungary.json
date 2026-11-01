@@ -1,0 +1,73 @@
+{
+  "zoom": 9,
+  "min_game_spacing": 450,
+  "min_capacity": 25,
+  "major_labels": 12,
+  "id": "hungary",
+  "iso": "HUN",
+  "iso2": "HU",
+  "title": "Magyarország",
+  "english": "Hungary",
+  "stem": "Magyarorszag",
+  "mod_id": "aimantas_magyarorszag_island",
+  "crs": 3035,
+  "real_m": 580000,
+  "towns": 40,
+  "pop_divisor": 3500,
+  "height_scale": 700,
+  "rivers": [
+    "Danube",
+    "Tisa",
+    "Mures",
+    "Mur",
+    "Soroksari Duna"
+  ],
+  "big_rivers": [
+    "Danube",
+    "Tisa"
+  ],
+  "lakes": [
+    "Lake Balaton"
+  ],
+  "flag": [
+    "#CE2939",
+    "#FFFFFF",
+    "#477050"
+  ],
+  "rivers_text": "the Danube, Tisza and Lake Balaton",
+  "name_in_game": "Magyarország: Hungary Island Map",
+  "summary": "Hungary as a Transport Fever 3 island: real terrain, 40 real towns.",
+  "names_set": "European",
+  "min_h": -1,
+  "max_h": 220,
+  "tagline": "The whole country as a playable island. The Danube, Lake Balaton, 40 real towns.",
+  "chips": [
+    "40 towns",
+    "36 industries",
+    "Island map"
+  ],
+  "gallery": [
+    {
+      "file": "overview",
+      "kicker": "The Danube",
+      "title": "Down the middle",
+      "desc": "With Lake Balaton on the left.",
+      "pos": "center 45%"
+    },
+    {
+      "file": "budapest",
+      "kicker": "Budapest",
+      "title": "The biggest town on the map",
+      "desc": "On both banks of the Danube.",
+      "pos": "center 45%"
+    },
+    {
+      "file": "debrecen",
+      "kicker": "Debrecen",
+      "title": "The Great Plain",
+      "desc": "Open farmland in the east.",
+      "pos": "center 45%"
+    }
+  ],
+  "cover_bg": "overview"
+}

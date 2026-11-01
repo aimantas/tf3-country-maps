@@ -17,7 +17,7 @@ f = OUT / f"{CFG['stem']}_4097_playable.png"
 w, h, depth, color = struct.unpack('>IIBB', f.read_bytes()[16:26])
 assert (w, h, depth, color) == (4097, 4097, 16, 0), (w, h, depth, color)
 a = np.asarray(Image.open(f)) / 65535 * (m['height_import_max'] - m['height_import_min']) + m['height_import_min']
-assert np.ptp(a) > 100 and not np.isnan(a).any()
+assert np.ptp(a) > 30 and not np.isnan(a).any()
 west, south, east, north = m['bounds']
 proj = int(m['crs'].split(':')[1])
 border = transform(Transformer.from_crs(4326, proj, always_xy=True).transform, shape(json.loads((OUT / 'border.geojson').read_text())['geometry']))
