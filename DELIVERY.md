@@ -18,3 +18,20 @@ Uploaded from the game's Mod Hub under the mod.io account "aimantas", Set Public
 | Nederland: Netherlands Map | 6495722 | https://mod.io/g/transportfever3/m/nederland-netherlands-map | 45 / 33 (one refused farm dropped) | -1 to 80 |
 
 Verified in the live game before upload: town and industry counts as above, terrain read back equal to the heightmap. Release builds: no eim_ IDs, no .sav, identity scan passed. Heights were chosen with the owner (Alps about 500 m in the game, Netherlands flat).
+
+## Ready-to-play savegames, 2026-11-01
+
+Built in the game with every mod disabled (Disable All Mods in the new-map Mods tab; the AI MCP Bridge and the pre-order pack were off), then saved as maps and shared with the game's own Share button. Each saved map lists 0 mods; the decompressed .sav has no bridge, eim_ or pre-order references. Tag: Savegame. Public.
+
+| Map | mod.io ID | Page |
+|---|---|---|
+| Deutschland | 6496424 | deutschland-ready-to-play |
+| Schweiz | 6496437 | schweiz-ready-to-play |
+| Osterreich | 6496455 | osterreich-ready-to-play |
+| Magyarorszag | 6496465 | magyarorszag-ready-to-play |
+| Nederland | 6496475 | nederland-ready-to-play |
+| Lietuva | 6496481 | lietuva-ready-to-play |
+
+Pages are at https://mod.io/g/transportfever3/m/<page>. Each save page links its map kit and both articles; each map kit page links its save. Covers: `scripts/make_listing_v2.py <id> save` (Lithuania cover drawn with PIL on the older circle cover).
+
+Limits: all six start 1900, Temperate, Very Large. Names: German for Germany, Switzerland and Austria; Dutch for the Netherlands; European for Hungary and Lithuania. The saves still embed the Steam account id and the default company name, as every Transport Fever 3 save does. Deutschland_start (6496402, an earlier test made with the bridge enabled) lists the AI MCP Bridge in its mod list and is not one of these.
